@@ -51,8 +51,6 @@ Forge 47.3.0+（建议使用最新版本的forge（模组构建时的47.3.33）�
 ## 🍵 About This Mod
 **Lush Scented Paradise** brings vibrant floral life and sophisticated beverage crafting to Minecraft! This mod adds over **70 unique drinks** including teas, floral infusions, and magical brews, transforming your survival experience into a serene gardening adventure.
 
-[![CurseForge](https://cf.way2much.no/shortcuts/your-project-id?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/lush-scented-paradise)
-[![GitHub release](https://img.shields.io/github/v/release/roylinglrl/LushScentedParadise?color=00AA00&logo=github&label=Steep%20Now)](https://github.com/roylinglrl/LushScentedParadise/releases)
 
 ## ✨ Key Features
 ### 🌸 **Botanical Wonders**
