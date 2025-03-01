@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "lushscentedparadise:dried_marigold"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:golden_soup"
+  }
+}

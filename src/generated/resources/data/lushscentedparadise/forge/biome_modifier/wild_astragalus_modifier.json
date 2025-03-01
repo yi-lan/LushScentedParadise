@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:snowy_plains",
+  "features": "lushscentedparadise:wild_astragalus",
+  "step": "vegetal_decoration"
+}

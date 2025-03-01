@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "lushscentedparadise:dried_safflower"
+    },
+    {
+      "item": "lushscentedparadise:dried_ginger"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:lava_special_drink"
+  }
+}

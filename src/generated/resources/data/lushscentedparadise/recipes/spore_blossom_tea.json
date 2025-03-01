@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:spore_blossom"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:spore_blossom_tea"
+  }
+}

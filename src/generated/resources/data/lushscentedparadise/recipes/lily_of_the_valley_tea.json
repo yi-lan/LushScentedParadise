@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 100,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_lily_of_the_valley"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:lily_of_the_valley_tea"
+  }
+}

@@ -1,0 +1,35 @@
+[013月2025 01:51:06.296] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\14795\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.3.33, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, lushscentedparadise, --all, --output, D:\Desktop\mod\花扩展\src\generated\resources, --existing, D:\Desktop\mod\花扩展\src\main\resources]
+[013月2025 01:51:06.299] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by JetBrains s.r.o.; OS Windows 10 arch amd64 version 10.0
+[013月2025 01:51:06.354] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[013月2025 01:51:06.379] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/14795/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[013月2025 01:51:06.541] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14795\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.33\29591758414c084b41bbd6808bf30309b149da4d\javafmllanguage-1.20.1-47.3.33.jar is missing mods.toml file
+[013月2025 01:51:06.542] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14795\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.33\31f826407e5bab62abe1130d8d369d7d45e7ce3\lowcodelanguage-1.20.1-47.3.33.jar is missing mods.toml file
+[013月2025 01:51:06.544] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14795\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.33\fb2db487fa47ae1cdcad118267d714f75569ffc7\mclanguage-1.20.1-47.3.33.jar is missing mods.toml file
+[013月2025 01:51:06.546] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\14795\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.33\2b6f448126f68c8bbc04b942b3fe7aafb12e22c0\fmlcore-1.20.1-47.3.33.jar is missing mods.toml file
+[013月2025 01:51:06.598] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[013月2025 01:51:07.612] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\14795\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, lushscentedparadise, --all, --output, D:\Desktop\mod\花扩展\src\generated\resources, --existing, D:\Desktop\mod\花扩展\src\main\resources]
+[013月2025 01:51:07.811] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [lushscentedparadise]
+[013月2025 01:51:09.674] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.33, for MC 1.20.1 with MCP 20230612.114412
+[013月2025 01:51:09.674] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.33 Initialized
+[013月2025 01:51:09.768] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[013月2025 01:51:09.771] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 1.810 ms
+[013月2025 01:51:09.896] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/14795/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.33_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.3.33_mapped_parchment_2023.09.03-1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[013月2025 01:51:09.896] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/14795/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.33_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.3.33_mapped_parchment_2023.09.03-1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[013月2025 01:51:09.982] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[013月2025 01:51:10.004] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 22 ms
+[013月2025 01:51:10.004] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[013月2025 01:51:10.036] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 31 ms
+[013月2025 01:51:10.036] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: lushscentedparadise
+[013月2025 01:51:10.102] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: lushscentedparadise finished after 65 ms
+[013月2025 01:51:10.102] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: lushscentedparadise
+[013月2025 01:51:10.123] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: lushscentedparadise finished after 21 ms
+[013月2025 01:51:10.124] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id lushscentedparadise
+[013月2025 01:51:10.129] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id lushscentedparadise finished after 6 ms
+[013月2025 01:51:10.129] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id lushscentedparadise
+[013月2025 01:51:10.130] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id lushscentedparadise finished after 0 ms
+[013月2025 01:51:10.130] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:point_of_interest_type mod id lushscentedparadise
+[013月2025 01:51:10.131] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:point_of_interest_type mod id lushscentedparadise finished after 1 ms
+[013月2025 01:51:10.131] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[013月2025 01:51:10.142] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 10 ms
+[013月2025 01:51:10.142] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 160 ms
+[013月2025 01:51:10.163] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 426, old count: 425, new count: 427, removed stale: 0, written: 25

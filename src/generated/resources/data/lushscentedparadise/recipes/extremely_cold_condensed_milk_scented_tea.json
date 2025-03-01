@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 60,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_snow_lotus"
+    },
+    {
+      "item": "lushscentedparadise:milk"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:extremely_cold_condensed_milk_scented_tea"
+  }
+}

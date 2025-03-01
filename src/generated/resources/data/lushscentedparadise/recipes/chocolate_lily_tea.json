@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 1000,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_lily"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "lushscentedparadise:milk"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:chocolate_lily_tea"
+  }
+}

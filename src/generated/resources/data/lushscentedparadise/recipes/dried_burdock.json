@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:burdock"
+  },
+  "output": "lushscentedparadise:dried_burdock"
+}

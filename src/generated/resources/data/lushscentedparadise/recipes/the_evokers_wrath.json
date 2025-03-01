@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "lushscentedparadise:dried_safflower"
+    },
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:the_evokers_wrath"
+  }
+}

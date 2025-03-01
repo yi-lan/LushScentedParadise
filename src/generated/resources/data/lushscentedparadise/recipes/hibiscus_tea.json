@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 100,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_hibiscus"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:hibiscus_tea"
+  }
+}

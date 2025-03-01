@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FSF",
+    " F "
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:flowers"
+    },
+    "F": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "lushscentedparadise:teapot",
+    "count": 1
+  }
+}

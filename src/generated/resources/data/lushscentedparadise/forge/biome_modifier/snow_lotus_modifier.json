@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:snowy_slopes",
+    "minecraft:snowy_taiga",
+    "minecraft:frozen_peaks"
+  ],
+  "features": "lushscentedparadise:snow_lotus",
+  "step": "vegetal_decoration"
+}

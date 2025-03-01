@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:wither_rose"
+    },
+    {
+      "item": "lushscentedparadise:dried_lily_of_the_valley"
+    },
+    {
+      "item": "lushscentedparadise:dried_herbaceous_peony"
+    },
+    {
+      "item": "minecraft:pufferfish"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:the_devils_call"
+  }
+}

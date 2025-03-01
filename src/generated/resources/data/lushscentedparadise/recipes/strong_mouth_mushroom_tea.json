@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "lushscentedparadise:dried_green_tea_leave"
+    },
+    {
+      "item": "lushscentedparadise:dried_black_tea_leave"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:strong_mouth_mushroom_tea"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lushscentedparadise:green_tea_seeds",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lushscentedparadise:black_tea_seeds",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lushscentedparadise:white_tea_seeds",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lushscentedparadise:puer_tea_seeds",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lushscentedparadise:oolong_tea_seeds",
+          "weight": 8
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "lushscentedparadise:blocks/wild_tea"
+}

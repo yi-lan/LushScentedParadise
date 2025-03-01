@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:astragalus_root"
+  },
+  "output": "lushscentedparadise:dried_astragalus_root"
+}

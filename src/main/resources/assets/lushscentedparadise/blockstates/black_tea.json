@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "age=0": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage0"
+        },
+        "age=1": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage1"
+        },
+        "age=2": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage2"
+        },
+        "age=3": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage3"
+        },
+        "age=4": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage4"
+        },
+        "age=5": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage5"
+        },
+        "age=6": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage6"
+        },
+        "age=7": {
+            "model": "lushscentedparadise:block/crop/black_tea_stage7"
+        }
+    }
+}

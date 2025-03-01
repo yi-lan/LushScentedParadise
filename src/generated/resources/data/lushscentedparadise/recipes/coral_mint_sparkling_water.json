@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_mint_leave"
+    },
+    {
+      "tag": "lushscentedparadise:tea_leaves"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:coral_mint_sparkling_water"
+  }
+}

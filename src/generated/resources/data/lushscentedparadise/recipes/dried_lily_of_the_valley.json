@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "minecraft:lily_of_the_valley"
+  },
+  "output": "lushscentedparadise:dried_lily_of_the_valley"
+}

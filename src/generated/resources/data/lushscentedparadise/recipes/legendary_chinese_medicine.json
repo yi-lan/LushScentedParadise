@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 600,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_licorice_root"
+    },
+    {
+      "item": "lushscentedparadise:dried_astragalus_root"
+    },
+    {
+      "item": "lushscentedparadise:dried_kudzu"
+    },
+    {
+      "item": "lushscentedparadise:dried_poria"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:legendary_chinese_medicine"
+  }
+}

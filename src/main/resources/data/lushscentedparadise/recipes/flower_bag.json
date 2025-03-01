@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "B B",
+    "LFL",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "tag": "minecraft:wool"
+    },
+    "F": {
+      "tag": "minecraft:flowers"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "lushscentedparadise:flower_bag",
+    "count": 1
+  }
+}

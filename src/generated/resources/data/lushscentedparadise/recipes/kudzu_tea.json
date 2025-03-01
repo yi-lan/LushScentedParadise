@@ -1,0 +1,18 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 400,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_kudzu"
+    },
+    {
+      "item": "lushscentedparadise:dried_kudzu"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:kudzu_soup"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:flax"
+  },
+  "output": "lushscentedparadise:dried_flax"
+}

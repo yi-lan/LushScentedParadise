@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:puer_tea_leave"
+  },
+  "output": "lushscentedparadise:dried_puer_tea_leave"
+}

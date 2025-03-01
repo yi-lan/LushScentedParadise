@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "lushscentedparadise:dried_lavender"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:scarlet_margarita"
+  }
+}

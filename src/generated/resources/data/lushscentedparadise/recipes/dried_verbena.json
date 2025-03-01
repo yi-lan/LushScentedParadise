@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:verbena"
+  },
+  "output": "lushscentedparadise:dried_verbena"
+}

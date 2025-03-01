@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    "minecraft:river",
+    "minecraft:beach"
+  ],
+  "features": "lushscentedparadise:jasmine",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=lower": { "model": "lushscentedparadise:block/tall_silent_orchid_abyss_bottom" },
+    "half=upper": { "model": "lushscentedparadise:block/tall_silent_orchid_abyss_top" }
+  }
+}

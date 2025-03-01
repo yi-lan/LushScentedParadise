@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:licorice_root"
+  },
+  "output": "lushscentedparadise:dried_licorice_root"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_lily"
+    },
+    {
+      "item": "lushscentedparadise:dried_jasmine"
+    },
+    {
+      "item": "lushscentedparadise:dried_lily_of_the_valley"
+    },
+    {
+      "item": "minecraft:scute"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:turtle_shell_lily_tea"
+  }
+}

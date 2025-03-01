@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:meadow",
+    "minecraft:savanna"
+  ],
+  "features": "lushscentedparadise:wild_kudzu",
+  "step": "vegetal_decoration"
+}

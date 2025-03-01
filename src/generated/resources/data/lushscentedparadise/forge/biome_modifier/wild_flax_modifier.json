@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:savanna",
+  "features": "lushscentedparadise:wild_flax",
+  "step": "vegetal_decoration"
+}

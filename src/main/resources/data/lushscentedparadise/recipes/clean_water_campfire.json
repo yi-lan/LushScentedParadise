@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "ingredient": {
+    "item": "lushscentedparadise:dirty_water"
+  },
+  "result": "lushscentedparadise:clean_water",
+  "experience": 0,
+  "cookingtime": 600
+}

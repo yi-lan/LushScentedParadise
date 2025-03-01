@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "minecraft:red_tulip"
+  },
+  "output": "lushscentedparadise:dried_tulip"
+}

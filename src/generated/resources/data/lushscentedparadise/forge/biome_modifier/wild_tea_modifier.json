@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:meadow"
+  ],
+  "features": "lushscentedparadise:wild_tea",
+  "step": "vegetal_decoration"
+}

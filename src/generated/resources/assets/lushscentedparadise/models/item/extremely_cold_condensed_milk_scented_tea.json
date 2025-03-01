@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lushscentedparadise:item/tea/extremely_cold_condensed_milk_scented_tea"
+  }
+}

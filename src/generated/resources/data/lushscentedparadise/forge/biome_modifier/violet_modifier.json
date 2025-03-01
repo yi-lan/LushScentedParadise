@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:flower_forest",
+    "minecraft:meadow"
+  ],
+  "features": "lushscentedparadise:violet",
+  "step": "vegetal_decoration"
+}

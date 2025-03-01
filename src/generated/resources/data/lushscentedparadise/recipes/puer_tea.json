@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_puer_tea_leave"
+    },
+    {
+      "item": "lushscentedparadise:dried_puer_tea_leave"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:puer_tea"
+  }
+}

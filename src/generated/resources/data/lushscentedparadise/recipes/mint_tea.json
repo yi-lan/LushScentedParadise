@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 150,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_mint_leave"
+    },
+    {
+      "item": "lushscentedparadise:dried_mint_leave"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:mint_tea"
+  }
+}

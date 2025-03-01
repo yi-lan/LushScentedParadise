@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "minecraft:oxeye_daisy"
+  },
+  "output": "lushscentedparadise:dried_oxeye_daisy"
+}

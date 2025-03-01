@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 200,
+  "ingredients": [
+    {
+      "item": "minecraft:tropical_fish"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "lushscentedparadise:dried_lavender"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:axolotl_tea"
+  }
+}

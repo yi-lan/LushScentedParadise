@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lushscentedparadise:item/tea/watermelon_mint_special_drink"
+  }
+}

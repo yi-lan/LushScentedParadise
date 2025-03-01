@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:savanna",
+    "minecraft:desert"
+  ],
+  "features": "lushscentedparadise:wild_licorice",
+  "step": "vegetal_decoration"
+}

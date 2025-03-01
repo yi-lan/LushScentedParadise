@@ -1,0 +1,20 @@
+{
+  "values": [
+    "minecraft:wheat_seeds",
+    "minecraft:cocoa_beans",
+    "minecraft:pumpkin_seeds",
+    "minecraft:melon_seeds",
+    "minecraft:beetroot_seeds",
+    "minecraft:torchflower_seeds",
+    "minecraft:pitcher_pod",
+    "lushscentedparadise:green_tea_seeds",
+    "lushscentedparadise:white_tea_seeds",
+    "lushscentedparadise:black_tea_seeds",
+    "lushscentedparadise:oolong_tea_seeds",
+    "lushscentedparadise:puer_tea_seeds",
+    "lushscentedparadise:mint_seeds",
+    "lushscentedparadise:licorice_seeds",
+    "lushscentedparadise:astragalus_seeds",
+    "lushscentedparadise:verbena_seeds"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:black_tea_leave"
+  },
+  "output": "lushscentedparadise:dried_black_tea_leave"
+}

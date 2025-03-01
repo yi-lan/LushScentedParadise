@@ -1,0 +1,21 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 400,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_oolong_tea_leave"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "lushscentedparadise:dried_oenothera_lindheimeri"
+    },
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:oolong_apple_honey_special_drink"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "lushscentedparadise:block/flowertable_buttom",
+    "east": "lushscentedparadise:block/flowertable_side",
+    "north": "lushscentedparadise:block/flowertable_side",
+    "particle": "lushscentedparadise:block/flowertable_side",
+    "south": "lushscentedparadise:block/flowertable_side",
+    "up": "lushscentedparadise:block/flowertable_top",
+    "west": "lushscentedparadise:block/flowertable_side"
+  }
+}

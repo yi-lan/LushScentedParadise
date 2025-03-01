@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "lushscentedparadise:milk"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:chorus_tea"
+  }
+}

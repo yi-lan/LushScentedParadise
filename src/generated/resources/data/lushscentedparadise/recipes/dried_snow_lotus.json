@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 200,
+  "input": {
+    "item": "lushscentedparadise:snow_lotus"
+  },
+  "output": "lushscentedparadise:dried_snow_lotus"
+}

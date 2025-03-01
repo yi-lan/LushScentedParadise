@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABC",
+    "DSE",
+    "FGH"
+  ],
+  "key": {
+    "S": {
+      "item": "lushscentedparadise:original_flower_sword"
+    },
+    "A": {
+      "item": "minecraft:lily_of_the_valley"
+    },
+    "B": {
+      "item": "minecraft:peony"
+    },
+    "C": {
+      "item": "minecraft:wither_rose"
+    },
+    "D": {
+      "item": "minecraft:torchflower"
+    },
+    "E": {
+      "item": "lushscentedparadise:hibiscus"
+    },
+    "F": {
+      "item": "lushscentedparadise:snow_lotus"
+    },
+    "G": {
+      "item": "lushscentedparadise:oenothera_lindheimeri"
+    },
+    "H": {
+      "item": "minecraft:sunflower"
+    }
+  },
+  "result": {
+    "item": "lushscentedparadise:flower_sword",
+    "count": 1
+  }
+}

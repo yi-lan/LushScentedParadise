@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:plains",
+    "minecraft:flower_forest",
+    "minecraft:meadow"
+  ],
+  "features": "lushscentedparadise:perilla",
+  "step": "vegetal_decoration"
+}
