@@ -28,7 +28,7 @@ public class DryingRackBlockEntity extends BlockEntity {
     public boolean addItem(ItemStack stack){
         for(int i =0;i<items.size();i++){
             if(items.get(i).isEmpty()){
-                items.set(i,stack.split(1));
+                items.set(i,new ItemStack(stack.getItem(),1));
                 dryingProgress[i] =0;
                 setChanged();
                 return true;
