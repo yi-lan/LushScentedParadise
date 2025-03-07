@@ -27,6 +27,7 @@ import org.jetbrains.annotations.Nullable;
 import vazkii.botania.api.BotaniaForgeCapabilities;
 import vazkii.botania.api.mana.ManaReceiver;
 
+import java.util.Objects;
 import java.util.Optional;
 
 public class ManaTeapotBlockEntity extends BlockEntity implements MenuProvider, ManaReceiver {
@@ -50,16 +51,16 @@ public class ManaTeapotBlockEntity extends BlockEntity implements MenuProvider, 
     }
 
     @Override
-    public Component getDisplayName() {
+    public @NotNull Component getDisplayName() {
         return Component.translatable("container.lushscentedparadise.mana_teapot");
     }
 
     @Override
-    public @Nullable AbstractContainerMenu createMenu(int i, Inventory inventory, Player player) {
+    public @Nullable AbstractContainerMenu createMenu(int i, @NotNull Inventory inventory, @NotNull Player player) {
         return new ManaTeapotMenu(i,inventory,this,data);
     }
     public void tick(){
-        if(level.isClientSide)return;
+        if(Objects.requireNonNull(level).isClientSide)return;
         data.set(2,mana);
         Optional<ManaTeapotRecipe> recipe = getCurrentRecipe();
         if(recipe.isPresent()){
@@ -95,10 +96,10 @@ public class ManaTeapotBlockEntity extends BlockEntity implements MenuProvider, 
         for (int i = 0; i < 5; i++) {
             inventory.setItem(i, itemStackHandler.getStackInSlot(i));
         }
-        return level.getRecipeManager().getRecipeFor(BotaniaRecipeTypes.MANA_TEAPOT.get(), inventory, level);
+        return Objects.requireNonNull(level).getRecipeManager().getRecipeFor(BotaniaRecipeTypes.MANA_TEAPOT.get(), inventory, level);
     }
     private boolean craftItem(ManaTeapotRecipe recipe){
-        ItemStack result = recipe.getResultItem(level.registryAccess());
+        ItemStack result = recipe.getResultItem(Objects.requireNonNull(level).registryAccess());
         ItemStack outputSlotStack = itemStackHandler.getStackInSlot(5);
         if(outputSlotStack.isEmpty()){
             itemStackHandler.setStackInSlot(5,result.copy());
@@ -117,7 +118,7 @@ public class ManaTeapotBlockEntity extends BlockEntity implements MenuProvider, 
         }
         return true;
     }
-    public void load(CompoundTag tag) {
+    public void load(@NotNull CompoundTag tag) {
         super.load(tag);
         itemStackHandler.deserializeNBT(tag.getCompound("Inventory"));
         mana = tag.getInt("Mana");
@@ -125,7 +126,7 @@ public class ManaTeapotBlockEntity extends BlockEntity implements MenuProvider, 
     }
 
     @Override
-    protected void saveAdditional(CompoundTag tag) {
+    protected void saveAdditional(@NotNull CompoundTag tag) {
         super.saveAdditional(tag);
         tag.put("Inventory", itemStackHandler.serializeNBT());
         tag.putInt("BrewTime", brewTime);

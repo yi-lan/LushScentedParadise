@@ -2,15 +2,13 @@ package net.royling.LushScentedParadise.Botania.Reg;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraft.world.level.material.MapColor;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.royling.LushScentedParadise.Botania.BotaniaTeapot.ManaTeapotBlock;
 import net.royling.LushScentedParadise.LushScentedParadise;
-import net.royling.LushScentedParadise.ModBlock.TeapotBlock.TeapotBlock;
+
 
 public class BotaniaBlocks {
     public static final DeferredRegister<Block> BLOCKS =
