@@ -21,6 +21,7 @@ import net.minecraft.world.level.block.state.properties.IntegerProperty;
 import net.minecraft.world.phys.BlockHitResult;
 import net.royling.LushScentedParadise.Registry.ModBlocks;
 import net.royling.LushScentedParadise.Registry.ModItems;
+import org.jetbrains.annotations.NotNull;
 
 public class VanillaCropBlock extends CropBlock {
     public static final IntegerProperty AGE = IntegerProperty.create("age", 0, 7); // 8个生长阶段
@@ -61,7 +62,7 @@ public class VanillaCropBlock extends CropBlock {
     }
 
     @Override
-    public InteractionResult use(BlockState state, Level level, BlockPos pos, Player player, InteractionHand hand, BlockHitResult hit) {
+    public InteractionResult use(BlockState state, Level level, BlockPos pos, Player player, @NotNull InteractionHand hand, @NotNull BlockHitResult hit) {
         if (state.getValue(AGE) == 7) {
             ItemStack heldItem = player.getItemInHand(hand);
             if (heldItem.is(Items.SHEARS)) { // 需要剪刀右键收获
@@ -78,7 +79,7 @@ public class VanillaCropBlock extends CropBlock {
     }
 
     @Override
-    public ItemStack getCloneItemStack(BlockGetter pLevel, BlockPos pPos, BlockState pState) {
+    public @NotNull ItemStack getCloneItemStack(@NotNull BlockGetter pLevel, @NotNull BlockPos pPos, @NotNull BlockState pState) {
         return new ItemStack(ModBlocks.VANILLA_CROP.get());
     }
 }
