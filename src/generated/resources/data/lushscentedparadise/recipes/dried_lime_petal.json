@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 600,
+  "input": {
+    "item": "botania:lime_petal"
+  },
+  "output": "lushscentedparadise:dried_lime_petal"
+}

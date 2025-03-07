@@ -1,0 +1,27 @@
+{
+  "name": "紫苏",
+  "icon": "lushscentedparadise:perilla",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#800080)$(l)【狂风之息】$()$(br2)“紫色的叶片在烈日下翻腾，似战鼓激荡，唤醒沉睡的血脉。”$(br2)紫苏广布于温暖的平原、萨瓦纳及沙漠地带，叶片紫红，随风舞动，如燃烧的火焰。其浓烈的香气能唤醒体内沉眠的力量，古老武士在决战前会咀嚼紫苏，以求激发血气，使战意高昂。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:perilla",
+      "text": "生长于温暖干燥的地区，如平原、萨瓦纳和沙漠绿洲，适应力极强。紫苏叶随日照强度变化，正午时色泽最为深沉，散发出的气息亦最为浓烈。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_perilla",
+      "text": "摘录自《战士的祭坛》$(br)“昔日勇士出征前，燃紫苏为香，引战魂苏醒。相传嗅到紫苏烟雾的人，心跳会随之加速，血液沸腾如火，唯有战斗才能平息躁动。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:perilla_tea",
+      "text": "将紫苏叶缓炖，茶汤呈深紫色，略带辛辣气息，入口后仿佛有烈焰在血脉中燃烧。饮后力量暴涨，挥拳如裂山断石，气势如狂风怒涛。$(br2)$(#B22222)但切记——过量饮用，或将无法停下战意，直至力竭倒地……$()"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 600,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:coffee_powder"
+    },
+    {
+      "item": "lushscentedparadise:milk_foam"
+    },
+    {
+      "item": "lushscentedparadise:cocoa_powder"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:mocha"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "冰美式",
+  "icon": "lushscentedparadise:iced_americano",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#00BFFF)冰块撞击杯壁，咖啡香气扑面而来，冰美式带来的是清爽与清醒。$()”$(br2)$(#DAA520)冰美式$()（Iced Americano）是一种$(#8B4513)Espresso$() 与 $(#00BFFF)冰水$() 搭配的咖啡饮品，$(#FFD700)保留了美式咖啡的风味$()，但$(#00BFFF)额外带来清爽的口感$()。$(br)它适用于$(#FF4500)炎热环境$()，帮助$(#32CD32)玩家保持专注$()，让$(#FFD700)长时间冒险更加清醒$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:iced_americano",
+      "text": "$(#FFD700)冰美式$() 适合$(#FF69B4)需要持续清醒$()，但又不喜欢$(#8B4513)奶制品$()的玩家。$(br2)它比$(#DAA520)热美式$() 更加$(#00BFFF)清爽$()，$(#FFD700)提供持久的精神集中效果$()，适用于$(#FF4500)长途探索$()或$(#FFD700)需要高专注度的任务$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "制作$(#FFD700)冰美式$() 需要：$(br2)$(#8B4513)· 一杯标准 $(#FFD700)Espresso$()$(br)$(#00BFFF)· 适量冰水$()$(br)$(#ADD8E6)· 冰块冷却$()$(br2)相比$(#DAA520)热美式$()，$(#FFD700)冰美式$() 更具$(#00BFFF)清爽感$()，适合$(#FF4500)需要长时间保持冷静的玩家$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Iced Americano 的特性",
+      "text": "$(#FFD700)饮用效果$()：$(br2)· $(#32CD32)缓慢提升行动速度$()，持续时间较长$(br)· $(#FFD700)几乎不会受到饥饿影响$()$(br)· $(#00BFFF)减少环境炎热带来的疲劳影响$()$(br2)$(#8B0000)冰美式$() 适用于$(#FFD700)长时间探索$()，提供$(#00BFFF)清凉与专注$()，让$(#FF4500)炎热环境下的玩家更好地保持状态$()。"
+    }
+  ]
+}

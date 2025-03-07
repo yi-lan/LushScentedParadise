@@ -1,0 +1,27 @@
+{
+  "name": "紫罗兰",
+  "icon": "lushscentedparadise:violet",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 24,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#4B0082)$(l)【暮色誓言】$()$(br2)“深紫的花瓣映照黄昏，微风中低语着远古誓言”$(br2)紫罗兰的花序繁密，重瓣叠叠，仿佛夜幕微开的帷幔。其气息清冷而悠长，常在平原与草甸的晨曦中摇曳，传说骑士在出征前会佩戴紫罗兰，以求勇气与归来之约。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:violet",
+      "text": "多生于平原、草甸及繁花森林，喜湿润土壤，根系绵密能固土防风。黄昏时花瓣微微闭合，晨曦初露便缓缓舒展。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_violet",
+      "text": "摘自《旅人笔记》$(br)“在紫罗兰盛放的坡地间，我听见耳畔传来低语，仿佛谁在夜色中许下誓言。山民告诉我，那是战士未竟的梦——而这花，则是他们归乡的路标。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:violet_tea",
+      "text": "以缓火煮沸紫罗兰花瓣，茶汤呈深紫色，光照下泛着浅金微光。饮后全身微微战栗，血液似有雷霆涌动，短时间内力大无穷。$(br2)$(#8B0000)然过犹不及，过量饮用者往往误以为自己能徒手折断山岩……$()"
+    }
+  ]
+}

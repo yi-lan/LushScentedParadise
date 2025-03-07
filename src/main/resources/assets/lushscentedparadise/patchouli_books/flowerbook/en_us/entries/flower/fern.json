@@ -1,0 +1,27 @@
+{
+  "name": "Fern",
+  "icon": "minecraft:fern",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#2F892F)$(l)【Mystery of the Green Scroll】$()$(br2)“Ancient ripples on the surface of the earth, recording the dual memories of rainforest and tundra.”$(br2)The delicate, feather-like fronds of ferns curl into question marks in humid air, with clusters of brown sporangia lining their undersides. Some varieties bear tender shoots prized as mountain delicacies, while others conceal venom potent enough to bring down a moose. The key to distinguishing them lies in whether their leaf tips bear crimson, snake-tongue-like speckles."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:fern",
+      "text": "Ferns thrive in coniferous forest humus layers and jungle moss beds, favoring spots where fragmented sunlight filters through the canopy. During droughts, their fronds coil into emerald springs to lock in moisture, while in the rainy season, they unfurl like peacock tails, their spores briefly repelling swarms of gnats."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:large_fern",
+      "text": "Excerpt from *The Pioneer’s Warning Manual*$(br)“The lieutenant mistakenly mixed toxic fern shoots into our dinner. Within half an hour, his skin oozed a faint green sweat, and his legs began running uncontrollably until he collapsed. The native guide prepared an antidote using honey and charcoal.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:fern_tea",
+      "text": "Young, unfurled fern leaves are simmered over low heat with wild honey, resulting in a murky olive-green brew. The first sip is reminiscent of chewing dried banana leaves or aged leather, but as the bitterness fades, a tingling electric sensation courses through the limbs."
+    }
+  ]
+}

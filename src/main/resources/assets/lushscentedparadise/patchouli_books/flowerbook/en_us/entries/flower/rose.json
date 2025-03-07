@@ -1,0 +1,27 @@
+{
+  "name": "Rose",
+  "icon": "minecraft:rose_bush",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#850f19)$(l)【Kiss of Thorns】$()$(br2)“Every crimson petal carries a sweet yet cautionary embrace.”$(br2)The velvety, layered petals of the rose exude an intoxicating fragrance, while its stem bristles with sharp thorns, forming a natural armor. Its essence is distilled into precious oils, and in medieval battlefields, physicians used rose water to cleanse wounds. Additionally, its boiled leaves serve as a natural insect repellent, protecting crops from aphids—a masterpiece of both beauty and defense."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:rose_bush",
+      "text": "Found only in forests and flower-filled groves, often growing at the base of rocks or ancient trees. During droughts, its thorns harden like iron, causing minor bleeding upon contact. When fertilized with bone meal, the density of thorns increases twofold—perhaps even threefold."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_rose",
+      "text": "Excerpt from *The Mirror of Nature*$(br)“To harvest roses, one must act before the morning dew evaporates, severing the stems with silver shears while wearing leather gloves. If a drop of blood soaks into the sepals, any balm made from it may induce hysteria. An old farming proverb states: ‘The tougher the rose thorns in July, the earlier winter will arrive by two weeks.’”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:rose_tea",
+      "text": "Dried rose petals are roasted with cane sugar, gradually infusing the tea with a vibrant red hue and a fruity aroma. Upon drinking, one's steps grow lighter, and thorny underbrush parts effortlessly in their path—though the lingering fragrance may also attract a swarm of bees."
+    }
+  ]
+}

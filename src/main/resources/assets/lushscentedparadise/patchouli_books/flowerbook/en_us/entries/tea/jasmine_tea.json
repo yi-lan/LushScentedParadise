@@ -1,0 +1,21 @@
+{
+  "name": "茉莉茶",
+  "icon": "lushscentedparadise:jasmine_tea",
+  "category": "lushscentedparadise:tea",
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“芬芳馥郁，温和清雅，隐藏之力悄然流转。”$(br2)茉莉茶是一款清香柔和的茶饮，由晒干的茉莉花与糖制成。饮用后可提供短暂的隐身和幸运效果，使旅人在行动时更加神秘且幸运。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)茉莉茶的制作需要$(br)晒干的茉莉花与糖混合熬煮。$(br)适合在潜行或进行重要行动前饮用，带来隐秘的庇护与好运。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:jasmine_tea",
+      "text": "饮用茉莉茶后，旅人将获得短暂的隐身和幸运效果，使行动更加隐秘，并有更高的收益。$(br)这是一款适用于隐秘行动的茶饮。$(br)安装JEI后对着图标按下R键可以查询配方"
+    }
+  ]
+}

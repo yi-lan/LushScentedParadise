@@ -1,0 +1,27 @@
+{
+  "name": "红花",
+  "icon": "lushscentedparadise:safflower",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 36,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#FF4500)$(l)【烈阳之华】$()$(br2)“火焰般的花朵，在大地的每一寸角落燃烧。”$(br2)红花色泽如烈日余晖，迎风招展，无畏酷寒与炎热，广布于世界的各个角落。其花瓣富含天然抗热成分，古时旅人在踏入沙漠前会饮下红花泡制的茶汤，以求抵御热浪侵袭。传说，沙漠行者若在脚踝系上红花编织的绳索，便能踏沙如履平地。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:safflower",
+      "text": "几乎遍布所有生物群系，从高山到荒漠，从森林到平原。红花根系深入地下，能耐旱抗热，其花朵在正午光照最强时盛放，宛如大地燃起一片火焰。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_safflower",
+      "text": "摘录自《沙行者手札》$(br)“昔日，一位迷失沙海的旅人绝望倒下，恍惚间看见一株红花在烈阳下挺立。攀折花瓣含入口中，炽热的痛感唤醒了他的求生意志。三天后，他走出了风暴。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:safflower_tea",
+      "text": "以红花花瓣缓炖，茶汤橙红透亮，热气中弥漫着微辛香气。饮下后，仿佛有温暖的力量自体内升腾，炙热的烈焰不再令人生畏，而脚步亦变得轻盈，沙漠的阻力似乎消失不见。$(br2)$(#CD5C5C)但谨记——燃烧得越猛烈，终有熄灭的一刻……$()"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "咖啡",
+  "icon": "lushscentedparadise:coffee_beans",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 49,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B4513)$(l)【炽焰苦香】$()$(br2)“烈日炙烤的山谷间，荡漾着浓醇的微苦气息。”$(br2)野生咖啡多生于热带高地，枝叶青翠，果实初为青色，成熟后转为深红。采摘后的咖啡豆在火焰上烘焙，散发出撼动心灵的香气。探险家常用其淬炼精力，以在漫长旅途上保持清醒。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_coffee",
+      "text": "常见于炎热潮湿的山谷，喜高温与充足日照。其花朵洁白细密，花期极短，结出的浆果富含浓郁内质，烘焙后方能显现真正的苦香。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:coffee_beans",
+      "text": "摘录自《旅者手札》$(br)“当我第一次嗅到那辛烈而醇厚的气息，就仿佛踏进了日光锻造的熔炉。苦味灼烧着我的舌尖，却也像一只无形的手拉我走过漫漫荒原。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:espresso",
+      "text": "将烘焙过的咖啡豆研磨后煮制，汤色深沉似夜，香气如火舌舔过心神。饮下后精神大振，恍若将日光揽入胸膛。$(br2)$(#8B4513)但亦须警惕，苦香之力虽振奋人心，若流连过久，亦会在夜幕中孑然难寐……$()"
+    }
+  ]
+}

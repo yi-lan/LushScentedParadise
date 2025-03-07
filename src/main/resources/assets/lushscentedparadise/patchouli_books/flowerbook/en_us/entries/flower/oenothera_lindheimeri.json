@@ -1,0 +1,27 @@
+{
+  "name": "Oenothera Lindheimeri",
+  "icon": "lushscentedparadise:oenothera_lindheimeri",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 39,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#D8BFD8)$(l)【The Unyielding Blossom】$()$(br2)“Neither wind nor snow can break it; the flower on the cliff stands proudly against the sky.”$(br2)Oenothera Lindheimeri flourishes in high-altitude mountain ranges and frigid regions, defying even the harshest storms. Its petals are light yet resilient, dancing in the wind without ever snapping. Travelers since ancient times believed that this flower bestowed unwavering determination, often using its petals in medicine to resist the cold and endure violent storms before reaching the summit."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oenothera_lindheimeri",
+      "text": "Primarily grows in steep mountains and cold regions, known for its extreme cold resistance. Even when buried beneath snow, its stems persistently grow, ready to bloom again with the arrival of spring."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_oenothera_lindheimeri",
+      "text": "Excerpt from *Polar Survival Notes*$(br)“When the blizzard swallowed the path ahead, I steeped Oenothera Lindheimeri leaves in water. A surge of warmth rushed through my limbs, keeping me awake through the night. By dawn, only my footprints remained in the endless snow.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oenothera_tea",
+      "text": "When brewed with Frostweed, the tea takes on a crystal-clear hue with a crisp, cooling scent. Upon drinking, warmth floods the body, forming an invisible shield—making blades dull and frost ineffective.$(br2)$(#8A2BE2)However, whispers speak of those whose will falters, consumed by the very power meant to protect them…$()"
+    }
+  ]
+}

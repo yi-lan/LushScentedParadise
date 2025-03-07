@@ -1,0 +1,27 @@
+{
+  "name": "Coffee",
+  "icon": "lushscentedparadise:coffee_beans",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 49,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B4513)$(l)【Blazing Bitter Aroma】$()$(br2)“In the sun-scorched valleys, a rich and slightly bitter fragrance lingers in the air.”$(br2)Wild coffee grows abundantly in tropical highlands, its lush green foliage bearing fruits that start off green and ripen into a deep red. Once harvested, the beans are roasted over fire, releasing an intoxicating aroma. Explorers often rely on its invigorating essence to stay alert on long and arduous journeys."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_coffee",
+      "text": "Commonly found in hot and humid valleys, thriving under high temperatures and ample sunlight. Its flowers are pure white and delicate, with a very short blooming period. The berries are packed with rich compounds that only reveal their true bitterness after roasting."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:coffee_beans",
+      "text": "Excerpt from *Traveler’s Notes*$(br)“The first time I inhaled that sharp yet rich aroma, it felt as though I had stepped into a forge shaped by sunlight itself. The bitterness scorched my tongue, yet an unseen force pulled me forward, guiding me across the endless wilderness.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:espresso",
+      "text": "Roasted coffee beans are ground and brewed into a deep, midnight-colored liquid, its aroma as sharp as fire licking at the soul. Upon drinking, one's spirit is ignited, as if embracing the warmth of the sun itself.$(br2)$(#8B4513)But be wary—though the bitter aroma is uplifting, lingering too long in its grasp may leave one sleepless beneath the night sky…$()"
+    }
+  ]
+}

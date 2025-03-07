@@ -1,0 +1,21 @@
+{
+  "name": "葛根",
+  "icon": "lushscentedparadise:kudzu",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“藤蔓繁盛，根深茎壮，滋养身心，赋予活力。”$(br2)葛根是一种广泛分布于平原和草原的藤本植物，它的根部富含营养，常用于食疗和药用。葛根茶可恢复体力，使人焕发活力，是旅途中不可多得的滋补佳品。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_kudzu",
+      "text": "野生葛根主要生长在平原和草原地带，其藤蔓四处蔓延，生命力极其旺盛。$(br)葛根与某些根茎类植物类似，无需种子繁殖，而是可以直接将收获的葛根埋入土壤，使其继续生长，循环繁殖。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:kudzu",
+      "text": "成熟的葛根植株可收获多个葛根，并用于持续种植。$(br)其根部富含营养，可用于制作茶饮或滋补食物，使旅人在旅途中保持良好的状态。"
+    }
+  ]
+}

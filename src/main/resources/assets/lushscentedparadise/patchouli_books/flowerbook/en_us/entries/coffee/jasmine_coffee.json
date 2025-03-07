@@ -1,0 +1,26 @@
+{
+  "name": "Jasmine Coffee",
+  "icon": "lushscentedparadise:jasmine_coffee",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)When floral aromas meet coffee, the flavor profile instantly elevates.$()\"$(br2)$(#DAA520)Jasmine Coffee$() is a beverage that combines $(#8B4513)coffee with jasmine flowers$(), featuring a $(#FF69B4)delicate jasmine fragrance$() that enhances the $(#FFD700)richness of coffee$().$(br)It not only $(#FF4500)gently boosts energy$() but also $(#FF69B4)reduces anxiety and improves focus$(), making it ideal for $(#32CD32)tasks that require prolonged concentration$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:jasmine_coffee",
+      "text": "$(#FFD700)Jasmine Coffee$() is perfect for players who $(#FF69B4)enjoy coffee but want floral notes to balance its bitterness$().$(br2)Compared to $(#8B4513)Espresso$() or $(#FFD700)Americano$(), $(#FFD700)Jasmine Coffee$() is $(#FF69B4)milder and smoother$(), making it ideal for $(#32CD32)intensive focus and extended work sessions$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make $(#FFD700)Jasmine Coffee$(), you need:$(br2)$(#8B4513)· One cup of standard $(#FFD700)Espresso$()$(br)$(#FF69B4)· Dried or fresh jasmine flowers$()$(br)$(#FFD700)· Steeped in hot water to extract floral fragrance$()$(br2)Compared to $(#8B4513)regular coffee$(), $(#FFD700)Jasmine Coffee$() offers an $(#FF69B4)extra layer of floral aroma$(), perfect for $(#32CD32)players looking for a soothing experience$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Jasmine Coffee Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#32CD32)Slightly increases health regeneration$()$(br)· $(#FFD700)Reduces fatigue buildup for a short period$()$(br)· $(#FF69B4)Eases mental stress, improves mood, and sharpens vision$()$(br2)$(#8B0000)Jasmine Coffee$() is ideal for $(#FFD700)long research sessions, writing, or complex tasks$(), helping $(#FF69B4)players stay alert and enhance focus$()."
+    }
+  ]
+}

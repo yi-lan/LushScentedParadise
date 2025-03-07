@@ -1,0 +1,27 @@
+{
+  "name": "Lily",
+  "icon": "lushscentedparadise:lily",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 35,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#FFD700)$(l)【Holy Blossom of Dawn】$()$(br2)“Blooming like a vow, golden morning light kisses its pure white petals.”$(br2)The lily stands tall and graceful, its snow-white petals shimmering with a gentle glow when morning dew settles upon them. Found in plains, meadows, and riverbanks, its sturdy rhizomes anchor it firmly against approaching storms. In ancient legends, lilies symbolize life and protection, often offered to the gods in prayers for health and longevity."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lily",
+      "text": "Primarily grows in plains, meadows, and along riverbanks, preferring moist soil. Its rhizomes extend deep underground for stability. The petals unfurl at dawn and close slightly by dusk, exuding a delicate yet lasting fragrance."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lily",
+      "text": "Excerpt from *The Herbal Compendium*$(br)“The rhizomes of lilies are rich in nutrients, historically used in medicine and referred to as ‘Nature’s Gift.’ Warriors would consume lilies before battle, believing they would grant them endurance as unshakable as the mountains.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lily_tea",
+      "text": "Slowly simmering lily petals and rhizomes produces a crystal-clear tea with a faint earthy and honey-like aroma. Drinking it fills the body with warmth, strengthening bones and revitalizing life energy.$(br2)$(#8B4513)Yet, though life may flourish, it has its limits—excessive indulgence may wither even the strongest blooms...$()"
+    }
+  ]
+}

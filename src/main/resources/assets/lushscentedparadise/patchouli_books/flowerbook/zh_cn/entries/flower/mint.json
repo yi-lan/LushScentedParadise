@@ -1,0 +1,27 @@
+{
+  "name": "薄荷",
+  "icon": "lushscentedparadise:mint_leave",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#96e3cd)$(l)【清冽之息】$()$(br2)“沼泽中的翡翠匕首，以凛冽划破腐浊之气”,$(br2)薄荷的锯齿状叶片如淬毒的短剑，叶脉中流淌着透骨的凉意。其挥发的薄荷醇能驱散沼泽毒瘴，中世纪医师将其捣碎敷于额间治疗热病，探险家则咀嚼叶片以保持神志清醒。月光下叶片表面会凝结出冰晶般的露珠，饮之如咽下整个凛冬。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_mint",
+      "text": "仅簇生于沼泽与红树林的泥泞浅滩，根系半浸于水中却能抗拒腐烂。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_mint_leave",
+      "text": "《疫医手札》残页$(br)“当满城弥漫尸臭时，我们在面罩夹层填入薄荷与鼠尾草，呼吸间如有利刃剖开腐肉。垂死的男爵饮下薄荷酊剂后，竟起身跳完最后一支舞——"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:mint_tea",
+      "text": "晒干的薄荷叶煮成的茶，不需要其他的辅料，茶汤碧绿如液态翡翠，饮时鼻腔似有暴风雪席卷，足下却燃起幽蓝冷焰"
+    }
+  ]
+}

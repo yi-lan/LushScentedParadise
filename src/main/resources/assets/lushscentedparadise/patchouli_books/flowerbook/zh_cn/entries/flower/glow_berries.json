@@ -1,0 +1,27 @@
+{
+  "name": "发光浆果",
+  "icon": "minecraft:glow_berries",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#efe54d)$(l)【地心星砂】$()$(br2)“岩壁上流淌的银河，黑暗中的指路微芒”,$(br2)这些半透明的金色浆果成簇生长于洞穴藤蔓上，果皮包裹着荧光物质，亮度足以照亮几格内的岩壁。其汁液被探险家称为“液态星光”，涂抹在工具上可短暂标记路径，接触皮肤会留下持续数小时的微弱磷光。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:glow_berries",
+      "text": "仅自然生成于繁茂洞穴的潮湿岩壁。成熟果实会吸引发光鱿鱼环绕，若被蝙蝠啃食，其排泄物将暂时具备夜视药水的成分。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_glow_berries",
+      "text": "摘自某废弃矿井的锈蚀铁盒：$(br)“我们被困在塌方的第三矿道时，唯一的光源是岩缝间垂下的发光浆果。队长冒险尝了一颗，竟能看透岩石中的红石脉络——靠着他的指引，我们凿穿了12米岩层重返地面。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:glow_berries_tea",
+      "text": "将几颗浆果与牛奶在铜壶中熬煮至沸腾，滤去果渣后得到泛着淡黄色荧光的茶汤。饮下后瞳孔会短暂扩张，即便最幽暗的峡谷也清晰如白昼。"
+    }
+  ]
+}

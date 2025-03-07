@@ -1,0 +1,27 @@
+{
+  "name": "Licorice",
+  "icon": "lushscentedparadise:licorice_root",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 43,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B4513)$(l)【Breath of the Earth】$()$(br2)“Beneath the sun-scorched wasteland, resilient roots burrow deep, nurturing a hidden sweetness.”$(br2)Licorice thrives in arid savannas and desert oases, its roots intertwining beneath the soil, drawing sustenance from the most barren lands. Since ancient times, travelers have chewed licorice roots before long treks to maintain stamina and resist toxins. Legends tell of desert healers using licorice as a vital medicine, reviving poisoned warriors on the brink of death."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_licorice",
+      "text": "Primarily found in savannas and deserts, with exceptional drought resistance. Its roots can extend several feet underground in search of scarce water. At dusk, its flowers bloom, releasing a faintly sweet fragrance before closing again by nightfall."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_licorice_root",
+      "text": "Excerpt from *The Nomadic Healer’s Notes*$(br)“Deep in the desert, the caravan reached its limits, scorched by relentless heat, parched and exhausted. The healer unearthed licorice roots from the cracked ground, boiling them into a restorative brew. One sip, and life surged back like an oasis spring.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:licorice_soup",
+      "text": "Slowly simmered licorice root produces a pale golden tea with a naturally sweet taste. Upon drinking, a gentle warmth spreads through the body, accelerating wound healing and dispelling toxins.$(br2)$(#A52A2A)Yet, as the ancients warned—though licorice can cleanse the body, excessive consumption may set the heart racing beyond control...$()"
+    }
+  ]
+}

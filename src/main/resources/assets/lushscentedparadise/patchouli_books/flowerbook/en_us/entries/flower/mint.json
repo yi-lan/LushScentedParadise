@@ -1,0 +1,27 @@
+{
+  "name": "Mint",
+  "icon": "lushscentedparadise:mint_leave",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 21,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#96e3cd)$(l)【Breath of Frost】$()$(br2)“An emerald dagger of the swamp, slicing through the miasma of decay.”$(br2)Mint’s serrated leaves resemble poisoned blades, with veins coursing with an icy chill. Its potent menthol disperses swamp fumes, and medieval physicians crushed it into poultices to treat fevers. Explorers chewed its leaves to maintain alertness. Under the moonlight, frost-like dew crystallizes on its surface, drinking it feels akin to swallowing the essence of winter."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_mint",
+      "text": "Clusters only in swamps and mangrove shallows, with roots half-submerged in water yet remarkably resistant to decay."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_mint_leave",
+      "text": "Excerpt from *The Plague Doctor’s Notes*$(br)“When the city reeked of rotting corpses, we stuffed mint and sage between the layers of our masks. Each breath felt like a dagger slicing through putrefaction. The dying baron, after drinking mint tincture, suddenly rose and danced his final waltz—”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:mint_tea",
+      "text": "Dried mint leaves alone are enough to brew a vibrant green tea, gleaming like liquid emerald. Upon drinking, an icy storm seems to surge through the sinuses, while a ghostly blue flame ignites beneath one’s feet."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "咖啡",
+  "icon": "lushscentedparadise:coffee_fruit",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“炽焰苦香，启程之力。”$(br2)咖啡原产于温暖潮湿的高地，枝叶常年碧绿，果实成熟时散发出独特的醇苦气息。对于旅人来说，咖啡既是提神的良方，也是一种满载热情与冒险的象征。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:coffee_fruit",
+      "text": "咖啡植株通常生长在温暖且日照充分的区域。通过收集野生咖啡果实获取种子，便可人工种植咖啡。它对水分要求较高，保持充足灌溉有助于咖啡的顺利成熟。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:coffee_beans",
+      "text": "咖啡成熟后，$(l)可多次使用右键进行收获$()，每次收获会获得咖啡豆，但植株不会被破坏。$(br)咖啡豆经过烘焙和研磨后，即可煮制出浓烈而醒神的咖啡饮品，为旅途补充源源不断的活力。"
+    }
+  ]
+}

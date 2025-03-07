@@ -1,0 +1,27 @@
+{
+  "name": "茉莉",
+  "icon": "lushscentedparadise:jasmine",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 33,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#F8F8FF)$(l)【雾中幽影】$()$(br2)“淡雅的白花，于水雾中轻柔绽放，遗世独立。”$(br2)茉莉花朵洁白如月，清晨时分，露珠在花蕊间滚动，映照出朦胧的倒影。生于潮湿之地，其香气轻盈如晨雾，曾被吟游诗人称作“溪畔的幽灵”。传说猎人常在行动前嗅闻茉莉，以求行踪隐匿，狩猎顺利。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:jasmine",
+      "text": "生长于沼泽与河岸，依水而生。晨间花香最为浓郁，黄昏时则渐渐消散。细长的藤蔓可沿着树干或岩石攀爬，花朵随微风轻晃，似在低语。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_jasmine",
+      "text": "摘自《旅人札记》$(br)“夜行者曾以茉莉编织成环，佩戴后能于雾夜中悄然穿行，不留一丝痕迹。然而，若有人窥探水中的倒影，或许能看到另一双眼睛在注视……”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:jasmine_tea",
+      "text": "以文火缓缓烘焙茉莉花，茶汤清透无色，仅有一缕幽香萦绕。饮下后仿佛融入空气，脚步轻盈，命运也似乎露出了微笑。$(br2)$(#708090)然命运之手不可揣测，有人说，走得太远的人，有时会被雾气遗忘……$()"
+    }
+  ]
+}

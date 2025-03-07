@@ -1,0 +1,27 @@
+{
+  "name": "蕨",
+  "icon": "minecraft:fern",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#2F892F)$(l)【青卷谜影】$()$(br2)“古老的地表波纹，记录着雨林与雪原的双重记忆”,$(br2)蕨类舒展的羽状复叶在潮湿空气中卷曲如问号，叶背密布褐色的孢子囊群。某些品种的嫩芽是珍贵的山珍，而另一些叶脉中流淌的毒素足以放倒一头麋鹿，辨识它们的关键在于叶尖是否呈现蛇信般的猩红斑点。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:fern",
+      "text": "遍布针叶林的腐殖层与丛林地表苔毯，尤其青睐树冠漏下的碎光地带。干旱时叶片会紧蜷成翡翠色弹簧状以锁住水分，雨季舒展如孔雀开屏，其孢子云能短暂驱散恼人的蠹虫群。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:large_fern",
+      "text": "《拓荒者警示录》$(br)“副队长误将剧毒蕨芽混入晚餐，半小时后他的皮肤开始渗出淡绿色汗液，双足不受控地疾驰直至力竭倒地。土著向导用蜂蜜与炭灰调制解药。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:fern_tea",
+      "text": "取未展平的蕨类嫩叶与野蜂蜜文火同煎，茶汤呈现浑浊的橄榄绿色，入口如咀嚼风干的芭蕉叶,又如同生啃晒干没多久的皮革，但回甘后四肢百骸会掠过电流般的轻颤。"
+    }
+  ]
+}

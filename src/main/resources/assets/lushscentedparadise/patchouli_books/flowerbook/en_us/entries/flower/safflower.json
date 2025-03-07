@@ -1,0 +1,27 @@
+{
+  "name": "Safflower",
+  "icon": "lushscentedparadise:safflower",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 36,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#FF4500)$(l)【Blossom of the Scorching Sun】$()$(br2)“A fiery bloom, blazing across every corner of the land.”$(br2)Safflowers shine like the last embers of sunset, swaying boldly in the wind, unyielding to cold or heat. They flourish across diverse landscapes, their petals rich in natural heat-resistant compounds. In ancient times, desert travelers brewed safflower tea before venturing into the dunes, believing it granted them resistance against scorching winds. Legends claim that tying a safflower-woven cord around one’s ankle allows one to stride across the sands as if walking on solid ground."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:safflower",
+      "text": "Found in nearly all biomes, from towering peaks to barren deserts, from dense forests to sprawling plains. Its deep roots allow it to withstand droughts and extreme heat. The flowers bloom at their peak under the midday sun, igniting the land in a sea of flame-like blossoms."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_safflower",
+      "text": "Excerpt from *The Desert Wanderer’s Journal*$(br)“A lost traveler collapsed in the heart of a merciless desert, his hope fading with the sun. As his vision blurred, he caught sight of a lone safflower standing unscorched beneath the blazing sky. Desperate, he chewed its petals, feeling a burning pain surge through him—awakening his will to survive. Three days later, he walked out of the storm.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:safflower_tea",
+      "text": "Gently simmering safflower petals produces a brilliant orange-red tea, releasing a subtly spicy aroma. Upon drinking, warmth rises from within, and the once-scorching desert heat becomes nothing more than a passing breeze. The sand beneath one’s feet no longer resists, allowing steps to land effortlessly.$(br2)$(#CD5C5C)But remember—no flame burns forever. What blazes brightest must one day fade...$()"
+    }
+  ]
+}

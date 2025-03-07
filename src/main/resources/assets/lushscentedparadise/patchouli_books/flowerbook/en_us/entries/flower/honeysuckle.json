@@ -1,0 +1,27 @@
+{
+  "name": "Honeysuckle",
+  "icon": "lushscentedparadise:honeysuckle",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#dcc584)$(l)【Twin-Colored Spirit Vine】$()$(br2)“Blooming white as snow, fading to molten gold—a cycle of life and death that purifies all impurities.”$(br2)Honeysuckle vines coil around ancient trees and crumbling walls, their hanging twin-colored blossoms shifting from moonlight white in youth to golden amber in decline. Their fragrance neutralizes toxic swamp miasma, and medieval herbalists distilled them into the ‘Panacea Elixir.’ Brewed petal extracts were once used to dissolve the venomous mucus of spider fangs. At night, the flowers emit a pearl-like glow, guiding lost wanderers through poison-laden forests."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:honeysuckle",
+      "text": "Thrives in meadows, hills, and forest fringes, often found clinging to the stone walls of abandoned ruins or the twisted branches of ancient trees."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_honeysuckle",
+      "text": "Excerpt from *Plague Chronicles*$(br)“When the witch’s toxic fog engulfed the village, an elderly woman, untouched by illness, gathered honeysuckle flowers daily, boiling them in an iron cauldron till dawn. The villagers who drank the decoction coughed up blackened blood but miraculously survived by the cemetery’s edge. Before her passing, she scattered honeysuckle seeds into her coffin. The following spring, golden vines enveloped her grave, forever blooming with twin-colored flowers—half as pure as rebirth, half as charred as remnants of fire.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:honeysuckle_tea",
+      "text": "An equal mix of white and golden honeysuckle blossoms is simmered gently with cane sugar. The resulting tea swirls with amber ripples, carrying a chilling and scorching dual sensation down the throat. With each sip, residual toxins within the body seem to evaporate as violet mist."
+    }
+  ]
+}

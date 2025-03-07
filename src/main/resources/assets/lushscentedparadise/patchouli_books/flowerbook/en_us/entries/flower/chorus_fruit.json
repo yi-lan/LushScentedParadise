@@ -1,0 +1,27 @@
+{
+  "name": "Chorus Fruit",
+  "icon": "minecraft:chorus_fruit",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#a97fbd)$(l)【Void Crystal】$()$(br2)“A bizarre growth among the End’s towering spires, a forbidden fruit that devours spatial laws.”$(br2)These spiraling purple fruits are covered in honeycomb-like pores, harboring unstable void energy within. When consumed raw, the flesh releases particles that distort space, causing the eater’s body to reappear elsewhere. It is said that Endermen rely on this fruit to traverse dimensions."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:chorus_fruit",
+      "text": "Grows only on the Chorus Plant found in the outer End islands. Who knows how they reproduce?"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:popped_chorus_fruit",
+      "text": "Excerpt from *The Rift Exploration Journal*$(br)“We mistakenly ate the chorus fruit to stave off hunger. In an instant, my team scattered like fireworks—John got embedded in an obsidian pillar, Maria’s leg remained in the Overworld, and my left eye… to this day, it still catches glimpses of the void’s corridors.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:chorus_tea",
+      "text": "Sliced chorus fruit is steeped in scalding milk until the flesh dissolves into nebula-like swirls. Upon drinking, muscle fibers briefly quantumize, allowing a punch to shatter obsidian. The milk also neutralizes the chorus fruit’s adverse effects.$(br2)End survival tip: Always keep a bucket of milk in your inventory—it can turn the void’s deadly gifts into divine power capable of tearing through enemy ranks."
+    }
+  ]
+}

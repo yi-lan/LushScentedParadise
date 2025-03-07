@@ -1,0 +1,27 @@
+{
+  "name": "Violet",
+  "icon": "lushscentedparadise:violet",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 24,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#4B0082)$(l)【Twilight Oath】$()$(br2)“Deep purple petals glow in the fading dusk, whispering ancient vows upon the wind.”$(br2)Violets bloom in dense clusters, their layered petals resembling the partially drawn curtains of the night sky. Their cool, lingering fragrance often drifts across plains and meadows at dawn. Legends tell that knights wore violets before battle, believing the flowers symbolized courage and a promise to return home."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:violet",
+      "text": "Commonly found in plains, meadows, and flower forests, favoring moist soil. Their deep root systems help stabilize the ground and prevent erosion. As dusk falls, the petals close slightly, only to bloom again with the first light of dawn."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_violet",
+      "text": "Excerpt from *The Traveler's Notes*$(br)“While wandering through a hillside covered in violets, I heard whispers on the wind, as if someone had sworn an oath under the veil of night. The mountain folk told me these were the dreams of warriors left unfulfilled—and that these flowers serve as their guideposts home.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:violet_tea",
+      "text": "Slowly simmered violet petals produce a deep purple tea that shimmers with a faint golden glow under sunlight. Upon drinking, a surge of energy courses through the veins, as if lightning itself pulses within—granting temporary immense strength.$(br2)$(#8B0000)Yet beware—those who drink too much may find themselves believing they can shatter mountains with their bare hands…$()"
+    }
+  ]
+}

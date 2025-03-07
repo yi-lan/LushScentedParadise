@@ -1,0 +1,27 @@
+{
+  "name": "芍药",
+  "icon": "lushscentedparadise:herbaceous_peony",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 32,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#C71585)$(l)【月影流光】$()$(br2)“花开似锦，暗夜中凝望天穹的眸光”$(br2)芍药花朵硕大，层叠如云，常在幽静的森林深处绽放。其花瓣微微透光，夜晚在月光下泛起朦胧的银辉。古代游吟诗人曾将芍药比作“梦境之灯”，相传夜间捧花凝视星空，能窥见未来的片段。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:herbaceous_peony",
+      "text": "广泛分布于各类森林，偏爱肥沃土壤。花苞白日微闭，入夜后缓缓绽放，似有引月光入梦之妙。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_herbaceous_peony",
+      "text": "摘录自《星夜札记》$(br)“那夜，我循着微光穿越密林，抵达芍药绽放的空地。当我用指尖触碰花瓣，刹那间，四周的一切都被银辉勾勒清晰……而下一秒，心口却传来一阵刺痛。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:herbaceous_peony_tea",
+      "text": "将芍药花瓣与蔗糖共煮，茶汤清澈如镜，微带淡淡甘苦。饮后双目仿佛蒙上一层夜光薄纱，黑暗中轮廓尽显分明。$(br2)$(#8B0000)但要小心——窥探黑夜的代价，或许是短暂的剧痛……$()"
+    }
+  ]
+}

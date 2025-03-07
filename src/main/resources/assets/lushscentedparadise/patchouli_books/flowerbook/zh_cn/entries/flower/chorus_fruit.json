@@ -1,0 +1,27 @@
+{
+  "name": "紫颂果",
+  "icon": "minecraft:chorus_fruit",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#a97fbd)$(l)【虚空结晶】$()$(br2)“末地石柱间的诡异增生，吞噬空间法则的禁忌之果”,$(br2)这些螺旋生长的紫色果实表面布满蜂窝状孔洞，内部流淌着不稳定的虚空能量。直接啃食时，果肉会释放扭曲空间的粒子，使食用者的躯干会出现在其他的地方，相传末影人正是依赖此果跨越维度。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:chorus_fruit",
+      "text": "仅生长于末地外岛的紫颂植株，谁知道它们是怎么繁殖的呢？"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:popped_chorus_fruit",
+      "text": "《裂隙探险手记》$(br)我们误将紫颂果当作充饥物分食，霎时间队员如烟花四散传送——约翰嵌进了黑曜石柱，玛丽亚的腿留在了主世界，而我的左眼至今还能瞥见虚空回廊..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:chorus_tea",
+      "text": "将紫颂果切片浸入炽热牛奶，直至果肉融化成星云状漩涡。饮下后肌肉纤维短暂量子化，拳锋可击碎黑曜石，而牛奶能够消除紫颂果的副作用。$(br2)末地生存法则：永远在背包保留一桶牛奶，它能将致命的虚空馈赠，转化为撕裂敌阵的神赐之力。"
+    }
+  ]
+}

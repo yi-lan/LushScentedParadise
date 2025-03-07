@@ -1,0 +1,27 @@
+{
+  "name": "Cocoa Beans",
+  "icon": "minecraft:cocoa_beans",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 18,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8b5e41)$(l)【Gift of the Tropics】$()$(br2)“Deep in the sun-scorched rainforest, a golden fruit ripens with rich and bold flavors.”$(br2)Cocoa beans grow in lush tropical rainforests, hanging from sturdy tree trunks. Their pods, deep brown in color, encase fragrant and delicate seeds. Absorbing the rainforest’s humid air and scorching sunlight, they swell with vitality. When ground into a bitter yet intense drink, they are used to invoke courage and warmth."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cocoa_beans",
+      "text": "Cocoa beans primarily grow in jungle biomes, attaching to tree trunks. Their growth is a long process—starting as pale green pods, gradually turning golden, and finally maturing into deep brown. Once fully ripe, the pods can be harvested, and the beans scatter like nature’s sweet gift to the land."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cocoa_beans",
+      "text": "Excerpt from *Jungle Tribe Chronicles*$(br)“One night, by the campfire, an old hunter handed me a steaming cup of cocoa. My first sip was bitter, like the rainforest’s damp earth. Yet, moments later, warmth spread from my throat to my limbs, as if I were embraced by the fire itself.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:hot_cocoa",
+      "text": "Hot cocoa is the ultimate form of cocoa beans. The tea is deep brown, exuding a rich aroma, balancing slight bitterness with sweetness. Drinking it instantly restores some health, as if wrapped in a comforting warmth."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "乌龙茶",
+  "icon": "lushscentedparadise:oolong_tea_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“半发半醇，花果交融，刚柔并济，尽显风骨。”$(br2)乌龙茶，介于绿茶与红茶之间，因其独特的半发酵工艺而独具特色。茶叶色泽墨绿，冲泡后汤色金黄透亮，香气层次丰富，既有绿茶的清香，又带有红茶的甘醇，被誉为‘茶中妙品’。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oolong_tea_seeds",
+      "text": "乌龙茶生长于温暖湿润的山地、丘陵地带，尤其适应昼夜温差较大的环境。其叶片肥厚，富含茶多酚，适合制作风味浓郁的茶饮。旅人可在野外寻找野生茶树，通过乌龙茶种子进行人工栽培，打造自己的茶园。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oolong_tea_leave",
+      "text": "乌龙茶植株适应性强，耐旱耐湿，但需充足光照以保证茶叶品质。$(br)乌龙茶的生长周期适中，每次采摘后，玩家可获得乌龙茶叶，并有概率掉落额外的乌龙茶种子。其独特的半发酵工艺，使茶叶既保留了清新口感，又拥有独特的焙火香气。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kudzu",
+  "icon": "lushscentedparadise:kudzu",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 46,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#6B8E23)$(l)【Vine of the Gale】$()$(br2)“Its tendrils embrace the land, its roots burrow deep into the soil, granting travelers the swiftness of the wind.”$(br2)Kudzu is commonly found in plains and savannas, its vines thriving as they cling to rocks and trees. Its roots are rich in water and nutrients, making it a prized survival resource in the wilderness. According to ancient tales, mountain hunters would consume kudzu root to run as fast as the wind, unburdened by fatigue."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_kudzu",
+      "text": "Primarily grows in plains and savannas, with deep-reaching roots that allow it to spread rapidly even in barren soil. Its vines are remarkably strong, capable of climbing cliffs and dead trees. When swaying in the wind, they resemble a storm sweeping across the grasslands."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_kudzu",
+      "text": "Excerpt from *The Ranger’s Journal*$(br)“A weary traveler, burdened by the weight of supplies, found his steps slowing to a crawl. But after brewing and drinking kudzu root tea, his exhaustion vanished in an instant, his movements as light and swift as a leopard, unhindered by fatigue.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:kudzu_soup",
+      "text": "Simmered kudzu root produces a light brown tea with a faint, refreshing sweetness. Upon drinking, one's limbs are filled with boundless energy, granting swift movement and effortless excavation.$(br2)$(#556B2F)Yet, there is an old saying—those who become addicted to the thrill of speed may one day realize that the road beneath them has disappeared…$()"
+    }
+  ]
+}

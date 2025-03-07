@@ -1,0 +1,27 @@
+{
+  "name": "Lavender",
+  "icon": "lushscentedparadise:lavender",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 34,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#9370DB)$(l)【Whisper of the Wind】$()$(br2)“Upon mountain peaks, waves of violet ripple in the breeze, murmuring distant dreams.”$(br2)Lavender’s slender flower spikes sway like drifting clouds, exuding a calming fragrance. Flourishing in high-altitude meadows, it is accustomed to standing tall against the wind. Mountain folk once regarded it as the messenger of the wind god, believing that those who wore a lavender wreath could hear whispers of the future carried by the breeze."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lavender",
+      "text": "Thrives in alpine meadows and high-altitude biomes, resilient to cold and fond of wind. When in full bloom, entire valleys transform into vast oceans of purple, swaying gently with the currents of the air."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lavender",
+      "text": "Excerpt from *The Traveler’s Memoirs*$(br)“A shepherd once told me that on the night lavender reaches full bloom, the sheep in the pasture run wild in their dreams—only to awaken at dawn, finding themselves miles away.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lavender_tea",
+      "text": "Lavender flowers are slowly roasted, producing a tea as clear as the first light of dawn, with a faint sweetness upon the tongue. After drinking, footsteps feel lighter, as if the wind itself carries the drinker over the mountain ridges, and fate seems to smile a little more kindly.$(br2)$(#6A5ACD)But be warned—wind never blows in just one direction. Where luck leads, uncertainty follows…$()"
+    }
+  ]
+}

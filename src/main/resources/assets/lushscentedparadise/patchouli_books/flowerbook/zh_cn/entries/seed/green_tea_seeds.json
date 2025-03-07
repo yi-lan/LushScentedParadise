@@ -1,0 +1,21 @@
+{
+  "name": "绿茶 ",
+  "icon": "lushscentedparadise:green_tea_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“新叶初展，清泉煎煮，淡淡的苦涩之下，是回甘的醇厚。”$(br2)绿茶，源自嫩叶的精细处理，是最接近自然形态的茶类之一。它拥有清新的香气，色泽翠绿，口感甘醇。自古以来，绿茶因其清爽的风味和独特的健康功效而备受青睐，被誉为“茶中甘露”。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea_seeds",
+      "text": "绿茶喜爱生长于温暖湿润的森林与丘陵地带，尤其偏爱 温带与亚热带气候。它的嫩叶在晨露中舒展，吸收阳光与雨露，使其滋味更加清新。旅人若想获得绿茶，可寻找野生茶灌木，通过绿茶种子进行人工种植，打造属于自己的茶园。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea_leave",
+      "text": "绿茶植株需要温暖湿润的环境，并且经过一段时间的生长，才能进入成熟阶段。$(br)每次收获绿茶，都能获得一些绿茶的茶叶和新的种子，便于下一次的种植。"
+    }
+  ]
+}

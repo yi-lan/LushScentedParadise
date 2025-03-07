@@ -1,0 +1,27 @@
+{
+  "name": "茯苓",
+  "icon": "lushscentedparadise:poria",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 47,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#D2B48C)$(l)【林中灵息】$()$(br2)“静谧森林之下，埋藏着轻盈步伐的秘药。”$(br2)茯苓生长于幽深的森林之中，隐于厚厚的腐叶与枯木之下，外表毫不起眼，却蕴藏着令人惊叹的活力。古老医典记载，山中行者以茯苓入汤，驱散虚弱之躯，步履轻盈，宛如鹿影穿梭林间。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_poria",
+      "text": "多见于森林阴湿处，依附古木根系生长。外观如普通菌块，但剖开后可见淡粉色纹理，触之温润，带有微微的松香气息。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_poria",
+      "text": "摘录自《樵夫遗卷》$(br)“一位年迈的猎手，步履蹒跚，连弓弦也难以拉开。山民煮茯苓汤赠予，饮尽之后，他竟如年轻时般健步如飞，直至夜幕降临，仍未感疲惫。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:poria_tea",
+      "text": "缓炖茯苓，汤色澄澈，微带松木的清香。饮后四肢轻盈，虚弱尽散，行走间如风拂林叶。$(br2)$(#8B4513)但须谨慎，若过度依赖这股力量，或许会遗忘疲惫的真正意义……$()"
+    }
+  ]
+}

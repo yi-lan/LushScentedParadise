@@ -1,0 +1,26 @@
+{
+  "name": "Mocha",
+  "icon": "lushscentedparadise:mocha",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#8B4513)When rich coffee meets indulgent chocolate, a warm and sweet miracle is born.$()\"$(br2)$(#DAA520)Mocha Coffee$() is a coffee drink that combines $(#8B4513)Espresso$() with $(#D2691E)chocolate$(), $(#FFD700)blending bitterness and sweetness$() into a $(#FF69B4)smooth, creamy experience$() with a $(#DAA520)deep and full-bodied flavor$().$(br)$(#FFD700)Mocha$() not only $(#FF4500)boosts alertness$() but also $(#FF69B4)brings relaxation and joy$(), making it a perfect choice for $(#8B4513)coffee lovers$() and $(#D2691E)chocolate enthusiasts$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:mocha",
+      "text": "$(#FFD700)Mocha Coffee$() is ideal for players who $(#FF69B4)love rich coffee flavors$() but also enjoy the $(#D2691E)aroma of chocolate$().$(br2)It $(#FFD700)warms the body and mind$(), making it suitable for $(#FF69B4)relaxing moments$(), while also providing $(#FF4500)mild combat buffs$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make $(#FFD700)Mocha$(), you need:$(br2)$(#8B4513)· One cup of standard $(#FFD700)Espresso$()$(br)$(#D2691E)· Melted dark chocolate or cocoa powder$()$(br)$(#FFFACD)· A suitable amount of warm milk$()$(br)$(#FFFACD)· A layer of creamy milk foam$()$(br2)Compared to a $(#DAA520)Latte$(), $(#FFD700)Mocha$() has $(#D2691E)richer flavor layers$(), perfectly $(#FF69B4)balancing sweetness and boldness$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Mocha Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#FF4500)Slightly increases attack power for a short time$()$(br)· $(#FFD700)Provides a mild speed boost$()$(br)· $(#FF69B4)Reduces mental fatigue and improves mood$()$(br)· $(#D2691E)Slightly reduces incoming damage$()$(br2)$(#8B0000)Mocha$() is a $(#FFD700)balanced coffee that offers both combat boosts and relaxation$(), making it perfect for $(#FF4500)pre- and post-battle consumption$(), helping $(#FF69B4)reduce stress while maintaining focus$()."
+    }
+  ]
+}

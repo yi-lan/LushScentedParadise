@@ -1,0 +1,27 @@
+{
+  "name": "Sweet Berries",
+  "icon": "minecraft:sweet_berries",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#ab2417)$(l)【Ruby of the Snowfields】$()$(br2)“A sweet gift from the frost, salvation for the winter-weary stomach.”$(br2)Clusters of vibrant red berries dangle from the branches of these low shrubs, their skin coated with a natural wax layer to resist the cold. The tannins within impart a slight astringency, but upon chewing, a lingering sweetness follows. Arctic travelers often spread berry jam over dried meat—not only does it prevent spoilage, but it also replenishes scarce vitamins."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:sweet_berries",
+      "text": "Found on leeward slopes in snowy tundras, frozen rivers, and ice spike biomes, with roots burrowing deep into the permafrost to draw moisture. Ripe berries attract gatherings of arctic foxes. If grown with bone meal, the berries double in size but lose some of their sweetness. When covered by snow, they can serve as natural traps to lure and catch wild rabbits."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_sweet_berries",
+      "text": "Excerpt from a polar expedition supply list:$(br)“A pound of dried sweet berries can be traded for three days' worth of rations—this is the hard currency of sled relay stations. The old guide taught us: bury berries in the cracks of an igloo wall, and their aromatic vapors will slow down body heat loss, providing better insulation than ten layers of fur.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:sweet_berries_tea",
+      "text": "Freeze-dried sweet berries are boiled with cane sugar, yielding a rose-colored tea. At first sip, a sharp tartness tingles the tongue, but soon a honey-like warmth spreads through the throat. After drinking, fingers regain their color, as if clutching a red-hot coal while braving a blizzard."
+    }
+  ]
+}

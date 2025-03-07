@@ -1,0 +1,21 @@
+{
+  "name": "马鞭草茶",
+  "icon": "lushscentedparadise:verbena_tea",
+  "category": "lushscentedparadise:tea",
+  "sortnum": 38,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“紫红色的花瓣，流淌着月夜的温柔光辉。”$(br2)马鞭草茶是一款带有淡淡清香的茶饮，由晒干的马鞭草与糖调制而成。茶汤微紫透亮，饮用后可提供夜视效果，让旅人在黑暗中看清前方的道路。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)马鞭草茶的制作需要$(br)晒干的马鞭草与糖混合熬煮。$(br)适合在夜间探险或深洞探索时饮用，让黑暗的世界不再阻碍前行。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:verbena_tea",
+      "text": "饮用马鞭草茶后，旅人将获得夜视效果，使黑暗环境变得清晰可见。$(br)这是一款适用于夜间探索的茶饮，让旅人无惧黑暗。$(br)安装JEI后对着图标按下R键可以查询配方"
+    }
+  ]
+}

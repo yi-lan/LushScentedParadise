@@ -1,0 +1,21 @@
+{
+  "name": "Black Tea",
+  "icon": "lushscentedparadise:black_tea_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“Withering under the blazing sun, deeply roasted to perfection—each leaf holds the essence of time.”$(br2)Black tea is renowned for its rich aroma and amber-colored infusion. Unlike green tea, its processing method involves full fermentation, resulting in a deeper, sweeter flavor. As one of the most popular teas worldwide, black tea not only offers a comforting warmth but also carries an uplifting energy."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:black_tea_seeds",
+      "text": "Black tea thrives in temperate forests and hilly regions, preferring a warm and humid climate. It is more cold-resistant than green tea, and its tender leaves slowly unfurl under the sunlight, accumulating complex flavor compounds. Travelers seeking black tea can search for wild tea trees or cultivate their own plantations using black tea seeds."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:black_tea_leave",
+      "text": "Black tea plants require ample sunlight and moisture to reach maturity.$(br)When harvested, each yield provides black tea leaves and additional seeds for continued cultivation. Compared to green tea, black tea may have a higher yield but requires a longer growth cycle."
+    }
+  ]
+}

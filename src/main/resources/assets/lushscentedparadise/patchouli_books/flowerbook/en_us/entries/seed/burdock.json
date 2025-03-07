@@ -1,0 +1,21 @@
+{
+  "name": "Burdock",
+  "icon": "lushscentedparadise:burdock",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“Deep-rooted in the soil, rugged and resilient, bittersweet yet nourishing, full of vitality.”$(br2)Burdock is a hardy root vegetable widely found in meadows and plains. Its roots are rich in nutrients, commonly used in cooking, tea brewing, or medicinal preparations, earning it the title of ‘Root of the Earth.’"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_burdock",
+      "text": "Wild burdock mainly grows in plains and meadows, anchoring itself deep into the soil to absorb the land’s nutrients.$(br)Unlike ordinary crops, burdock does not require seeds to propagate. Instead, its root can be directly buried in the soil, gradually sprouting into a new plant over time."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:burdock",
+      "text": "A fully grown burdock plant yields multiple burdock roots, which can be replanted for continuous cultivation.$(br)Its roots are highly nutritious, serving as both a culinary ingredient and a key component in restorative herbal teas—an essential crop for travelers seeking endurance and vitality."
+    }
+  ]
+}

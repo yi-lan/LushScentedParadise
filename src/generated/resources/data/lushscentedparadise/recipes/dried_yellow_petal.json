@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 600,
+  "input": {
+    "item": "botania:yellow_petal"
+  },
+  "output": "lushscentedparadise:dried_yellow_petal"
+}

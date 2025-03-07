@@ -1,0 +1,26 @@
+{
+  "name": "Caramel Macchiato",
+  "icon": "lushscentedparadise:caramel_macchiato",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)Smooth milk, bold coffee, a drizzle of caramel—sweetness with a hint of bitterness. This is Caramel Macchiato.$()\"$(br2)$(#DAA520)Caramel Macchiato$() is a coffee drink that combines $(#8B4513)Espresso$() with $(#FFD700)caramel$(), where the $(#FF69B4)sweet caramel$() balances the $(#8B4513)bitterness$() of the coffee, creating a $(#FFD700)warm and delightful experience$().$(br)It not only $(#FF4500)boosts energy$() but also $(#FF69B4)temporarily enhances mental focus$(), making it perfect for $(#FFD700)exploration$() or $(#32CD32)relaxation$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:caramel_macchiato",
+      "text": "$(#FFD700)Caramel Macchiato$() is ideal for players who $(#FF69B4)enjoy sweet flavors$() but do not want to lose the $(#8B4513)richness of espresso$().$(br2)It $(#FFD700)warms the body and soul$(), providing a $(#FF69B4)short-term beneficial effect$() without being as overwhelming as $(#FF4500)Triespresso$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make a $(#FFD700)Caramel Macchiato$(), you need:$(br2)$(#8B4513)· One cup of standard $(#FFD700)Espresso$()$(br)$(#FFFACD)· A suitable amount of warm milk$()$(br)$(#FFD700)· A drizzle of caramel sauce on top$()$(br2)Compared to a $(#DAA520)Latte$(), the $(#FFD700)Caramel Macchiato$() has a $(#FF69B4)sweeter and more layered taste$(), perfectly balancing $(#FFD700)bitterness and sweetness$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Caramel Macchiato Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#FFD700)Temporarily increases attack power slightly$()$(br)· $(#FF69B4)Slightly restores health$()$(br)· $(#FFD700)Barely affects hunger levels$()$(br)· $(#FF4500)Grants luck!$()$(br2)$(#8B0000)Caramel Macchiato$() is perfect for $(#FFD700)a warm adventure$(), offering $(#FFD700)gentle but useful buffs$() between $(#FF69B4)relaxation and exploration$()."
+    }
+  ]
+}

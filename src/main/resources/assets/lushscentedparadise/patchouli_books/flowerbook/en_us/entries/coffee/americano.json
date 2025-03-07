@@ -1,0 +1,26 @@
+{
+  "name": "Americano",
+  "icon": "lushscentedparadise:americano",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#8B4513)Is espresso too strong? Try the smooth and mild Americano!$()\"$(br2)$(#DAA520)Americano$() is a $(#8B0000)diluted espresso$() with a $(#FFD700)mild and smooth$() taste. It retains the $(#8B4513)espresso$() flavor but is $(#00BFFF)easier to drink$(), making it ideal for $(#32CD32)long adventures$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:americano",
+      "text": "$(#FFD700)Americano$() is made by adding $(#00BFFF)hot water$() to $(#8B4513)espresso$(), reducing its $(#FF4500)bitterness$() and making it $(#FFD700)smoother and more enjoyable$().$(br2)It is perfect for players who need $(#32CD32)long-lasting endurance$(), offering a $(#FFD700)slow but sustained energy boost$() without causing $(#FF4500)strong side effects$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make $(#DAA520)Americano$(), you need:$(br2)$(#FFD700)· One cup of standard $(#8B4513)espresso$()$(br)$(#00BFFF)· A suitable amount of hot water$()$(br)$(#FFD700)· Gently stir to blend the flavors$()$(br2)Compared to the intense taste of $(#8B4513)espresso$(), $(#FFD700)Americano$() is better suited for $(#32CD32)slow sipping$(), allowing energy to be replenished $(#FFD700)steadily and consistently$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Americano Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#32CD32)Gradually increases movement speed$() but lasts longer$(br)· $(#FFD700)Provides extended haste$()$(br)· $(#A9A9A9)Consumes less hunger$(), making it ideal for prolonged use$(br2)$(#8B0000)Americano is great for daily adventures$(). Unlike $(#FF4500)Triespresso$(), which is extreme, it is a $(#FFD700)milder endurance drink$()."
+    }
+  ]
+}

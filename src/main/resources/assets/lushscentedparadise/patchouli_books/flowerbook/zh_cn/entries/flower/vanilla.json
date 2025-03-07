@@ -1,0 +1,27 @@
+{
+  "name": "香草",
+  "icon": "lushscentedparadise:vanilla_pod",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#F5DEB3)$(l)【甘美之约】$()$(br2)“在潮湿幽密的热带雨林，藤蔓缠绕着暗香，醉人却不张扬。”$(br2)野生香草花色洁白，果荚细长如青色小刀，剖开后即能闻到淡淡的甘美香气。相传雨林部落以其熬煮独特的酊剂，祝愿婚姻美满与家族兴旺。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_vanilla",
+      "text": "攀附于树干与藤蔓间，常见于闷热潮湿的雨林深处。果荚成熟后呈现棕褐色，需要精心晾晒发酵方能散发最醇厚的香气。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:vanilla_pod",
+      "text": "摘录自《雨林部族秘录》$(br)“当新婚之夜来临，长者会将晒制好的香草碾碎入酒，让恋人的心在甜香中交融。那些淡褐色的粉末，藏着来自大地与繁茂树冠间的祝福。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:vanilla_syrup",
+      "text": "以香草荚和蔗糖一同提炼，成鲜红色的糖浆状，朦胧香甜，如同轻纱拂过唇齿。$(br2)$(#CD853F)但传言过度沉溺于甘香者，终将迷失自我，分不清何为现实，何为幻梦……$()"
+    }
+  ]
+}

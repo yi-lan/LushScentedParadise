@@ -1,0 +1,21 @@
+{
+  "name": "Astragalus",
+  "icon": "lushscentedparadise:astragalus_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“Deep roots and slender leaves, a guardian against the cold, thriving in the heart of winter’s embrace.”$(br2)Astragalus is a hardy herbaceous plant that flourishes in cold climates, renowned for its powerful restorative properties. Whether brewed into tea or used in medicinal concoctions, astragalus is widely valued for enhancing physical strength and restoring energy."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:astragalus_seeds",
+      "text": "Wild astragalus primarily grows in extreme cold environments, such as permafrost tundras and snowy plains. Travelers can search these biomes for astragalus plants and collect their seeds to cultivate them artificially, ensuring a steady supply of this precious herb."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:astragalus_root",
+      "text": "When mature, astragalus plants yield both roots and additional seeds for continuous cultivation.$(br)Astragalus roots are rich in medicinal compounds, serving as an essential ingredient for resisting the cold, fortifying the body, and crafting specialized herbal teas and elixirs."
+    }
+  ]
+}

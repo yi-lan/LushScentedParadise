@@ -1,0 +1,27 @@
+{
+  "name": "Blue Orchid",
+  "icon": "minecraft:blue_orchid",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#28d2d0)$(l)【Phantom of the Marsh】$()$(br2)“When moonlight pierces the mist of the swamp, they cast ghostly butterfly-like shadows upon the ground.”$(br2)This epiphytic orchid features fringed petals of pale lavender, with deep blue markings adorning its floral lip. Its aerial roots secrete a phosphorescent mucus that attracts swamp insects. At midnight, the flower stems curl into natural bells, ringing with an ethereal hum in the wind—local folk call it ‘The Witch’s Twilight Chime’."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:blue_orchid",
+      "text": "These spectral blue blossoms root only in the most secluded corners of the swamp—where moss-laden decay seeps through rotting wood, beneath the curtain-like shadows of mangrove roots, or deep within reeds soaked in morning mist. Their petals gently open and close with the rhythm of the hidden currents, as if breathing secrets that have slumbered beneath the waters for a century."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_orchid",
+      "text": "A fragment from *The Misty Marsh Ballad*$(br)Oh, those blue-violet ghosts, swaying between rotted logs and sinking bogs. Old Buck always said they were the spirits of the drowned—‘If ever you get lost in the fog, follow the sound of the flower bells... but beware, never answer the second chime.’$(br)Last month, a foolhardy boy scoffed at the warning. Now, his straw hat still hangs upon the largest orchid, with a fresh bud blooming beneath its brim."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:blue_oc_tea",
+      "text": "Distilled from dried orchid petals, this tea gleams with a translucent blue-violet hue. Drinking it grants a fleeting stroke of luck—perhaps it might help a fishing line hook onto a sunken treasure chest, or coax a rare crystal from fractured ore.$(br2)$(#28d2d0)It is said that once, a fisherman reclaimed a shipwreck’s key from the fingers of a drowned soul thanks to this tea... yet ever since, his dreams have been filled with the unrelenting fog of the marsh.$()"
+    }
+  ]
+}

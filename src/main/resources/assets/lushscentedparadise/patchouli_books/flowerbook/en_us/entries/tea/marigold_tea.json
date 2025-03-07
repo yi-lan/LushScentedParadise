@@ -1,0 +1,21 @@
+{
+  "name": "金盏花茶",
+  "icon": "lushscentedparadise:marigold_tea",
+  "category": "lushscentedparadise:tea",
+  "sortnum": 35,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“阳光洒落，金黄盛放，赋予轻盈跳跃的力量。”$(br2)金盏花茶是一款明亮而富有活力的茶饮，由晒干的金盏花与糖制成。茶汤澄黄透亮，饮用后可提供跳跃提升效果，使旅人的步伐更加轻盈。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)金盏花茶的制作需要$(br)晒干的金盏花与糖混合熬煮。$(br)适合在崎岖地形或需要跳跃时饮用，让旅人轻松越过障碍。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:marigold_tea",
+      "text": "饮用金盏花茶后，旅人将获得跳跃提升效果，使其能够跳得更高、更远。$(br)这是一款提升机动性的茶饮，适用于复杂地形。$(br)安装JEI后对着图标按下R键可以查询配方"
+    }
+  ]
+}

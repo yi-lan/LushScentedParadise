@@ -1,0 +1,27 @@
+{
+  "name": "Cornflower",
+  "icon": "minecraft:cornflower",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#60ceeb)$(l)【Azure of the Skies】$()$(br2)“A touch of sky blue in the wilderness, swaying gently like a whisper in the wind.”$(br2)The slender stems of the cornflower hold up porcelain-blue blossoms, with serrated petals encircling a golden core. Often growing in clusters across sunlit plains, its flowers are rich in natural pigments and were once used as a fabric dye by European farmers. When dried, the petals can be steeped into a tea that soothes eye fatigue."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cornflower",
+      "text": "Thrives in the fertile soils of plains and forest edges but is also highly tolerant of barren land. Its hollow stems tremble slightly with the breeze, while its roots release compounds that suppress weed growth, making it a natural guardian along farmland borders."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_cornflower",
+      "text": "Excerpt from *The Northern Grain Chronicles*$(br)“When cornflowers bloom in July, the wheat bows its head for the filling season—farmers take it as a sign of the approaching harvest month. Children weave its blossoms into rings, for it is said that wearing one grants the ability to foresee the weather for the next three days.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cornflower_tea",
+      "text": "Once steeped, the tea turns a pale blue, releasing a gentle herbal aroma. Drinking it provides a brief boost to physical resilience, easing muscle soreness from prolonged labor."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "lsp.flowerbook.title",
+  "landing_text": "lsp.flowerbook.text",
+  "version": 1,
+  "book_texture": "lushscentedparadise:textures/gui/flowerbook.png",
+  "creative_tab": "lushscentedparadise:lushscentedparadise_other",
+  "use_resource_pack": true,
+  "model": "lushscentedparadise:flowerbook"
+}

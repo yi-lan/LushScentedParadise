@@ -1,0 +1,27 @@
+{
+  "name": "Jasmine",
+  "icon": "lushscentedparadise:jasmine",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 33,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#F8F8FF)$(l)【Phantom in the Mist】$()$(br2)“A delicate white bloom, softly unfolding within the morning mist, untouched by time.”$(br2)Jasmine flowers, pure as moonlight, cradle morning dew within their petals, reflecting hazy silhouettes. Thriving in damp landscapes, their fragrance drifts as lightly as dawn’s fog. Wandering poets once called them ‘Specters of the Creek.’ Legends tell of hunters inhaling jasmine’s scent before a hunt, believing it granted them silent footsteps and ensured success."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:jasmine",
+      "text": "Found along swamps and riverbanks, jasmine vines flourish in moisture-rich environments. Their scent peaks at sunrise and fades by dusk. Their slender tendrils spiral up tree trunks and rocks, with blossoms swaying as if whispering secrets to the wind."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_jasmine",
+      "text": "Excerpt from *Traveler’s Journal*$(br)“Night stalkers wove jasmine wreaths, believing they could move unseen through fog-laden nights. Yet, some say that should one dare to glimpse their own reflection in the water… they may find another pair of eyes staring back.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:jasmine_tea",
+      "text": "Jasmine petals are slow-roasted over low heat, producing a crystal-clear tea that carries only a wisp of fragrance. Upon drinking, one feels weightless, as if merging with the wind—perhaps even fate itself offers a fleeting smile.$(br2)$(#708090)But fate is ever unpredictable. Some say those who wander too far may one day be forgotten by the mist...$()"
+    }
+  ]
+}

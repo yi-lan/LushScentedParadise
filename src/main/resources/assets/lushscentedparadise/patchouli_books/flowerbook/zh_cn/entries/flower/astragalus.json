@@ -1,0 +1,27 @@
+{
+  "name": "黄芪",
+  "icon": "lushscentedparadise:astragalus_root",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 44,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#DAA520)$(l)【冰原甘露】$()$(br2)“沉眠于雪下的黄金之根，承载着生机与希望。”$(br2)黄芪扎根于寒冷的雪原，耐寒而顽强，即使风雪肆虐，仍能存活。其根茎富含营养，自古以来被北境的游牧者视作滋补圣品。传说在严寒冬夜，战士饮下黄芪煎煮的汤液，可抵御饥饿，并恢复疲惫的身躯。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_astragalus",
+      "text": "生长于雪原与冻土，极寒之地才能孕育其黄金色的根茎。黄芪在冰雪下静静生长，待春回大地，才悄然萌发新芽。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_astragalus_root",
+      "text": "摘录自《北地存续录》$(br)“冬狩的猎人曾因饥寒交迫而倒下，族长以黄芪根煮汤喂食，须臾之间，他的脸色恢复血色，能量亦随之归来。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:astragalus_soup",
+      "text": "缓炖黄芪根，茶汤澄黄透亮，微带草木甘香，饮下后饥饿感顷刻消失，身体渐渐恢复生机。$(br2)$(#B8860B)然有传言，若凡人贪恋其滋补之力，或许终将被大地吸取回馈……$()"
+    }
+  ]
+}

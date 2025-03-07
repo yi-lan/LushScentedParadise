@@ -1,0 +1,21 @@
+{
+  "name": "茯苓根茶",
+  "icon": "lushscentedparadise:poria_tea",
+  "category": "lushscentedparadise:tea",
+  "sortnum": 43,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“深埋泥土，积蓄生机，焕发活力，步履更轻盈。”$(br2)茯苓根茶是一款带有淡淡木质香气的茶饮，由晒干的茯苓根与糖调制而成。茶汤清澈淡黄，入口温和，饮用后可提供速度加成，让旅人行动更加敏捷。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)茯苓根茶的制作需要$(br)两份干燥的茯苓根与糖混合熬煮。$(br)适合在长途跋涉或需要快速行动时饮用，让旅途更加轻松。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:poria_tea",
+      "text": "饮用茯苓根茶后，旅人将获得速度加成，使其行走和奔跑速度提升。$(br)这是一款适用于旅途中提升机动性的茶饮。$(br)安装JEI后对着图标按下R键可以查询配方"
+    }
+  ]
+}

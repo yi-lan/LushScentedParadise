@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_coffee_beans"
+    },
+    {
+      "item": "lushscentedparadise:dried_coffee_beans"
+    },
+    {
+      "item": "lushscentedparadise:dried_coffee_beans"
+    },
+    {
+      "item": "lushscentedparadise:dried_coffee_beans"
+    },
+    {
+      "item": "lushscentedparadise:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:coffee_powder"
+  }
+}

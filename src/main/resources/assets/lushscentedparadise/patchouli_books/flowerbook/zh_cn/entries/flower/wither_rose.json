@@ -1,0 +1,27 @@
+{
+  "name": "凋零玫瑰",
+  "icon": "minecraft:wither_rose",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#51383b)$(l)【冥河之吻】$()$(br2)“死亡绽放的具象，生者勿近的禁忌之华”,$(br2)这朵由凋灵之力催生的黑灰色玫瑰，花瓣如烧焦的羊皮纸般脆弱，花蕊处悬浮着幽绿的能量核心。其周围土壤会逐渐腐化为灵魂沙，传说只有被诅咒的园丁才能触碰它而不化作白骨，而花瓣碾碎的粉末是制作凋灵骷髅陷阱的关键材料。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:wither_rose",
+      "text": "仅在凋灵杀死生物的尸骸上生成。生体绝灭，死中唤生。$(br2)其根须深入大地，汲取逝者残存的余温。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_wither_rose",
+      "text": "《黑夜残章》$(br)第七代死灵法师将凋零玫瑰植入心脏，换取挥拳击碎黑曜石的力量。当他的身躯最终崩解为尘埃时，战场中央绽放出覆盖三里的玫瑰海——每片花瓣都刻着阵亡者的姓名，每根尖刺都滴落着生还者的悔泪。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wither_rose_tea",
+      "text": "取三片花瓣蒸煮，加入蜂蜜掩盖腐土气息。茶汤沸腾时浮现骷髅幻影，饮下后血管如注入液态黑曜石，短时间力量大幅提升，但随时可能被反噬的死亡浪潮吞没。$(br2)$(#51383b)凝视死亡太久，终会被死亡回以注视……$()"
+    }
+  ]
+}

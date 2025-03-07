@@ -1,0 +1,27 @@
+{
+  "name": "铃兰",
+  "icon": "minecraft:lily_of_the_valley",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#a8c8d1)$(l)【林间银铃】$()$(br2)“晨露凝于瓷白铃铛，林风轻摇脆响无声”$(br2)铃兰低垂的钟形花朵如串串白玉铃铛，叶片宽大如翡翠托盘。其汁液含强心苷类毒素，中世纪药师谨慎提取微量用于心悸治疗，但误食两朵即可能致命，林间旅人又称其为「天使的毒酒杯」。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:lily_of_the_valley",
+      "text": "仅见于森林与繁花森林的阴湿角落，常簇拥在橡树根部的腐殖土上，或溪流旁的蕨类丛中。据传花朵在月光下散发微弱荧光，若上方有遮荫树冠，花茎会自主缠绕攀附以获取更多光照。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lily_of_the_valley",
+      "text": "摘自18世纪某乡村医生的日志：$(br)老亨利的妻子误将铃兰当作野蒜食用，三小时后瞳孔扩散，暗如黑夜。我用乌鸦胆汁与炭灰催吐，终从死神手中夺回她的性命。自那日起，我总在药柜最上层存放一束铃兰——既是警示，亦是对自然威力的敬畏。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lily_of_the_valley_tea",
+      "text": "将干燥铃兰花蕾用作原材料，茶汤渐变为危险的深紫色。经验丰富的制茶人掌握精确剂量，使毒素转化为短暂激发体能的药剂，但稍有不慎便将招致灾厄。(不是刌民那个灾厄)"
+    }
+  ]
+}

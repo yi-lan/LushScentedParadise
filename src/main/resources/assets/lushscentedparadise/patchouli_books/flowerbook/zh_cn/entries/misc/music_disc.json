@@ -1,0 +1,22 @@
+{
+  "name": "音乐唱片",
+  "icon": "lushscentedparadise:music_disc",
+  "category": "lushscentedparadise:misc",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#FFD700)悠扬的旋律飘荡在田野之间$()，$(#00BFFF)轻快的音符$()点缀着$(#32CD32)农耕$()的每一刻。”$(br2)这张$(#DAA520)音乐唱片$()收录了一首$(#FF69B4)温馨的 8-bit 轻音乐$()，旋律$(#00BFFF)轻快$()且富有$(#FFD700)节奏感$()，非常适合在$(#32CD32)务农$()、$(#FF69B4)种植鲜花$()，或是$(#8B4513)悠闲整理茶园$()时播放。$(br)当这段$(#FFD700)音乐$()响起，一切都变得$(#FF69B4)惬意而美好$()。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:music_disc",
+      "text": "$(#FFD700)音乐的力量$()不仅能$(#32CD32)放松身心$()，还能为$(#00BFFF)旅人$()带来$(#FF69B4)更加沉浸式的体验$()。$(br)在一个$(#ADD8E6)宁静的午后$()，伴随着$(#32CD32)微风和鸟鸣$()，插上唱片，让这首$(#FFD700)轻柔的旋律$()陪伴你的$(#8B4513)劳作时光$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:music_disc",
+      "text": "这张$(#DAA520)音乐唱片$()可以在$(#8B4513)唱片机$()中播放，为你的$(#32CD32)农场$()、$(#FF69B4)花园$()或$(#8B4513)茶园$()增添一丝$(#FFD700)温馨的氛围$()。$(br)它不仅仅是一段$(#00BFFF)旋律$()，更是$(#8B4513)悠闲农耕生活的象征$()。"
+    }
+  ]
+}

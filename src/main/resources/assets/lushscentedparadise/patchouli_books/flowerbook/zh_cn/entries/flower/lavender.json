@@ -1,0 +1,27 @@
+{
+  "name": "薰衣草",
+  "icon": "lushscentedparadise:lavender",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 34,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#9370DB)$(l)【风之呢喃】$()$(br2)“群山之巅，紫色的浪潮随风翻涌，低诉遥远的梦。”$(br2)薰衣草的花穗如流云般轻柔，在风中摇曳，飘散出沁人心脾的幽香。广布于高海拔草甸，习惯迎风而立，曾被山民视作风神的信使。传说佩戴薰衣草花环者，能听见山风带来的未来低语。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lavender",
+      "text": "广泛生长在高山草甸及海拔较高的生物群系，耐寒且喜风。花序随风轻摆，盛放时整片山谷仿佛被紫色海洋覆盖。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lavender",
+      "text": "摘录自《旅者手札》$(br)“曾有牧羊人言，薰衣草盛放之夜，牧场的羊群会在梦中奔跑，直至黎明醒来才发现已相隔千里。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lavender_tea",
+      "text": "将薰衣草花穗缓慢烘焙，茶汤澄澈如晨曦微光，入口则带有一丝清甜。饮后脚步轻盈如风掠过山脊，命运似乎亦更为眷顾。$(br2)$(#6A5ACD)但须注意——风不会只吹向一处，幸运的另一面，也许是无从预测的方向……$()"
+    }
+  ]
+}

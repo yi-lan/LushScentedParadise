@@ -1,0 +1,25 @@
+{
+  "name": "Flower Bag",
+  "icon": "lushscentedparadise:flower_bag",
+  "category": "lushscentedparadise:misc",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)Flowers fade quickly$(), but with $(#FF69B4)careful preservation$(), their $(#FF4500)vibrant beauty$() can be kept.\"$(br2) During your journey, you may $(#FF69B4)pick$() various types of $(#FF69B4)flowers$(), but carrying too many $(#FF69B4)flowers$() can quickly fill your $(#8B4513)inventory$(). This is why the $(l)$(#DAA520)Flower Bag$()$() was created."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:flower_bag",
+      "text": "The person who invented the $(l)$(#DAA520)Flower Bag$()$() was truly a $(#FFD700)genius$()!"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)The $(l)$(#DAA520)Flower Bag$()$() has a $(#00BFFF)27$()-slot capacity and can store $(#FF69B4)picked flowers$(), but it cannot hold other items.$(br2)It occupies only one slot in your $(#8B4513)inventory$(), while allowing you to store a large number of $(#FF69B4)flowers$(), making travel more convenient.$(br2)When holding the $(l)$(#DAA520)Flower Bag$()$(), any $(#FF69B4)picked flowers$() will automatically be placed inside, keeping your $(#8B4513)inventory organized$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)By opening the $(l)$(#DAA520)Flower Bag$()$(), you can organize or take out stored $(#FF69B4)flowers$() at any time for $(#8B0000)tea brewing$(), $(#FFD700)decoration$(), or $(#DAA520)trading$().$(br2)You can also toggle the $(#FF4500)auto-pickup function$() by holding the $(l)$(#DAA520)Flower Bag$()$() and pressing $(#32CD32)Shift + Right Click$()."
+    }
+  ]
+}

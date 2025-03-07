@@ -1,0 +1,36 @@
+{
+  "name": "Excipients",
+  "icon": "minecraft:sugar",
+  "category": "lushscentedparadise:basis",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)The flavor of a cup of tea$() is not solely determined by $(#8B4513)the tea itself$(). The addition of $(#CD5C5C)excipients$() can bring out entirely new characteristics.\"$(br2)$(#8B4513)Tea$() is more than just $(#00BFFF)water$() and $(#32CD32)botanicals$(). Certain $(#CD5C5C)excipients$() can $(#FFD700)balance bitterness$(), $(#FF69B4)enhance flavor$(), or even $(#8A2BE2)impart new effects$().$(br)This chapter introduces various $(#CD5C5C)common excipients$(), explaining how they influence the final $(#8B0000)tea$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:sugar",
+      "text": "\"$(#FFD700)The smooth warmth of sweetness$() makes everything easier to enjoy.\"$(br)No one dislikes $(#FFD700)sweetness$(), unless it becomes overwhelming.$(br)Adding $(#8B0000)sweetness$() to $(#FFD700)tea$() makes certain $(#8B4513)bitter$() or $(#CD5C5C)spicy$() teas more palatable.$(br)$(#FF4500)Excessive$() $(#FFD700)sugar$() can mask the $(#32CD32)delicate floral notes$() of a tea, so it is best used in moderation."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:milk",
+      "text": "\"$(#FFFACD)The creamy softness$() makes $(#8B0000)tea$() smoother and hides $(#9370DB)unexpected secrets$().\"$(br)$(#FFD700)Neutralizes$() $(#8B0000)bitterness$() in tea, making it more $(#FF69B4)velvety$(), and can $(#32CD32)remove certain negative effects$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:honey_bottle",
+      "text": "\"$(#DAA520)The nectar gathered by bees$() imbues $(#8B0000)tea$() with a $(#FF69B4)warm soul$().\"$(br)Adds a $(#FFD700)natural sweetness$() with a $(#FF69B4)delicate floral fragrance$(), enhancing the $(#8B0000)tea's depth$().$(br)It pairs well with almost any $(#8B0000)tea$(), though it is particularly useful for $(#8A2BE2)special teas with less pleasant flavors$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:ice",
+      "text": "\"$(#ADD8E6)Fragments of frost$() give $(#8B0000)tea$() a new dimension.\"$(br)Chills $(#8B0000)tea$(), transforming it into $(#00BFFF)iced tea$() and enhancing its $(#87CEEB)refreshing quality$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)Beyond these $(#CD5C5C)common excipients$(), some $(#8A2BE2)rare ingredients$() may exist throughout the world, capable of $(#FFD700)bestowing mysterious effects$() upon tea. May you, through the exploration of $(#8B4513)tea artistry$(), discover your own $(#FF69B4)perfect recipe$(), letting $(#8B0000)tea$()'s $(#FFD700)flavor$() blossom anew in your hands."
+    }
+  ]
+}

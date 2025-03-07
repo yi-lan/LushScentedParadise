@@ -1,0 +1,12 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [
+    {
+      "tag": "minecraft:flowers"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "book": "lushscentedparadise:flowerbook"
+}

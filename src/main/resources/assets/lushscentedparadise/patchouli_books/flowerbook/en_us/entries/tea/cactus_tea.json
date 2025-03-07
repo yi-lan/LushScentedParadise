@@ -1,0 +1,21 @@
+{
+  "name": "仙人掌茶",
+  "icon": "lushscentedparadise:cactus_tea",
+  "category": "lushscentedparadise:tea",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“烈日灼灼，沙海无垠，坚韧的生命，也能化作甘美的滋味。”$(br2)仙人掌茶是一款极具沙漠风情的茶饮，由晒干的仙人掌肉、蜂蜜与糖精心熬制而成。它能赋予旅人‘沙漠行者’的特性，使人在炎热环境中更加适应，但偶尔也可能因为刺扎到喉咙而受伤。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)仙人掌茶的制作需要$(br)晒干的仙人掌肉、蜂蜜和糖混合熬煮。$(br)适合在沙漠旅途中饮用，让旅人在沙丘间行走更加轻盈，但请小心，那些隐藏的细小刺可能会让你吃苦头。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cactus_tea",
+      "text": "饮用仙人掌茶后，旅人将获得‘沙漠行者’的效果，使其在沙漠地形上更加灵活，但也有小概率受到轻微伤害。$(br)这是一款适合极端环境的茶饮，但需谨慎品尝。$(br)安装JEI后对着图标按下R键可以查询配方"
+    }
+  ]
+}

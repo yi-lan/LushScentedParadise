@@ -1,0 +1,26 @@
+{
+  "name": "Triespresso",
+  "icon": "lushscentedparadise:triespresso",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#8B4513)A single shot of Espresso isn't enough for you?$() Then try $(#FF4500)Triespresso$()!\"$(br2)$(#DAA520)Triespresso$() is a $(#FF4500)triple-extracted version$() of regular $(#8B4513)Espresso$(), containing significantly more caffeine and $(#FFD700)providing an explosive speed boost$().$(br)It is ideal for $(#FF4500)high-intensity combat$(), $(#00BFFF)rapid terrain traversal$(), or $(#A9A9A9)staying alert in extreme situations$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:triespresso",
+      "text": "$(#FFD700)Triespresso$() is the $(#FF4500)ultimate form of concentrated coffee$(), granting $(#FF4500)an extremely high speed boost$() but also rapidly depleting $(#A9A9A9)hunger$(). It is recommended to consume it alongside food."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make $(#FF4500)Triespresso$(), you need:$(br2)$(#FFD700)· Triple-ground $(#8B4513)high-quality coffee beans$()$(br)$(#FF4500)· Extracted using extreme pressure to create $(#8B0000)triple-concentrated coffee essence$()$(br)$(#DAA520)· A thick, dark crema layer$()$(br2)$(#FF4500)Triespresso has an intensely bold flavor$(), suitable only for true coffee enthusiasts."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Triespresso Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#FF4500)Greatly increases movement speed$(), ideal for short bursts of high-speed travel$(br)· $(#FFD700)Provides a significant endurance boost$(), useful in critical situations$(br)· $(#A9A9A9)Rapidly drains hunger$(), so consuming food alongside it is recommended$(br2)$(#8B0000)Triespresso is meant for extreme situations$(), such as $(#FF4500)combat, escape, or long-distance running$(). Be mindful of its side effects!"
+    }
+  ]
+}

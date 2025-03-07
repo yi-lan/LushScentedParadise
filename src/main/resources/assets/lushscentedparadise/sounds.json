@@ -1,0 +1,10 @@
+{
+  "lush_scented_paradise": {
+    "sounds": [
+      {
+        "name": "lushscentedparadise:lush_scented_paradise",
+        "stream": true
+      }
+    ]
+  }
+}

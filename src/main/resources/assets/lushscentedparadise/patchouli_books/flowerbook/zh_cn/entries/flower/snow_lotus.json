@@ -1,0 +1,27 @@
+{
+  "name": "雪莲",
+  "icon": "lushscentedparadise:snow_lotus",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 37,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#ADD8E6)$(l)【冰封之华】$()$(br2)“寒风凛冽，唯有雪莲在白雪之下静静盛放。”$(br2)雪莲生于冰封万里的极寒之地，花瓣宛如琉璃雕刻，轻触间可感受到渗入骨髓的冷意。它汲取雪山深处的生命精华，流传于世的传说中，凡人若得其花，便能抵御严寒，甚至逆转濒死之伤。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:snow_lotus",
+      "text": "仅生长于极寒环境，如雪山之巅、冰原深处。极其稀有，花苞需多年积蓄养分方可绽放。一旦盛开，其生命力便会急剧消耗，数日后化作冰尘消散于风雪之中。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_snow_lotus",
+      "text": "摘录自《北境生存手册》$(br)“雪地中受伤的猎人曾尝试食用雪莲花瓣，瞬息间血肉重塑，连旧年的伤疤亦随之愈合。然他自此夜夜梦见冰原深处的低语，仿佛自己早已不再属于尘世。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:snow_lotus_tea",
+      "text": "雪莲花瓣需以纯净雪水煮沸，茶汤晶莹剔透，如融化的寒冰。饮下后，冰冷的甘甜顺喉而下，随即涌入四肢百骸，体内所有创伤以惊人速度修复，生命之力被彻底激发。$(br2)$(#4682B4)但传说有言，凡凡俗躯若承受不住这股力量，灵魂或许会在寒意中逐渐冻结……$()"
+    }
+  ]
+}

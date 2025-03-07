@@ -1,0 +1,27 @@
+{
+  "name": "木槿",
+  "icon": "lushscentedparadise:hibiscus",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#D43F57)$(l)【烈日之绽】$()$(br2)“骄阳下的绚烂之花，风沙中的生命誓言”$(br2)木槿花瓣宽大，艳红如燃烧的余晖，绽放于炙热的风中。其根系深入干裂的黄土，汲取深处的水分，能在严酷的环境中傲然挺立。古老部族曾以木槿花装点战士的发辫，寓意不屈的勇气与荣誉。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:hibiscus",
+      "text": "生长于萨瓦纳草原与沙漠绿洲，耐旱而不耐寒。黎明时花瓣微卷，午时盛放，落日后逐渐凋零，翌日重生。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_hibiscus",
+      "text": "摘录自《旅者药典》$(br)“木槿的花瓣研磨成粉，配以泉水调和，可快速止血——在烈日下行路的人们，常随身携带几片干燥木槿，以备不时之需。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:hibiscus_tea",
+      "text": "将木槿花瓣缓缓煎煮，茶汤呈透亮的猩红色，略带微酸气息。饮下后暖流迅速遍布全身，疲惫消散，伤口愈合如新。$(br2)$(#FF6347)但若用量过多，亦可能引发心跳加速，令人短暂晕眩……$()"
+    }
+  ]
+}

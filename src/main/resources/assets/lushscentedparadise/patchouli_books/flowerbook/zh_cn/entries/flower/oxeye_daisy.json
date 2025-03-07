@@ -1,0 +1,27 @@
+{
+  "name": "滨菊",
+  "icon": "minecraft:oxeye_daisy",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#97e000)$(l)【霜月守望者】$()$(br2)“当寒露初降，它们的花瓣便化作大地的银甲，将秋夜的肃杀拒之门外”$(br2)这些雪白的花盘由无数匕首状的纤细花瓣环绕，中央的金色花蕊犹如熔铸的日轮碎片。传说古代牧羊人会编织滨菊花环挂在羊圈外，其凛冽的香气能驱散狼群眼中嗜血的凶光，花瓣上的露珠更被炼金术师称为「大地的止痛泪滴」。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:oxeye_daisy",
+      "text": "与郁金香共享平原与繁花森林的日光，却独爱北坡清冷的晨风——茎秆在低温中会结晶出细密的冰霜纹路，若在满月夜采摘，花萼底部将凝结出珍珠状的寒露凝胶，触碰时能暂时冻结指尖的痛觉。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_oxeye_daisy",
+      "text": "《守夜人祷词》残卷$(br)第七任守将曾令士兵在壕沟旁遍植滨菊，当敌军火矢如流星坠落时，那些花朵突然迸发出月华般的光幕，将烈焰化作纷飞的霜蝶。战后幸存的园丁在日记中写道：‘这不是奇迹，而是花朵在偿还它们从北风那里借来的凛冬之债。’如今残存的滨菊仍会在战死者忌日无风自动..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oxeye_daisy_tea",
+      "text": "泛着金属光泽的苍褐色茶汤。饮下时耳畔会响起古老的战吼，皮肤表面浮现若隐若现的古老符文，仿佛短暂披上了已逝战士的灵质铠甲。"
+    }
+  ]
+}

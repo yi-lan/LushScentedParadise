@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "lushscentedparadise:gingerbread_man"
+  },
+  "result": "lushscentedparadise:cooked_gingerbread_man"
+}

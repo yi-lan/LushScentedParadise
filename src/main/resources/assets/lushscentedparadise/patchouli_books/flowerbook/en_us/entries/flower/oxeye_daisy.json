@@ -1,0 +1,27 @@
+{
+  "name": "Oxeye Daisy",
+  "icon": "minecraft:oxeye_daisy",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#97e000)$(l)【Guardian of the Frost Moon】$()$(br2)“With the first frost, its petals turn into the silver armor of the land, warding off the chill of autumn nights.”$(br2)These snow-white blooms are crowned with countless dagger-like petals encircling a golden heart, resembling shattered fragments of a molten sun. Legends tell of ancient shepherds weaving Oxeye Daisy wreaths to hang over their sheep pens, believing their sharp scent could drive the bloodlust from wolves' eyes. Alchemists once called the dew on its petals ‘The Earth's Soothing Tears.’"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:oxeye_daisy",
+      "text": "Though it shares the plains and flower forests with tulips, it favors the cool winds of north-facing slopes. At low temperatures, frost-like patterns form on its stems. When harvested under a full moon, pearl-like frost gel gathers at the base of its sepals, numbing pain upon contact."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_oxeye_daisy",
+      "text": "Fragment from *The Night Watcher’s Prayer*$(br)The Seventh Commander ordered soldiers to plant Oxeye Daisies along the trenches. When enemy fire arrows rained down like falling stars, the flowers suddenly erupted with a moonlight-like shield, turning the flames into drifting frost butterflies. A surviving gardener later wrote in his diary: ‘This was not a miracle; it was the flowers repaying the winter’s debt they borrowed from the northern wind.’ To this day, remnants of Oxeye Daisies still bloom on the anniversary of the fallen, swaying even without wind."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oxeye_daisy_tea",
+      "text": "A tea with a metallic sheen, murky gray-brown in color. Upon drinking, ancient war cries echo in the ears, and faint, glowing runes emerge across the skin—as if donning the ethereal armor of long-forgotten warriors."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Villager - Florist",
+  "icon": "lushscentedparadise:flower_table",
+  "category": "lushscentedparadise:basis",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#32CD32)They converse with soil and petals$(), dancing with $(#FF69B4)tea aromas and the breeze$().\"$(br2)During your journey, you may encounter a $(#FFD700)special type of villager$()—the $(#FF69B4)Florist$(). They are not $(#A9A9A9)ordinary farmers$(), but $(#DAA520)masters of flower cultivation$(), $(#8B0000)tea blending$(), and $(#FF69B4)aromatherapy$(). $(#FFD700)Their skills have been passed down for generations$(), allowing them to not only $(#32CD32)cultivate rare flowers$(), but also to brew $(#FF69B4)astonishing teas$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:flower_table",
+      "text": "To turn a $(#A9A9A9)regular villager$() into a $(#FF69B4)Florist$(), you need to provide them with a $(#8B4513)Flower Workbench$() as their $(#A9A9A9)job site block$()."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager{VillagerData:{profession:'lushscentedparadise:flower_master',level:5}}",
+      "text": "It is rumored that when a $(#FF69B4)Florist$() reaches $(#FF4500)the highest level$(), they will be willing to sell a $(#8B0000)legendary weapon$()—the $(#FF69B4)Blade of Flowers$()."
+    }
+  ]
+}

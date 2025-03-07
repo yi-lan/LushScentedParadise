@@ -1,0 +1,26 @@
+{
+  "name": "Cappuccino",
+  "icon": "lushscentedparadise:cappuccino",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#8B4513)A richer coffee, a thicker milk foam, bringing a more balanced flavor experience$().\"$(br2)$(#DAA520)Cappuccino$() is a coffee beverage that combines $(#8B4513)Espresso$() with $(#FFFACD)creamy milk foam$(). The $(#FFD700)bold coffee taste$() and the $(#FF69B4)light sweetness of milk$() create a perfect balance.$(br)Compared to a $(#DAA520)Latte$(), Cappuccino has a $(#8B4513)stronger coffee flavor$(), making it ideal for $(#FF4500)quick energy boosts$() and $(#FFD700)enhancing focus before battles$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cappuccino",
+      "text": "$(#FFD700)Cappuccino$() sits between $(#8B4513)Espresso$() and $(#DAA520)Latte$(), $(#FFD700)balancing bold coffee with silky milk foam$(), offering a $(#FF69B4)smoother and more flavorful experience$().$(br2)It is ideal for players who $(#FF4500)need a temporary mental boost$() but do not want the overstimulation of $(#DAA520)Triespresso$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make a $(#FFD700)Cappuccino$(), you need:$(br2)$(#8B4513)· One cup of standard $(#FFD700)Espresso$()$(br)$(#FFFACD)· An equal amount of steamed milk$()$(br)$(#FFFACD)· Thick milk foam on top$()$(br2)Compared to a $(#DAA520)Latte$(), a $(#FFD700)Cappuccino$() has a $(#8B4513)higher coffee ratio$(), making it better suited for players who $(#FF4500)crave a stronger flavor$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cappuccino Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#FFD700)Slightly increases speed for a short time$()$(br)· $(#FFD700)Barely affects hunger$()$(br)· $(#FF69B4)Slightly restores health$()$(br2)$(#8B0000)Cappuccino$() is great for $(#FFD700)pre-battle preparation$(), providing $(#FF4500)short but effective buffs$() while also $(#FF69B4)bringing warmth and comfort$()."
+    }
+  ]
+}

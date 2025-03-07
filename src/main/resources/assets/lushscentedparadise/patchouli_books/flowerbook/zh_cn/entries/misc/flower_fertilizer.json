@@ -1,0 +1,36 @@
+{
+  "name": "花肥",
+  "icon": "lushscentedparadise:flower_fertilizer",
+  "category": "lushscentedparadise:misc",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“花开遍野，芬芳满怀。”$(br2)花肥是一种$(#FFD700)特殊的肥料$()，能够在适宜的$(#32CD32)生物群系$()内催生$(#FF69B4)自然花卉$()。$(br)只需对着$(#A9A9A9)空地$()使用，它便会在$(#00BFFF)周围区域$()激发新的花朵生长，使你的世界更加绚丽多彩。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:flower_fertilizer",
+      "text": "$(#FFD700)花肥$()可用于以下$(#32CD32)生物群系$()：$(br2)$(#32CD32)· 平原$()$(br)$(#32CD32)· 草甸$()$(br)$(#DAA520)· 萨瓦纳草原$()$(br)$(#FFD700)· 沙漠$()$(br)$(#6B8E23)· 沼泽$()$(br)$(#228B22)· 树林$()$(br2)在$(#A9A9A9)不适宜的生物群系$()中使用，花肥将不会生效。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:flower_fertilizer",
+      "text": "这个不臭。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "花肥的作用范围",
+      "text": "$(br)使用花肥后，它将在$(#00BFFF)7×3×7$()的范围内进行$(#FF69B4)花朵催生$()，检查区域内所有$(#A9A9A9)符合条件的方块$()（$(#32CD32)可种植且上方为空气$()），并尝试生成花朵。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "花朵生成规则",
+      "text": "$(br)$(#FF69B4)花肥的基础生成概率$()为$(#FFD700)70%$()，并遵循以下递减机制：$(br2)$(#FFD700)· 遍历所有符合条件的方块$()，依次进行花朵生成尝试。$(br)$(#FFD700)· 每次成功生成花朵$()后，基础概率降低$(#FF4500)10%$()。$(br)$(#FFD700)· 直到所有方块尝试过一次$()，或概率降至$(#FF4500)0%$()（共生成$(#FFD700)七次$()）。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)这种$(#FFD700)逐步衰减的机制$()可以确保花肥$(#FF69B4)不会一次性催生过多花朵$()，同时给予$(#32CD32)每个可生长的方块$()平等的机会。$(br2)想要创造$(#FF69B4)繁花盛开的景观$()？你或许需要$(#DAA520)多次使用花肥$()，以填满整个区域。$(br2)要不要试试计算一下期望？"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "马鞭草",
+  "icon": "lushscentedparadise:verbena",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 42,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B008B)$(l)【暮色低语】$()$(br2)“紫红色的小花在水波边轻摆，似在低声诉说夜的秘密。”$(br2)马鞭草多生于溪流与河岸，茎秆纤细，花瓣微小却繁密，星星点点洒落于水边，映照出朦胧的余晖。古老传说中，月光照耀的马鞭草可捕捉夜的精魂，赋予观察黑暗的能力。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_verbena",
+      "text": "常见于河流两岸，依水而生，根系盘绕湿润土壤。马鞭草花苞在黄昏时微微舒展，夜幕降临后愈发鲜艳，如夜晚的星辰映照在水面。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:verbena",
+      "text": "摘录自《隐者手札》$(br)“夜行者在旅途中采集马鞭草，制成粉末涂于眼睑，以求在黑暗中视物清晰。然传言，凡过度依赖其花者，终将迷失于月色笼罩的幻境。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:verbena_tea",
+      "text": "缓炖马鞭草花瓣，茶汤呈淡紫色，微光下隐隐浮现流动的银色纹路。饮下后，夜晚的轮廓顿时清晰，黑暗不再是阻碍。$(br2)$(#4B0082)但请谨慎——长时间凝视黑暗，黑暗也会回以注视……$()"
+    }
+  ]
+}

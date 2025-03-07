@@ -1,0 +1,27 @@
+{
+  "name": "玫瑰",
+  "icon": "minecraft:rose_bush",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#850f19)$(l)【荆棘之吻】$()$(br2)“每一片猩红花瓣，都裹挟着甜蜜的警示”,$(br2)玫瑰的层叠花瓣如天鹅绒般馥郁，茎秆密布尖刺作为天然铠甲。其花香被蒸馏为珍贵精油，中世纪战场医师曾用玫瑰水清洗创口，而枝叶煎煮的汁液可驱赶侵害作物的蚜虫，是美与防御的共生杰作。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:rose_bush",
+      "text": "仅见于森林与繁花森林的透光地带，常攀附岩石或老树基部生长。茎刺在干旱时会硬化如铁，触碰可造成轻微流血；若用骨粉催生，刺丛密度将增加三倍（也可能是两倍）。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_rose",
+      "text": "草药图鉴《自然之镜》$(br)“采玫瑰者需趁晨露未消，以银剪断茎，皮革护掌心——刺上的血珠若渗入花萼，制成的药膏将引发癔症。农谚有云：‘七月玫瑰刺愈坚，预示寒冬早临两星期’。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:rose_tea",
+      "text": "将晒干的玫瑰与蔗糖共同烘焙，茶汤渐变为亮红色并散发果香。饮下后足底生风，林间穿行时荆棘自动避让，也许残留的花香会吸引蜂群尾随。"
+    }
+  ]
+}

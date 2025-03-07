@@ -1,0 +1,36 @@
+{
+  "name": "Flower Fertilizer",
+  "icon": "lushscentedparadise:flower_fertilizer",
+  "category": "lushscentedparadise:misc",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“Flowers bloom across the land, filling the air with fragrance.”$(br2)Flower Fertilizer is a $(#FFD700)special fertilizer$() that can promote the growth of $(#FF69B4)natural flowers$() within suitable $(#32CD32)biomes$().$(br)Simply use it on $(#A9A9A9)empty ground$(), and it will stimulate new flowers to grow within the $(#00BFFF)surrounding area$(), making your world more colorful and vibrant."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:flower_fertilizer",
+      "text": "$(#FFD700)Flower Fertilizer$() can be used in the following $(#32CD32)biomes$():$(br2)$(#32CD32)· Plains$()$(br)$(#32CD32)· Meadows$()$(br)$(#DAA520)· Savannas$()$(br)$(#FFD700)· Deserts$()$(br)$(#6B8E23)· Swamps$()$(br)$(#228B22)· Forests$()$(br2)If used in an $(#A9A9A9)unsuitable biome$(), the fertilizer will have no effect."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:flower_fertilizer",
+      "text": "At least it doesn’t stink."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Fertilizer Effect Range",
+      "text": "$(br)After using Flower Fertilizer, it will trigger $(#FF69B4)flower growth$() within a $(#00BFFF)7×3×7$() area, checking all $(#A9A9A9)suitable blocks$() (i.e., $(#32CD32)plantable surfaces with air above$()) and attempting to generate flowers."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Flower Generation Rules",
+      "text": "$(br)$(#FF69B4)The base spawn probability$() of the fertilizer is $(#FFD700)70%$(), following a gradual decrease mechanism:$(br2)$(#FFD700)· It checks all valid blocks$(), attempting flower growth sequentially.$(br)$(#FFD700)· Each successful flower spawn$() reduces the probability by $(#FF4500)10%$().$(br)$(#FFD700)· This continues until all blocks are checked$(), or the probability reaches $(#FF4500)0%$() (up to $(#FFD700)seven flowers$() can be generated)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)This $(#FFD700)gradual reduction mechanism$() ensures that Flower Fertilizer $(#FF69B4)does not produce an excessive number of flowers at once$(), while still $(#32CD32)giving each valid block$() an equal chance to grow a flower.$(br2)Looking to create a $(#FF69B4)flower-filled paradise$()? You may need to $(#DAA520)apply fertilizer multiple times$() to cover the entire area.$(br2)Want to try calculating the expected yield?"
+    }
+  ]
+}

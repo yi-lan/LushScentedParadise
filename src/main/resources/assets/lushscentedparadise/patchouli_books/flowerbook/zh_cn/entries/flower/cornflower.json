@@ -1,0 +1,27 @@
+{
+  "name": "矢车菊",
+  "icon": "minecraft:cornflower",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#60ceeb)$(l)【晴空之蓝】$()$(br2)“旷野中的一抹天青，随风轻摇如低语”$(br2)矢车菊的纤细茎秆托举着瓷蓝色的花盘，锯齿状花瓣环绕金色花蕊，常成片生长于阳光充沛的平原。其花朵富含天然色素，曾被欧洲农民用作布料染料，干燥后的花瓣泡茶可舒缓眼疲劳。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cornflower",
+      "text": "共享平原与森林边缘的沃土，但更耐贫瘠。茎秆细长中空，微风掠过时会轻微震颤，根系分泌的物质可抑制杂草生长，是农田边缘的天然守护者。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_cornflower",
+      "text": "摘自《北方谷物志》$(br)“七月矢车菊盛放，麦穗低头始灌浆——农人视其花期为收割月的序章，孩童采撷编成指环，传说佩戴者能预知三日晴雨。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cornflower_tea",
+      "text": "热水冲泡后茶汤呈淡蓝色，散发温和的草木清香。饮后可短暂增强体魄，缓解长时间劳作后的肌肉酸痛。"
+    }
+  ]
+}

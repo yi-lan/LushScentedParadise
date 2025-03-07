@@ -1,0 +1,27 @@
+{
+  "name": "Burdock",
+  "icon": "lushscentedparadise:burdock",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 45,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B5A2B)$(l)【Root of Resilience】$()$(br2)“A robust root buried deep in the soil, carrying an unyielding vitality.”$(br2)Burdock is commonly found in plains and meadows, with roots that dig deep into the earth, tirelessly absorbing nutrients. Its seeds bear tiny hooks, allowing them to cling to travelers' garments and be carried afar. Folklore tells of warriors consuming burdock before long campaigns, seeking resistance to fatigue and protection from the cold."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_burdock",
+      "text": "Mainly grows in plains and meadows, resistant to cold and drought. Its deep-reaching roots allow it to survive even in barren lands. The hooked seeds are often dispersed by wind or animals, spreading to distant lands."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_burdock",
+      "text": "Excerpt from *The Traveler’s Handbook*$(br)“Trapped on a snow-covered mountain path in winter, a weary traveler found himself struggling to continue. Fortunately, a local villager prepared burdock root soup for him. Within moments, his exhaustion faded, his steps grew lighter, and he was able to make it home safely.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:burdock_soup",
+      "text": "Slowly simmered burdock root brews into a light brown tea with an earthy aroma. Upon drinking, warmth spreads through the body, granting resilience against the cold and restoring lightness to one’s steps.$(br2)$(#8B4513)However, take caution—relying on its strength for too long may make one forget what true fatigue feels like...$()"
+    }
+  ]
+}

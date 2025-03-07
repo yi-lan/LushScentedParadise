@@ -1,0 +1,27 @@
+{
+  "name": "Herbaceous Peony",
+  "icon": "lushscentedparadise:herbaceous_peony",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 32,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#C71585)$(l)【Moonlit Elegance】$()$(br2)“Blossoming like silk brocade, gazing at the heavens in the silent night.”$(br2)The herbaceous peony boasts large, layered petals resembling drifting clouds, often blooming deep within tranquil forests. Its petals emit a faint luminescence, shimmering with a soft silver glow under the moonlight. Ancient bards once likened it to the ‘Lantern of Dreams,’ believing that gazing upon its blossoms at night could reveal glimpses of the future."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:herbaceous_peony",
+      "text": "Widely distributed across various forests, preferring rich, fertile soil. During the day, its buds remain slightly closed, only to unfurl at night as if drawing moonlight into its dreams."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_herbaceous_peony",
+      "text": "Excerpt from *The Starlit Journal*$(br)“That night, I followed the faint glow through the dense woods until I reached a clearing where peonies bloomed. As I gently brushed the petals with my fingertips, the entire world became outlined in silver light... but in the next instant, a sharp pain pierced my chest.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:herbaceous_peony_tea",
+      "text": "Peony petals are slow-brewed with cane sugar, resulting in a tea as clear as a mirror, with a subtle bittersweet taste. After drinking, one's vision seems to be draped in a veil of moonlight, making silhouettes stand out even in darkness.$(br2)$(#8B0000)But beware—gazing too long into the night may come at the cost of fleeting pain...$()"
+    }
+  ]
+}

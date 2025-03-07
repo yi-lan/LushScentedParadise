@@ -1,0 +1,27 @@
+{
+  "name": "Cactus",
+  "icon": "minecraft:cactus",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#7dcd23)$(l)【Desert Sentinel】$()$(br2)“A fortress of thorns under the blazing sun, guarding its hidden reservoir.”$(br2)The fleshy stems of the cactus are covered in sharp spines, storing precious metabolic water within. Its pale yellow flowers bloom only after rare desert rains, closing again before dawn. The nectar is three times sweeter than honey, but those who seek it must brave the dense barrier of thorns. Desert travelers often crush its stem to apply the gel to wounds, as its mucus can slow infections."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cactus",
+      "text": "Cacti grow on exposed sandy terrain in deserts and badlands. Their root systems spread like a web to capture fleeting moisture, while their wax-coated stems reduce evaporation at midday."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_cactus",
+      "text": "Excerpt from a nomadic oral epic:$(br)“The first chieftain, Asal, crafted the ‘Spear of Sunfire’ from cactus thorns, its tip tempered in the fiercest midday sunlight. When a sandstorm swallowed the trade caravan, he drove his spear into the dunes, and every cactus bloomed at once, forming a radiant path leading to the oasis.”——Just a legend, but a good one."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cactus_tea",
+      "text": "Cactus flowers and roasted stem slices are slow-brewed over a gentle flame. After filtering out the spines, sugar and honey are added, resulting in a murky emerald-colored tea. Upon drinking, a rough, sandpaper-like sensation passes through the throat, followed by a sudden lightness in the feet—as if springs had been fitted to the soles, making movement across the sand swift and effortless."
+    }
+  ]
+}

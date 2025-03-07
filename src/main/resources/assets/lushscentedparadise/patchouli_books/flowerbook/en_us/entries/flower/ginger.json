@@ -1,0 +1,27 @@
+{
+  "name": "Ginger",
+  "icon": "lushscentedparadise:ginger",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#de982b)$(l)【Root of Earth’s Fire】$()$(br2)“A burning lifeline in the desert sands, its spice piercing the chains of winter.”$(br2)The rhizomes of ginger twist like crimson dragon claws, their rough exterior concealing an inner fire. Its pungent aroma drives out the cold from deep within the bones, earning it the title ‘Walking Bonfire’ among nomadic tribes. Desert travelers often hold a ginger slice under their tongue—allowing them to retain body heat even when sleeping on icy rocks. Its sheath secretes a viscous sap that can temporarily seal wounds, though it induces a burning sting."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_ginger",
+      "text": "Takes root only in the cracked earth of the dry season savanna or along the edges of desert oases, with roots delving deep in search of underground streams. When exposed to the scorching sun, its rhizomes exude salt crystals that form an insulating layer; if blessed with rare rainfall, the plant will sprout pale yellow inflorescences within 24 hours to attract drought-resistant beetles for pollination."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_ginger",
+      "text": "Excerpt from *Caravan Medical Codex*$(br)“The night we crossed the Tianshan Pass, a blizzard sealed all paths. We slaughtered our last camel and split open its stomach—inside, undigested ginger chunks saved an entire team. Mixing ginger powder with blackened snowmelt, we boiled it to drink. Our chests burned like a furnace, carving a path through -40°C frost.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:ginger_soup",
+      "text": "Thin slices of fresh ginger are caramelized with raw cane sugar in an iron pot and slow-brewed. The resulting tea glows with a molten-orange hue, and drinking it feels like a fire salamander darting down the throat, turning winter’s chill into a fleeting mist."
+    }
+  ]
+}

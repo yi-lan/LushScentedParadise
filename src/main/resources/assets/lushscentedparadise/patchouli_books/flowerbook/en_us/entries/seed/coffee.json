@@ -1,0 +1,21 @@
+{
+  "name": "Coffee",
+  "icon": "lushscentedparadise:coffee_fruit",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“The fiery bitterness of awakening, the power to embark on a journey.”$(br2)Coffee originates from warm, humid highlands, where its evergreen foliage thrives year-round. When ripe, its fruits emit a distinctive rich and bitter aroma. For travelers, coffee is not just an energizing remedy but a symbol of passion and adventure."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:coffee_fruit",
+      "text": "Coffee plants usually grow in warm regions with ample sunlight. By collecting wild coffee fruits, travelers can obtain seeds for artificial cultivation. Coffee plants require high moisture levels, and consistent irrigation is essential for proper maturation."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:coffee_beans",
+      "text": "Once the coffee plant matures, $(l)it can be harvested multiple times by right-clicking$(). Each harvest yields coffee beans while keeping the plant intact.$(br)After roasting and grinding, these beans can be brewed into a strong, invigorating coffee beverage—providing an endless supply of energy for long journeys."
+    }
+  ]
+}

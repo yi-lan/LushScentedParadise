@@ -1,0 +1,30 @@
+{
+  "name": "Teapot",
+  "icon": "lushscentedparadise:teapot",
+  "category": "lushscentedparadise:basis",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#FF4500)Flames lick the base of the pot$(), $(#00BFFF)steam rises$(), and the $(#FF69B4)essence of flowers and herbs$() $(#FFD700)unfolds$().”$(br2)$(#8B0000)Tea$() is not just the act of mixing $(#00BFFF)water$() with $(#32CD32)plants$(); it is an $(#DAA520)art of time and temperature$(). $(#FFD700)Different tea ingredients$() require $(#FF4500)varied heat levels and brewing methods$() to $(#8B0000)unlock their true flavors and effects$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:teapot",
+      "text": "The most common $(#8B4513)tea-making tool$(), suitable for brewing most $(#FF69B4)herbal teas$(). It is also ideal for $(#FF4500)longer simmering$() of $(#8B4513)tea ingredients$(). A $(#DAA520)good teapot$() is the lifeline of a $(#8B4513)tea master$(). Fortunately, this $(#DAA520)structured teapot$() can $(#00BFFF)self-regulate its temperature$(), making it possible to prepare some $(#ADD8E6)chilled beverages$() as well."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:teapot",
+      "text": "$(#8B4513)Brewing tea$() is not merely “$(#00BFFF)boiling water$()”; it is a $(#FFD700)delicate balance of heat and time$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)$(#00BFFF)Clear spring water$(), $(#00BFFF)well water$(), or $(#ADD8E6)distilled water$() $(#FF69B4)preserves the original flavors$() of tea ingredients, while $(#A9A9A9)murky water$() may $(#FF4500)affect the final taste$().$(br)Different $(#32CD32)flowers$(), $(#8B4513)roots$(), and $(#DAA520)fruits$() require $(#FFD700)varied brewing techniques$(), so selecting the right method is crucial.$(br)$(#FF69B4)Most herbal teas$() should be $(#FF4500)simmered over low to medium heat$() to prevent $(#FF69B4)active ingredients or aroma$() from $(#FF4500)evaporating too quickly$().$(br)$(#8B0000)Tea$() can be enhanced with $(#DAA520)honey$(), $(#FFD700)lemon$(), or $(#FFFACD)milk$() to $(#FF69B4)enrich flavor$() or $(#32CD32)boost effectiveness$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)To start $(#8B4513)brewing tea$(), place the $(#8B4513)teapot$() on a $(#FF4500)campfire$() or a $(#FFD700)smoker$().$(br2)Specific $(#8B0000)tea recipes$() have been collected and recorded in later chapters.$(br)——$(#DAA520)A Certain Tea Master$()"
+    }
+  ]
+}

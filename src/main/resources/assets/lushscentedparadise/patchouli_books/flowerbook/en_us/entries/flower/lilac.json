@@ -1,0 +1,27 @@
+{
+  "name": "Lilac",
+  "icon": "minecraft:lilac",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#f77ee5)$(l)【Fragrance of the Courtyard】$()$(br2)“At the break of dawn, whispers solidify into clusters of soft pink mist.”$(br2)The lilac's conical blossoms are composed of dozens of four-petaled flowers, with pale pink petals fading into creamy white at the base, exuding a delicate almond-like aroma. Its woody stems are often carved into protective charms, and tradition holds that hanging lilac branches at the entrance wards off nightmares, while its scent soothes restless children at night."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:lilac",
+      "text": "Grows in hidden corners of forests and flowering groves, preferring slightly acidic soil beneath oak tree canopies. Before dawn, the calyx secretes crystalline nectar, attracting early-rising hummingbirds and bees. At noon, the petals close slightly to conserve moisture, only to reopen at dusk."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lilac",
+      "text": "Excerpt from a village elder’s oral tradition:$(br)“In olden times, a bride’s bouquet always contained nine lilac sprigs. If the last petal to fall pointed south, it foretold a lasting marriage; if carried away by the wind to the treetops, a new sapling had to be planted in the courtyard—an age-old form of divination still taught by grandmothers to their grandchildren.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lilac_tea",
+      "text": "Lilac blossoms, plucked with morning dew, are gently simmered with cane sugar, producing a tea of soft coral-pink hue. Upon drinking, a cool sensation flows through the throat like a trickling mountain stream. In the past, woodcutters used this tea to ease joint stiffness caused by damp forest air."
+    }
+  ]
+}

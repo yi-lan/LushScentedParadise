@@ -1,0 +1,27 @@
+{
+  "name": "Hibiscus",
+  "icon": "lushscentedparadise:hibiscus",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#D43F57)$(l)【Blossom of the Scorching Sun】$()$(br2)“A radiant bloom under the blazing sun, a vow of life amidst the wind and sand.”$(br2)The hibiscus flaunts broad, crimson petals, burning like the embers of twilight, thriving in the heat of the desert wind. Its deep-reaching roots extract water from parched earth, allowing it to flourish in the harshest environments. In ancient tribes, warriors would weave hibiscus flowers into their braids, symbolizing unyielding courage and honor."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:hibiscus",
+      "text": "Grows in savannas and desert oases, highly drought-resistant but intolerant to cold. Its petals curl slightly at dawn, bloom fully at midday, and wither after sunset, only to be reborn the next day."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_hibiscus",
+      "text": "Excerpt from *The Traveler’s Herbal Codex*$(br)“When ground into powder and mixed with spring water, hibiscus petals can swiftly staunch bleeding—those journeying under the blazing sun often carry dried hibiscus as an emergency remedy.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:hibiscus_tea",
+      "text": "Hibiscus petals are gently simmered into a vibrant crimson tea with a tangy aroma. Upon drinking, a surge of warmth spreads through the body, dispelling fatigue and accelerating wound healing.$(br2)$(#FF6347)However, excessive consumption may cause a rapid heartbeat and temporary dizziness...$()"
+    }
+  ]
+}

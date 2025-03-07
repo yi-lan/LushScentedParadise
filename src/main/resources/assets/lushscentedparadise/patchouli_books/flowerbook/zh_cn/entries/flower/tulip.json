@@ -1,0 +1,27 @@
+{
+  "name": "郁金香",
+  "icon": "minecraft:white_tulip",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#e0bb00)$(l)【鎏金圣杯】$()$(br2)“黎明时分，它们的杯状花冠会盛满第一缕晨光，犹如诸神宴饮遗落的金盏”$(br2)这些挺拔的花茎托举着丝绸质感的杯形花朵，从深绯到鎏金的各色花瓣基部带有夜枭瞳仁般的墨色斑纹。传说初代皇家花匠曾用郁金香汁液为君王的长袍染色，使得整座宫殿在月夜下流淌着液态黄金般的光泽。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:white_tulip",
+      "text": "它们簇拥生长在平原日光最慷慨的地带，或是繁花森林边缘被古树根系拱卫的沃土之上，每逢阴雨将至，花瓣会提前三刻钟闭合成滴水不漏的瓷瓶形态，将偷饮花蜜的蜜蜂温柔囚禁直至放晴。$(br)不过minecraft的蜜蜂个头似乎不太允许它们这么做。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_tulip",
+      "text": "《金杯手札》残页$(br)摘自某位流亡贵族的密语卷轴：先祖的郁金香圃中藏着九十九种禁忌花色——鸦黑品种的花粉能篡改记忆，雪白变种可冻结时间的流速，而猩红条纹的‘帝王血冠’，正是旧日都城陷落前夕，皇室用三千名诗人的心血浇灌出的最后遗产。如今这些魔法植株早已绝迹，只剩下野地里的凡种，仍在年复一年地复刻着昔日的荣光幻影。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:tulip_tea",
+      "text": "熔金般的浓稠茶汤。饮下后心脏搏动声将如战鼓轰鸣，每一寸血管都奔涌着短暂借来的生命之力。"
+    }
+  ]
+}

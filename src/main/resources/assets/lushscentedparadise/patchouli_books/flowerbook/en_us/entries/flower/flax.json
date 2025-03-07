@@ -1,0 +1,27 @@
+{
+  "name": "Flax",
+  "icon": "lushscentedparadise:flax",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 48,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#B0C4DE)$(l)【Golden Wind’s Weave】$()$(br2)“Under the blazing sun, golden waves of grass ripple in the wind, nurturing a gift of protection.”$(br2)Flax grows only in the savanna, its slender stalks swaying with the breeze, dotted with delicate pale-blue flowers. Its seeds are rich in nutrients, and in ancient lore, warriors would drink flaxseed-infused broth before battle to harden their bodies against even the fiercest blows."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_flax",
+      "text": "Flax thrives in the arid savanna, favoring dry conditions. Its stalks are remarkably resilient, bending but rarely breaking under strong winds. The flowers bloom at dawn and quietly close at sunset."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_flax",
+      "text": "Excerpt from *The Nomad’s Journal*$(br)“In ancient times, warriors would grind flaxseeds into powder and mix them into broth before battle. After drinking three gulps, they could withstand enemy strikes, their bleeding slowed as if their very flesh had woven itself into armor.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:flax_tea",
+      "text": "Slowly simmered flaxseeds yield a deep blue-green tea with a faint nutty aroma. Upon drinking, an invisible barrier seems to form over the skin, absorbing a portion of incoming damage.$(br2)$(#696969)However, as the old saying goes—those who rely too much on protection may one day forget the meaning of pain…$()"
+    }
+  ]
+}

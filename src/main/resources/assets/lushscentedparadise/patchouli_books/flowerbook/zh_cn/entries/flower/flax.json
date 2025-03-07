@@ -1,0 +1,27 @@
+{
+  "name": "亚麻",
+  "icon": "lushscentedparadise:flax",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 48,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#B0C4DE)$(l)【金风织护】$()$(br2)“烈阳之下，金色草浪随风翻涌，孕育着守护的馈赠。”$(br2)亚麻仅生长于萨瓦纳草原，纤细的茎秆迎风摇曳，淡蓝色的小花点缀其中。其种子富含营养，古老传说中，勇士在战前会饮下亚麻籽制成的汤液，以求身体坚韧，能承受最猛烈的冲击。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_flax",
+      "text": "生长于萨瓦纳草原，喜干燥环境。亚麻茎秆坚韧，能随风而伏，不易折断，花朵于晨曦中盛放，日落后悄然闭合。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_flax",
+      "text": "摘录自《游牧者手札》$(br)“旧时部落战士在沙场厮杀前，必以亚麻籽磨粉入汤，连饮三口，便能承受敌方的刀剑冲击，血流亦随之迟缓。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:flax_tea",
+      "text": "缓炖亚麻籽，茶汤呈暗蓝绿色，带有微微坚果香气。饮后身体表面仿佛浮现无形护甲，能吸收部分伤害。$(br2)$(#696969)然传言有云——凡人若过度依赖守护，终将忘记痛楚的意义……$()"
+    }
+  ]
+}

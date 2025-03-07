@@ -1,0 +1,51 @@
+{
+  "name": "Tea",
+  "icon": "lushscentedparadise:green_tea_leave",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#6e7f34)$(l)【Mother of All Teas】$()$(br2)“A legacy of the ancient herbalist, its leaves hold the essence of tea’s fivefold soul.”$(br2)This unassuming shrub bears serrated leaves that change color with the seasons. Its deep-reaching roots intertwine with the memory of the earth. Legends tell that each tea leaf carries a different brewing secret from past dynasties. Seasoned tea farmers trim its branches only under a full moon, believing this ritual enhances the purity of its natural essence."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_tea",
+      "text": "Clusters thrive on sunlit slopes of plains and meadows, with root systems that resonate with underground water flows. The closer to a water source, the thicker the leaves grow. When broken, various types of primal tea seeds can be found within."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea_leave",
+      "text": "Leaves as fresh as spring willow buds, only harvested before the Grain Rain season. They must be air-dried on bamboo trays for nine days and nine nights to preserve their purest grassy aroma. *The Classic of Tea* states: ‘Its nature is cool, it dispels drowsiness, and connects to the divine.’ Ancient warriors kept tea leaves under their tongues, claiming it enhanced their blade-drawing speed by thirty percent. When steeped, the veins of the leaves unravel like countless emerald butterflies breaking free from their cocoons, and the tea shimmers like amber. Drinking it sharpens the senses and lightens one's steps."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:black_tea_leave",
+      "text": "Copper-red leaves curled like sleeping dragons, roasted over pine charcoal to release caramelized and smoky notes. Caravan traders compressed it into tea bricks, chewing on a single leaf to stave off hunger and thirst for three days while crossing the desert. Miners believed that drinking a cup of strong black tea before descending into deep tunnels would make the veins of ore glow faintly, revealing the safest mining paths. The tea’s rich brew gleams like molten gold, filling the chest with fiery vigor—pickaxes strike rock with sparks flying."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:white_tea_leave",
+      "text": "Only the unopened buds of the tea plant are harvested after the Awakening of Insects, dried under silkworm threads, turning silver-white like frost. Medical texts state it ‘expels decay and heals metal wounds.’ During medieval plagues, physicians brewed white tea with mint and honeysuckle, calling it the ‘Reaper’s Bane.’ The tea’s pale gold-green infusion is said to reverse wounds as if turning back time itself."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oolong_tea_leave",
+      "text": "The edges of the leaves are rust-red like oxidized iron, while their cores remain jade green like dragon scales. They must be ‘shaken under the midday sun’ to awaken their fragrance. Ancient wall builders chewed and applied crushed oolong leaves to their shoulders, claiming it allowed them to carry immense stone slabs without breaking. The brewed tea glows like the setting sun, and after drinking, the skin hardens as if clad in iron armor, deflecting arrows with a metallic clang."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:puer_tea_leave",
+      "text": "Aged tea bricks, dark as ink, steeped in the breath of the earth for centuries. When brewed, the aroma mingles with mossy forest scents. Tea traders along the Ancient Tea Horse Road believed in using Pu-erh to predict market luck—if swirling patterns formed on the tea’s surface, they fled the market immediately; if ripples spread in concentric rings, profits tripled."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea",
+      "text": "Three tender buds, plucked before Qingming, steeped in 75°C mountain spring water. When the leaves dance like green serpents, it is ready. The tea is as crisp as snowmelt, with a lingering bamboo fragrance."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)Perhaps tea is not as complex as ancient texts describe. Strange brewing methods may stem from humanity’s incomplete understanding of the world or mere creative fancy. In truth, drying tea leaves and boiling them in a teapot—that is all it takes to make tea.$(br)——A certain tea master"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "虞美人",
+  "icon": "minecraft:poppy",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#d22857)$(l)【血色罗裙】$()$(br2)“月光下摇曳的花影，是沉睡战神未愈的伤口”$(br2)这些绸缎般柔滑的猩红色花瓣常被误认为普通罂粟，实则花心处暗藏六芒星状墨色纹路。其茎秆分泌的乳白色汁液具有致幻特性，中世纪炼金师将其称作「梦魇女神的唇釉」。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:poppy",
+      "text": "全区域适应性，几乎生长于所有生物群系，除了那些极端的地方。只要能遇到阳光和土壤的地方，都可能有它的身影"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_poppy",
+      "text": "摘录自流浪炼金术师的羊皮卷轴：$(br)第七次月蚀之夜，我在墓园北角埋下九朵虞美人，当晨露浸润最后一片花瓣时，土壤中升起了墨蓝色的幽灵马。它们眼窝里盛开着永不凋零的花。$(br2)话说有人试过吗？"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:poppy_tea",
+      "text": "将虞美人花瓣置于银制坩埚中慢焙，萃取出泛着珍珠光泽的绛红色茶汤。饮下时能感受到温热的生命流在血管中蜿蜒苏醒$(br2)$(#BF2812)美丽而危险$(br)那日我在茶汤中看见自己腐烂的脸庞，而镜中的倒影却开始微笑...$()"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["lushscentedparadise:textures/image/ghost_horse.png"],
+      "title": "传说中的幽魂骏马",
+      "border": true,
+      "text": "只在传闻之中，至少我没听说谁见到过。"
+    }
+  ]
+}

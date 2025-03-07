@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 600,
+  "input": {
+    "item": "minecraft:cactus"
+  },
+  "output": "lushscentedparadise:dried_cactus"
+}

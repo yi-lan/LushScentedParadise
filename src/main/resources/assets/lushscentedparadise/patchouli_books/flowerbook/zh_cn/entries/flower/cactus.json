@@ -1,0 +1,27 @@
+{
+  "name": "仙人掌",
+  "icon": "minecraft:cactus",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#7dcd23)$(l)【沙漠哨兵】$()$(br2)“烈日下的荆棘堡垒，以尖刺守护甘泉”,$(br2)仙人掌的肉质茎秆布满锋利尖刺，内部储存着珍贵的代谢水。其淡黄色花朵仅在暴雨后绽放，黎明前闭合，花蜜甜度是蜂蜜的三倍，但采集者需躲避蜂群般密集的刺阵。沙漠旅人常将茎肉捣碎敷于伤口，其黏液能延缓感染。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cactus",
+      "text": "生成于沙漠与恶地群系的裸露沙地，根系如网蔓延以捕捉偶现的水汽。茎秆在正午会分泌蜡质减少蒸发."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_cactus",
+      "text": "摘自游牧部落的口述史诗：$(br)“初代酋长阿萨尔用仙人掌刺制成‘日灼之矛’，刺尖淬炼自正午最烈的阳光。当沙暴吞噬商队时，他将长矛插入沙丘，所有仙人掌同时绽放金花，连成指引绿洲的光之路。”——当个故事看看得了。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cactus_tea",
+      "text": "将仙人掌花与烘烤过的茎肉切片文火慢炖，滤去尖刺后加入蔗糖与蜂蜜，茶汤呈现浑浊的翡翠色，饮下时喉间掠过砂纸般的粗砺感，随即双脚如装上弹簧。走在沙上健步如飞"
+    }
+  ]
+}

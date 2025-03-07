@@ -1,0 +1,27 @@
+{
+  "name": "Marigold",
+  "icon": "lushscentedparadise:marigold",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 38,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#FFA500)$(l)【Dancing with the Dawn】$()$(br2)“Golden crowns greet the rising sun, reflecting the lightness of every step.”$(br2)Marigolds bloom across the world, thriving in both barren wastelands and lush forests alike. Their layered petals resemble small golden flames. Ancient legends speak of marigolds embodying the vitality of the morning sun, granting travelers agility to leap over mountains and obstacles with ease."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:marigold",
+      "text": "Found in almost every biome, marigolds especially favor sunlit locations. Their blossoms open during the day and close slightly at night. With shallow yet tenacious roots, they stand firm against the wind."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_marigold",
+      "text": "Excerpt from *Traveler’s Ballads*$(br)“The shepherds say that on the nights of peak marigold bloom, their dreamscapes stretch higher, allowing them to leap beyond the morning mist and touch the clouds.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:marigold_tea",
+      "text": "Slowly simmering marigold petals yields a golden, translucent tea with a faint citrus aroma. Upon drinking, footsteps become lighter, and leaps feel as though lifted by the morning breeze—gravity ceases to be a restraint.$(br2)$(#DAA520)But whispers warn: if one leaps too high, they may forget how to land…$()"
+    }
+  ]
+}

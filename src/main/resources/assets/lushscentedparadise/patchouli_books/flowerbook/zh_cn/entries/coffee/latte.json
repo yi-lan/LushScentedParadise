@@ -1,0 +1,26 @@
+{
+  "name": "拿铁",
+  "icon": "lushscentedparadise:latte",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#8B4513)咖啡的浓烈，与牛奶的温柔交织$()，这就是$(#FFD700)拿铁$()。”$(br2)$(#DAA520)拿铁咖啡$()（Latte）是一种$(#8B4513)牛奶与咖啡完美融合$()的饮品。$(#FFD700)Espresso$() 的醇厚与 $(#FFFACD)绵密奶泡$() 结合，使其$(#FFD700)温和顺滑$()，适合$(#32CD32)日常享用$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:latte",
+      "text": "$(#FFD700)拿铁$() 是一种$(#FF69B4)柔和而富有层次感$()的咖啡，不仅保留了$(#8B4513)咖啡的风味$()，还带来了$(#FFFACD)奶香的顺滑口感$()。$(br2)它适用于$(#32CD32)放松心情$()，缓解$(#FF4500)战斗带来的紧张感$()，提供$(#FFD700)温和的能量补充$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "制作$(#DAA520)拿铁$() 需要：$(br2)$(#FFD700)· 一杯标准 $(#8B4513)Espresso$()$(br)$(#FFFACD)· 适量温热牛奶$()$(br)$(#FFFACD)· 轻柔搅拌，融合口感$()$(br2)相比 $(#8B4513)Espresso$() 的$(#FF4500)浓烈口感$()，$(#FFD700)拿铁$() 更加$(#FF69B4)丝滑香甜$()，适合$(#32CD32)悠闲的下午时光$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Latte 的特性",
+      "text": "$(#FFD700)饮用效果$()：$(br2)· $(#32CD32)小幅恢复生命值$()，带来温暖感$(br)· $(#FFD700)缓慢恢复少量耐力$()$(br)· $(#FF69B4)减少精神压力$()，适合放松$(br2)$(#8B0000)拿铁$() 是一种$(#FFD700)温和的咖啡选择$()，不像$(#FF4500)Triespresso$() 那样极端，而是一种$(#FFD700)放松身心的饮品$()。"
+    }
+  ]
+}

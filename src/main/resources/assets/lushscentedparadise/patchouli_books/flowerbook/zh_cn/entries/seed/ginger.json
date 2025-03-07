@@ -1,0 +1,21 @@
+{
+  "name": "姜",
+  "icon": "lushscentedparadise:ginger",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“辛香浓烈，暖身驱寒，埋入泥土，孕育新生。”$(br2)姜是一种根茎类作物，以其独特的辛辣风味和强大的药用价值而闻名。无论是烹饪调味，还是泡茶御寒，姜都是不可或缺的佳品。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_ginger",
+      "text": "姜不同于普通作物，它无需种子，旅人只需将一块姜埋入土壤中，便能让它生根发芽，茁壮成长。其适应性较强，在温暖潮湿的环境中生长尤为迅速。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:ginger",
+      "text": "姜植株在成熟后，可收获更多的姜块，并可重新种植以持续繁衍。$(br)由于其旺盛的生命力，姜适合循环种植，使旅人能稳定获取这一珍贵的作物。"
+    }
+  ]
+}

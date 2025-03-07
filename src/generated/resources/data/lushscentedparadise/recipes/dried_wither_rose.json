@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 600,
+  "input": {
+    "item": "minecraft:wither_rose"
+  },
+  "output": "lushscentedparadise:dried_wither_rose"
+}

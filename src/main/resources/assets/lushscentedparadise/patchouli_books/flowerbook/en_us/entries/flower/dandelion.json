@@ -1,0 +1,27 @@
+{
+  "name": "Dandelion",
+  "icon": "minecraft:dandelion",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#2F892F)$(l)【Messenger of the Wind】$()$(br2)“At dawn, when the first rays of sunlight pierce the clouds, their pappus points towards the nearest water source.”$(br2)This seemingly unremarkable member of the Asteraceae family boasts emerald-green, serrated basal leaves. Its golden composite flowers later transform into delicate seed spheres. Each parachute-like seed is an aerodynamic marvel—capable of drifting over 128 blocks. Adventurers often observe the flower’s opening and closing patterns to predict upcoming weather changes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:dandelion",
+      "text": "A master of adaptation, dandelions grow in nearly every biome, save for the most extreme environments. As long as there is soil and sunlight, its seeds will find their way."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_dandelion",
+      "text": "Excerpt from *Desert Wayfarers' Ballads*$(br)The old caravan master, Hassan, always tied a dandelion puff to his camel’s bell.$(br)When sandstorms swallowed the trade routes, he would pluck a single tuft and cast it skyward—$(br)And those drifting seeds,$(br)Would shimmer like guiding stars,$(br)Tracing the path to the oasis.$(br)Remember, child, there are no useless lives in the desert. Each floating seed is a love letter from the earth to the sky."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dandelion_tea",
+      "text": "This golden-green infusion is brewed from dandelion petals and morning dew, carrying a sun-kissed, grassy aroma. Nomadic tribes call it ‘The Breath of the Earth,’ for upon drinking, one can almost hear the whisper of the wind sweeping through the plains.$(br2)$(#2F892F)But beware—legend has it that if you drink three cups in quick succession, tiny dandelions may begin to sprout from your hair, only withering upon the next full moon...$()"
+    }
+  ]
+}

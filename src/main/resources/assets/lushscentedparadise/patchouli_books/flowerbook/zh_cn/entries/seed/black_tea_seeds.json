@@ -1,0 +1,21 @@
+{
+  "name": "红茶",
+  "icon": "lushscentedparadise:black_tea_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“烈日萎凋，深焙醇香，一片叶子藏尽时光的韵味。”$(br2)红茶，以其浓郁的香气和琥珀色的茶汤闻名。它的制作工艺比绿茶更加复杂，需要经过充分发酵，使茶叶的风味更为醇厚甘甜。作为世界上最受欢迎的茶类之一，红茶不仅能带来温暖的口感，也蕴含着令人愉悦的能量。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:black_tea_seeds",
+      "text": "红茶生长于温带森林和丘陵地区，它需要温暖湿润的气候，并且比绿茶更耐寒。其嫩叶在阳光下缓缓展开，积累丰富的风味物质。旅人若想获得红茶，可在自然中寻找野生茶树，或通过红茶种子进行人工种植，打造属于自己的茶园。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:black_tea_leave",
+      "text": "红茶植株需要充足的阳光和湿润环境，经过一段时间的生长后，才能进入成熟阶段。$(br)每次采摘红茶叶，都能获得一些红茶茶叶和新的种子，便于下一次的种植。相较于绿茶，红茶的产量可能较高，生长周期稍长。"
+    }
+  ]
+}

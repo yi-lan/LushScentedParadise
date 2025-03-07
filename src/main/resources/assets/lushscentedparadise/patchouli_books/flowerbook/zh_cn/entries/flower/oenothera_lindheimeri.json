@@ -1,0 +1,27 @@
+{
+  "name": "山桃草",
+  "icon": "lushscentedparadise:oenothera_lindheimeri",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 39,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#D8BFD8)$(l)【岿然之华】$()$(br2)“风雪不摧，崖巅之花傲然挺立。”$(br2)山桃草生于高海拔山地与寒冷地带，风霜雨雪皆无法夺去其生机。其花朵轻盈而坚韧，随风摇曳却不折断。自古以来，旅人们相信山桃草能赋予强韧意志，勇敢者在登顶前常以其花瓣入药，以求抵御严寒与风暴。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oenothera_lindheimeri",
+      "text": "主要生长于高山峻岭及寒冷区域，耐寒而坚韧。即便被冰雪覆盖，花茎仍能顽强生长，春回时再次绽放。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_oenothera_lindheimeri",
+      "text": "摘录自《极地求生手记》$(br)“当暴风雪吞噬前路，我以山桃草叶片泡水，暖流瞬间流遍四肢百骸。翌日晨曦乍现，雪地上唯有我留下的足迹。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oenothera_tea",
+      "text": "以山桃草花瓣与冻雪草同煮，茶汤澄澈带有一丝清冽气息，入口瞬间暖意涌遍全身。饮后身躯如被无形护甲包裹，刀剑难伤，冰霜不侵。$(br2)$(#8A2BE2)然有传言——若心志不够坚定，或许会被这股力量所吞噬……$()"
+    }
+  ]
+}

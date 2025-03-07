@@ -1,0 +1,27 @@
+{
+  "name": "甜浆果",
+  "icon": "minecraft:sweet_berries",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#ab2417)$(l)【雪原红玉】$()$(br2)“冰霜中的甜蜜馈赠，凛冬胃袋的救赎”,$(br2)这些低矮灌木的枝头垂挂鲜红浆果，表皮覆盖着天然蜡质以抵御严寒。单宁含量赋予果实轻微的涩味，但嚼碎后回甘绵长，极地旅人常将果酱涂抹于肉干上，既能防腐又能补充稀缺的维生素。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:sweet_berries",
+      "text": "生成于雪原、冻河及冰刺之地的背风坡，根系深入永冻层汲取水分。成熟果实会吸引北极狐群聚集，若用骨粉催熟，浆果将增大两倍但甜度降低，积雪覆盖时可作为天然陷阱诱捕野兔。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_sweet_berries",
+      "text": "摘自极地探险队的补给清单：$(br)“每磅甜浆果干可兑换三日口粮——这是雪橇驿站通行的硬通货。老向导教会我们：将浆果埋入雪屋墙缝，其挥发的香气能延缓体温流失，比十层毛皮更御寒。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:sweet_berries_tea",
+      "text": "将冻干的甜浆果与蔗糖共同沸煮，茶汤呈现玫瑰色，入口初觉酸涩，而后喉间泛起蜂蜜般的暖流。饮后指尖恢复血色，仿佛揣着块烧红的炭石穿越暴风雪。"
+    }
+  ]
+}

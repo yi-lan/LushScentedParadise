@@ -1,0 +1,27 @@
+{
+  "name": "蒲公英",
+  "icon": "minecraft:dandelion",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#2F892F)$(l)【风语者的信使】$()$(br2)“当第一缕晨光刺破云层时，它们的冠毛会指向最近的水源。”$(br2)这种看似平凡的菊科植物拥有翡翠色的锯齿状基生叶，金黄头状花序在成熟后化为绒球。其种子伞具备空气动力学奇迹——单个降落伞状冠毛可携带种子飞行超过128格。冒险家们常通过观察花瓣开合状态预测天气变化。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:dandelion",
+      "text": "全区域适应性，几乎生长于所有生物群系，除了那些极端的地方。只要能遇到阳光和土壤的地方，它的种子就可能飘来"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_dandelion",
+      "text": "摘自沙漠驿站的吟游诗卷$(br)商队首领老哈桑的驼铃上永远系着蒲公英绒球，$(br)当商路被沙暴遮蔽时，$(br)他就摘下一缕白絮抛向天空——$(br)那些乘风而起的种子啊，$(br)会化作发光的轨迹，$(br)为迷途者指引绿洲的经纬度。$(br)记住孩子，沙漠里没有无用的生命，每颗飘散的种子都是大地写给天空的情书。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dandelion_tea",
+      "text": "这杯泛着金绿色光晕的茶汤由蒲公英花瓣与晨露淬炼而成，入口时能尝到阳光烘焙过的青草香气。游牧民族将其称为「大地的呼吸」，饮下后仿佛能听见风掠过草原的簌簌低语。$(br2)$(#2F892F)但切记，传说短时间饮下第三杯后，你的发梢会开始生长微型蒲公英，直到下次月圆才会凋零…$()"
+    }
+  ]
+}

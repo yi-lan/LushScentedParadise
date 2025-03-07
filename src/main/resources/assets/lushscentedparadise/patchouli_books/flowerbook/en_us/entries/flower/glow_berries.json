@@ -1,0 +1,27 @@
+{
+  "name": "Glow Berries",
+  "icon": "minecraft:glow_berries",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#efe54d)$(l)【Star Sand of the Deep】$()$(br2)“A flowing galaxy upon cavern walls, a faint beacon guiding the lost.”$(br2)These semi-transparent golden berries cluster along cave vines, their delicate skin encapsulating luminescent compounds that glow brightly enough to illuminate nearby rock faces. Their juice is known among explorers as ‘Liquid Starlight’—when smeared on tools, it temporarily marks pathways, and when applied to skin, it leaves a faint phosphorescent trace that lasts for hours."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:glow_berries",
+      "text": "Naturally found clinging to the damp walls of lush caves. Ripe berries attract luminous squids, and if nibbled by bats, their droppings temporarily gain the properties of night vision potions."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_glow_berries",
+      "text": "Recovered from a rusted tin box in an abandoned mineshaft:$(br)“When we were trapped in the collapse of Shaft Three, the only light source was the glow berries dangling from crevices. The captain took a bite, and suddenly, he could see the redstone veins hidden within the rock. Guided by his vision, we tunneled through 12 meters of stone and reached the surface.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:glow_berries_tea",
+      "text": "A handful of berries is simmered with milk in a copper kettle until boiling, then strained to yield a tea that shimmers with pale golden luminescence. Upon drinking, the pupils dilate briefly—allowing even the darkest ravines to appear as bright as midday."
+    }
+  ]
+}

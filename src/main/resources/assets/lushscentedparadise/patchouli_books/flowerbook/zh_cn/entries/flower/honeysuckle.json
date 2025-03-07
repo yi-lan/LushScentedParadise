@@ -1,0 +1,27 @@
+{
+  "name": "忍冬",
+  "icon": "lushscentedparadise:honeysuckle",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 23,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#dcc584)$(l)【双色灵藤】$()$(br2)“初绽如雪，凋零鎏金，生死轮转间涤尽世间浊”,$(br2)忍冬的藤蔓缠绕古木与断墙，对生叶片间垂挂双色花簇——新绽时皎白如月魄，衰败时鎏金似熔岩。其花香能中和腐沼毒气，中世纪药师将其蒸馏为“万毒解”，花瓣煎煮的汁液可消融蜘蛛毒牙的致命黏液。暗夜中花朵会散发珍珠般的微光，指引迷途者穿越毒瘴密林。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:honeysuckle",
+      "text": "遍布草甸、山丘与繁茂森林的边际地带，尤爱攀附废弃建筑的石墙或古树虬枝。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_honeysuckle",
+      "text": "《瘟疫年代记》残章$(br)“当女巫的毒云笼罩村庄时，唯一未染病的老妪每日采摘忍冬花，在铁锅熬煮至黎明。饮下花汤的村民呕出黑血，竟在墓园边缘奇迹生还。她临终前将种子撒入自己的棺木，次年春，坟茔上缠绕的金银花藤，开出了永不凋零的双色花——一半纯白如新生，一半焦黑似余烬。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:honeysuckle_tea",
+      "text": "取双色忍冬花（金银花）朵等量混合，加入蔗糖文火同煎。茶汤呈现琥珀色漩涡纹，饮时喉间掠过冰雪与熔岩交织的战栗，体内淤毒顷刻蒸腾为紫烟消散。"
+    }
+  ]
+}

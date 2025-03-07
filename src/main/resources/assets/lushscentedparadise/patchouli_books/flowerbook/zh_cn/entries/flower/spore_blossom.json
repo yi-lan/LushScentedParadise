@@ -1,0 +1,27 @@
+{
+  "name": "孢子花",
+  "icon": "minecraft:spore_blossom",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#e49ad6)$(l)【地脉之息】$()$(br2)“岩窟穹顶垂落的活体风铃，以孢子为音符谱写地底季风”,$(br2)这朵倒挂生长的巨型花朵拥有半透明的浅紫花瓣，中心不断喷出粉色的孢子云团。其释放的微粒能净化洞穴毒气，矿工称其为「天然的空气净化器」，但长时间吸入孢子会导致轻微的失重幻觉。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:spore_blossom",
+      "text": "仅悬挂于繁茂洞穴的穹顶岩层，下方常有发光浆果丛或滴水池。成熟植株简短间隔就会喷发一次孢子。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_spore_blossom",
+      "text": "《探窟者奇闻》$(br)“我们目睹了最壮丽的场景——成群的蝙蝠掠过孢子云时，竟被托举着跳起悬浮之舞。但当吉姆试图收集孢子样本时，他的靴底突然脱离地面，整个人像醉酒的气球般撞向钟乳石…好在即将撞上的时候摔了下来，只是苦了他的屁股"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:spore_blossom_tea",
+      "text": "将孢子花与蔗糖混合发酵，冲入沸水后茶汤膨胀为蓬松的荧光泡沫。饮下后骨骼仿佛被置换为羽毛，但需警惕气流将你推向未知的深渊。"
+    }
+  ]
+}

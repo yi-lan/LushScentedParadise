@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 1200,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:coffee_powder"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:cold_brew"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cold Brew Coffee",
+  "icon": "lushscentedparadise:cold_brew",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#00BFFF)Patience is the key to cold brew coffee—rich in every drop, slowly releasing energy.$()\"$(br2)$(#DAA520)Cold Brew Coffee$() is a $(#8B4513)low-temperature extracted coffee$(), with $(#FFD700)lower acidity$() compared to $(#FFD700)Espresso$() or $(#00BFFF)Iced Americano$(), but $(#8B4513)smoother and richer in flavor$().$(br)It is ideal for $(#32CD32)long explorations$(), $(#FFD700)providing a sustained, gentle energy boost$() to keep $(#8B4513)adventurers$() focused."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cold_brew",
+      "text": "$(#FFD700)Cold Brew Coffee$() is perfect for players who $(#FF69B4)prefer a smoother taste without high-temperature extraction$() but still want $(#8B4513)a long-lasting caffeine effect$().$(br2)It is $(#FFD700)milder and smoother$() than $(#00BFFF)Iced Americano$(), making it suitable for $(#32CD32)long adventures, mining, or nighttime activities$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make $(#FFD700)Cold Brew Coffee$(), you need:$(br2)$(#8B4513)· Coarsely ground $(#FFD700)high-quality coffee beans$()$(br)$(#00BFFF)· Soaked in cold water for an extended period (at least 12 hours)$()$(br)$(#ADD8E6)· Filter out the coffee grounds and enjoy the refreshing cold brew flavor$()$(br2)Compared to $(#FFD700)Espresso$() or $(#00BFFF)Iced Americano$(), $(#FFD700)Cold Brew Coffee$() is $(#8B4513)smoother and gentler$(), perfect for $(#32CD32)slow-paced adventurers$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cold Brew Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#32CD32)Long-lasting and gradually increasing speed boost$()$(br)· $(#FFD700)Reduces environmental effects, enhancing nighttime mobility$()$(br)· $(#00BFFF)Decreases incoming damage$()$(br)· $(#FF69B4)Has minimal impact on hunger$()$(br2)$(#8B0000)Cold Brew Coffee$() is great for $(#FFD700)extended missions$(), $(#32CD32)providing steady energy without disrupting stamina$(), keeping $(#8B4513)adventurers$() focused."
+    }
+  ]
+}

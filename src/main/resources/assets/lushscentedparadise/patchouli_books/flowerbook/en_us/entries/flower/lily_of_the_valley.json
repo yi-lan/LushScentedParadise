@@ -1,0 +1,27 @@
+{
+  "name": "Lily of the Valley",
+  "icon": "minecraft:lily_of_the_valley",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#a8c8d1)$(l)【Silver Chimes of the Forest】$()$(br2)“Dew gathers upon porcelain-white bells, swaying in the woodland breeze, yet their chimes remain silent.”$(br2)The drooping, bell-shaped flowers of the lily of the valley resemble strings of delicate white jade chimes, with broad leaves cradling them like emerald trays. Its sap contains potent cardiac glycosides—medieval apothecaries carefully extracted trace amounts for heart treatments, yet ingesting even two blossoms could prove fatal. Among woodland travelers, it is whispered to be ‘The Angel’s Poisoned Goblet.’"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:lily_of_the_valley",
+      "text": "Only found in the damp corners of forests and flower-filled woodlands, often clustering at the base of oak trees in humus-rich soil or nestled among ferns by streams. It is said that under moonlight, the flowers emit a faint glow. If shaded by a tree canopy, the stems will instinctively twist and climb to seek more light."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lily_of_the_valley",
+      "text": "Excerpt from an 18th-century village doctor’s journal:$(br)“Old Henry’s wife mistook lily of the valley for wild garlic and consumed it. Three hours later, her pupils dilated—black as the abyss. I forced her to vomit using crow’s gall and charcoal ash, wrestling her back from death’s grasp. From that day forth, I have always kept a bundle of lily of the valley atop my medicine cabinet—a reminder of both warning and reverence for nature’s power.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lily_of_the_valley_tea",
+      "text": "When dried lily of the valley buds are steeped, the tea gradually darkens to a dangerous shade of deep purple. Skilled tea brewers know how to control the dosage, turning its toxins into a fleeting stimulant that temporarily enhances physical abilities—but a single miscalculation could spell disaster."
+    }
+  ]
+}

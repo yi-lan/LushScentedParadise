@@ -1,0 +1,27 @@
+{
+  "name": "Poria",
+  "icon": "lushscentedparadise:poria",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 47,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#D2B48C)$(l)【Whisper of the Forest】$()$(br2)“Beneath the quiet woodland, a hidden elixir grants feather-light steps.”$(br2)Poria thrives deep in the forest, concealed beneath thick layers of decayed leaves and fallen wood. Though its appearance is unassuming, it harbors an astonishing vitality. Ancient medicinal records describe mountain wanderers using poria-infused broth to dispel weakness, moving as gracefully as deer darting through the woods."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_poria",
+      "text": "Often found in damp forest understories, growing symbiotically with ancient tree roots. Outwardly resembling an ordinary fungus, but when cut open, it reveals delicate pink veins and emits a faint pine fragrance."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_poria",
+      "text": "Excerpt from *The Woodcutter’s Forgotten Pages*$(br)“An aging hunter, barely able to draw his bow, walked with a sluggish gait. A villager brewed poria broth for him. After drinking, he moved with the swiftness of his youth, roaming the mountains till nightfall without a hint of exhaustion.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:poria_tea",
+      "text": "Slowly simmered poria produces a clear, golden broth infused with the fresh scent of pine. Upon drinking, weakness melts away, and the body feels as light as a leaf gliding on the wind.$(br2)$(#8B4513)But caution must be taken—relying too much on this strength may cause one to forget the true nature of fatigue…$()"
+    }
+  ]
+}

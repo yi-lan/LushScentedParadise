@@ -1,0 +1,16 @@
+{
+  "type": "lushscentedparadise:mana_teapot",
+  "brew_time": 200,
+  "mana": 400,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_black_tea_leave"
+    },
+    {
+      "item": "lushscentedparadise:dried_white_tea_leave"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:white_tea"
+  }
+}

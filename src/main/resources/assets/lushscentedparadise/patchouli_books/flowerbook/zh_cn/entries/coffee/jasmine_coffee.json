@@ -1,0 +1,26 @@
+{
+  "name": "茉莉咖啡",
+  "icon": "lushscentedparadise:jasmine_coffee",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#FFD700)当花香邂逅咖啡，风味层次瞬间升华。$()”$(br2)$(#DAA520)茉莉咖啡$()（Jasmine Coffee）是一种$(#8B4513)咖啡与茉莉花$()结合的饮品，带有$(#FF69B4)淡雅的茉莉香气$()，赋予$(#FFD700)咖啡更加丰富的口感$()。$(br)它不仅$(#FF4500)温和提神$()，还能$(#FF69B4)缓解焦虑，提高专注力$()，适用于$(#32CD32)长时间需要集中精神的任务$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:jasmine_coffee",
+      "text": "$(#FFD700)茉莉咖啡$() 适合$(#FF69B4)喜欢咖啡但又想要花香调和苦涩$()的玩家。$(br2)相比$(#8B4513)Espresso$() 或 $(#FFD700)Americano$()，$(#FFD700)茉莉咖啡$() 更加$(#FF69B4)温和顺滑$()，适用于$(#32CD32)需要专注和长时间工作的情况$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "制作$(#FFD700)茉莉咖啡$() 需要：$(br2)$(#8B4513)· 一杯标准 $(#FFD700)Espresso$()$(br)$(#FF69B4)· 干燥或新鲜的茉莉花$()$(br)$(#FFD700)· 适量热水浸泡提取花香$()$(br2)相比$(#8B4513)普通咖啡$()，$(#FFD700)茉莉咖啡$() 额外具有$(#FF69B4)清新淡雅的花香$()，适合$(#32CD32)想要舒缓心情的玩家$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Jasmine Coffee 的特性",
+      "text": "$(#FFD700)饮用效果$()：$(br2)· $(#32CD32)小幅提升生命的恢复能力$()$(br)· $(#FFD700)减少短时间内的疲劳积累$()$(br)· $(#FF69B4)缓解精神焦虑，提高心情，能够明目$()$(br2)$(#8B0000)茉莉咖啡$() 适用于$(#FFD700)长时间的研究、书写或复杂任务$()，帮助$(#FF69B4)玩家保持清醒，并增强思维专注$()。"
+    }
+  ]
+}

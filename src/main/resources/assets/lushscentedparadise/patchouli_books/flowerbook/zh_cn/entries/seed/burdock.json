@@ -1,0 +1,21 @@
+{
+  "name": "牛蒡",
+  "icon": "lushscentedparadise:burdock",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“根深泥土，粗韧耐寒，甘苦回甘，生机盎然。”$(br2)牛蒡是一种生命力旺盛的根茎类植物，广泛分布在草甸和平原地带。其根部富含营养，常用于烹饪、泡茶或药剂调配，被称为‘大地之根’。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_burdock",
+      "text": "野生牛蒡主要生长在平原与草甸地带，它们扎根于深厚的泥土之中，汲取大地的养分。$(br)与普通作物不同，牛蒡无需种子繁殖，而是可以直接将其根茎埋入土壤，等待时间生长出新的植株。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:burdock",
+      "text": "成熟的牛蒡植株可以收获更多牛蒡根，并用于继续种植。$(br)其根部富含养分，既可作为烹饪材料，也可用于制作增强体质的茶饮，是旅途中不可或缺的滋补作物。"
+    }
+  ]
+}

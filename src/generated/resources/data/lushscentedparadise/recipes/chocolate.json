@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:cocoa_powder"
+    },
+    {
+      "item": "lushscentedparadise:cocoa_powder"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "lushscentedparadise:milk_foam"
+    },
+    {
+      "item": "lushscentedparadise:vanilla_syrup"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "lushscentedparadise:chocolate"
+  }
+}

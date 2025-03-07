@@ -1,0 +1,21 @@
+{
+  "name": "黄芪",
+  "icon": "lushscentedparadise:astragalus_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“根深叶细，御寒强身，严冬之地，孕育珍贵良药。”$(br2)黄芪是一种生长在寒冷环境中的耐寒草本植物，以其强大的滋补功效闻名。无论是作为茶饮，还是用于调配药方，黄芪都被广泛应用于增强体质、恢复精力。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:astragalus_seeds",
+      "text": "野生黄芪主要生长在极寒之地，如冻土苔原与雪原等寒冷地区。旅人可在这些生物群系中寻找黄芪植株，并采集其种子，以便进行人工栽培，在严酷环境下收获这一珍贵的草本植物。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:astragalus_root",
+      "text": "黄芪植株在成熟后，可收获黄芪根部及额外的种子，便于持续种植。$(br)黄芪的根部富含药用成分，是抵御严寒、增强体质的重要原料，适用于制作保健茶饮和特殊药剂。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Wither Rose",
+  "icon": "minecraft:wither_rose",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#51383b)$(l)【Kiss of the Styx】$()$(br2)“A bloom forged from death, a forbidden flower that the living must not approach.”$(br2)This blackened-gray rose, born of the Wither’s essence, has petals as brittle as charred parchment, and at its core hovers a ghostly green energy nucleus. The soil surrounding it slowly decays into soul sand. Legends say that only a cursed gardener can touch it without turning to bone, and crushed petals are the key ingredient in crafting Wither Skeleton traps."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:wither_rose",
+      "text": "Only spawns on the remains of creatures slain by the Wither. Life extinguished, death calls forth new existence.$(br2)Its roots burrow deep into the earth, drawing upon the lingering warmth of the departed."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_wither_rose",
+      "text": "Excerpt from *The Fragmented Chronicle of Night*$(br)The Seventh Necromancer implanted a Wither Rose into his heart, gaining the strength to shatter obsidian with his bare fists. When his body finally crumbled to dust, a sea of Wither Roses bloomed across three miles of battlefield—each petal bore the names of the fallen, and every thorn dripped with the sorrowful tears of the survivors."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wither_rose_tea",
+      "text": "Three petals are steamed and brewed, with honey added to mask the scent of decay. As the tea boils, spectral skulls flicker within the steam. Upon drinking, one's veins feel as if filled with liquid obsidian, granting a temporary surge of immense strength—but at any moment, the overwhelming tide of death may consume the drinker.$(br2)$(#51383b)Stare into death for too long, and death will eventually stare back…$()"
+    }
+  ]
+}

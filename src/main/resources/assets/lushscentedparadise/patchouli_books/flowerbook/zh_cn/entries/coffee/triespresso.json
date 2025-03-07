@@ -1,0 +1,26 @@
+{
+  "name": "三倍浓缩咖啡",
+  "icon": "lushscentedparadise:triespresso",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#8B4513)一杯 Espresso 已无法满足你的需求？$()那么，试试$(#FF4500)Triespresso$()吧！”$(br2)$(#DAA520)三倍浓缩咖啡$() 是普通 $(#8B4513)Espresso$() 的$(#FF4500)三重萃取版本$()，咖啡因含量更高，$(#FFD700)带来爆发性的速度提升$()。$(br)适用于$(#FF4500)高强度战斗$()、$(#00BFFF)快速穿越地形$() 或$(#A9A9A9)极端情况下保持清醒$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:triespresso",
+      "text": "$(#FFD700)Triespresso$() 是$(#FF4500)浓缩咖啡中的巅峰$()，饮用后可提供$(#FF4500)极高的速度加成$()，但它也会快速消耗$(#A9A9A9)饥饿值$()，因此建议搭配食物使用。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "制作$(#FF4500)Triespresso$() 需要：$(br2)$(#FFD700)· 三倍研磨 $(#8B4513)高质量咖啡豆$()$(br)$(#FF4500)· 使用极高压力 萃取$(#8B0000)三倍浓缩咖啡精华$()$(br)$(#DAA520)· 形成厚重的 黑色浮层$()$(br2)$(#FF4500)Triespresso 口感极其浓烈$()，仅适合真正的咖啡爱好者。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Triespresso 的特性",
+      "text": "$(#FFD700)饮用效果$()：$(br2)· $(#FF4500)极大幅度提升行动速度$()，适合短时间高速移动$(br)· $(#FFD700)提供极高的耐力加成$()，可在关键时刻使用$(br)· $(#A9A9A9)快速消耗饥饿值$()，建议搭配食物一起饮用$(br2)$(#8B0000)Triespresso 适用于极端情况$()，如$(#FF4500)战斗、逃生或长时间奔跑$()，但请注意副作用！"
+    }
+  ]
+}

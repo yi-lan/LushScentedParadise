@@ -1,0 +1,26 @@
+{
+  "name": "Grinding",
+  "icon": "lushscentedparadise:mortar_and_pestle",
+  "category": "lushscentedparadise:basis",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)A single seed can grow a forest$(), and $(#FF69B4)a single leaf$() can be transformed into $(#8B0000)a rich infusion$().\"$(br2)In the world of $(#FF69B4)flowers$() and $(#8B0000)tea$(), the $(#FFD700)essence$() of many $(#32CD32)plants$() is not readily available but must undergo the process of $(#8B4513)grinding$() to be converted into a $(#DAA520)fine$(), $(#32CD32)easily usable$() form. Whether grinding $(#FF69B4)dried petals$() into powder for $(#8B0000)brewing potions$() or crushing $(#8B4513)hard cocoa beans$() into $(#FF4500)fragrant cocoa powder$(), $(#8B4513)grinding$() is a crucial step in $(#DAA520)tea-making and formulation$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:mortar_and_pestle",
+      "text": "Different materials require different $(#8B4513)grinding methods$(). Some $(#FFD700)simple and fragile materials$() can be $(#32CD32)crushed by hand$() for direct use, such as most $(#FF69B4)dried flowers$() or certain $(#8B4513)dried fruits$(). However, some $(#8B4513)tough plant seeds$() or $(#32CD32)nuts$(), like $(#8B4513)cocoa beans$(), $(#FF4500)are difficult to crush by hand$() or require $(#FFD700)fine grinding$(). In such cases, a $(#A9A9A9)mortar and pestle$() becomes necessary."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:mortar_and_pestle",
+      "text": "$(#8B4513)Grinding$() is not merely crushing an item; it is a $(#FFD700)craft of extracting natural essences$(). Every $(#A9A9A9)meticulous grind$() may create new $(#8B0000)flavors$(), new $(#32CD32)medicinal effects$(), or even $(#8A2BE2)unlock new possibilities$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)In $(#DAA520)ancient herbalism$(), $(#8B4513)grinding$() was not only used for $(#8B0000)tea preparation$(); the process of grinding $(#FFD700)special ingredients$() could sometimes $(#FF69B4)release hidden medicinal properties$(). Some $(#8A2BE2)formulas$() remain $(#FF4500)unsolved mysteries$(), and courageous $(#DAA520)alchemists$() may yet discover new $(#FFD700)potential$()."
+    }
+  ]
+}

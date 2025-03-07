@@ -1,0 +1,27 @@
+{
+  "name": "Astragalus",
+  "icon": "lushscentedparadise:astragalus_root",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 44,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#DAA520)$(l)【Glacial Nectar】$()$(br2)“A golden root slumbering beneath the snow, carrying vitality and hope.”$(br2)Astragalus takes root in the frigid tundra, resilient against the cold. Even under raging blizzards, it survives. Its roots are rich in nutrients and have long been regarded as a treasured tonic by the northern nomads. Legends tell that in freezing winter nights, warriors who drank astragalus-infused broth could stave off hunger and restore their weary bodies."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_astragalus",
+      "text": "Grows in tundras and frozen lands—only extreme cold can nurture its golden roots. Astragalus quietly thrives beneath the snow, waiting for spring to return before sprouting anew."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_astragalus_root",
+      "text": "Excerpt from *The Northern Survival Chronicles*$(br)“A winter hunter, weakened by starvation and cold, collapsed. The chieftain boiled astragalus root into a broth and fed him. Within moments, color returned to his face, and strength flowed back into his limbs.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:astragalus_soup",
+      "text": "Slowly simmered astragalus root produces a golden-hued tea with a mild herbal sweetness. Upon drinking, hunger fades instantly, and warmth returns to the body.$(br2)$(#B8860B)Yet there is a saying—those who indulge too greedily in its nourishing power may one day be reclaimed by the earth…$()"
+    }
+  ]
+}

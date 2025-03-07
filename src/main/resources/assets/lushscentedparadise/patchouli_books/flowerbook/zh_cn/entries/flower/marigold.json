@@ -1,0 +1,27 @@
+{
+  "name": "金盏花",
+  "icon": "lushscentedparadise:marigold",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 38,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#FFA500)$(l)【跃动晨光】$()$(br2)“金色花冠迎向朝阳，映照出轻盈的步伐。”$(br2)金盏花遍布世界各地，无论贫瘠荒原或繁茂森林，都能见到其身影。花瓣层层叠叠，如小小的金色火焰。古老传说中，金盏花承载着晨曦的活力，给予旅人轻盈的步伐，使他们跃上高峰，越过阻碍。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:marigold",
+      "text": "几乎遍布所有生物群系，尤其钟爱阳光充足的地方。花朵白天绽放，夜晚微微闭合，根系浅而强韧，能在风中稳立不倒。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_marigold",
+      "text": "摘录自《旅者诗篇》$(br)“牧羊人言，金盏花盛放之夜，梦中的山坡总是更高，而他们总能一跃而上，穿越晨曦，抵达云端。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:marigold_tea",
+      "text": "缓缓熬煮金盏花瓣，茶汤金黄透亮，带有淡淡的柑橘香气。饮下后，脚步轻盈，跃起时仿佛被晨风托举，重力不再是束缚。$(br2)$(#DAA520)然世人传言，若跃得太高，或许会忘记如何落地……$()"
+    }
+  ]
+}

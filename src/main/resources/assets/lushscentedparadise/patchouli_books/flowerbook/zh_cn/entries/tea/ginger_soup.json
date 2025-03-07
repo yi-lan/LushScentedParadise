@@ -1,0 +1,21 @@
+{
+  "name": "姜汤",
+  "icon": "lushscentedparadise:ginger_soup",
+  "category": "lushscentedparadise:tea",
+  "sortnum": 25,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“辛香四溢，暖流入喉，驱散严寒，焕发生机。”$(br2)姜汤是一款温暖而富有生机的热饮，由两块干生姜与糖熬煮而成。汤色金黄透亮，口感微辛回甘，饮用后可提供较长时间的防寒效果，使旅人在冰雪环境中保持温暖。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)姜汤的制作需要$(br)两块干生姜与糖熬煮而成。$(br)适合在寒冷环境或雪原探险时饮用，让旅人抵御严寒，保持活力。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:ginger_soup",
+      "text": "饮用姜汤后，旅人将获得较长时间的防寒效果，使其能够在极寒环境中保持温暖，不受寒冷影响。$(br)这是一款适合雪地探险的茶饮，让旅人在冰雪世界中从容前行。$(br)安装JEI后对着图标按下R键可以查询配方"
+    }
+  ]
+}

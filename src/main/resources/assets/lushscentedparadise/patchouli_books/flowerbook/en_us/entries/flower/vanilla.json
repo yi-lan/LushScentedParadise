@@ -1,0 +1,27 @@
+{
+  "name": "Vanilla",
+  "icon": "lushscentedparadise:vanilla_pod",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#F5DEB3)$(l)【Sweet Pact】$()$(br2)“In the humid depths of the tropical rainforest, vines weave fragrant whispers—intoxicating yet never overpowering.”$(br2)Wild vanilla flowers are pure white, with slender green pods that, when split open, release a faintly sweet and rich aroma. It is said that rainforest tribes brew a special tincture from these pods, offering it in blessings for a happy marriage and prosperous lineage."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_vanilla",
+      "text": "Climbing among tree trunks and vines, it thrives in the hot, humid depths of rainforests. When fully mature, the pods turn a deep brown and must undergo careful drying and fermentation to develop their most exquisite aroma."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:vanilla_pod",
+      "text": "Excerpt from *The Rainforest Tribal Codex*$(br)“On the night of a wedding, elders grind dried vanilla pods into fine powder, mixing it into wine—allowing the hearts of lovers to intertwine in its sweet embrace. Those pale-brown flecks carry blessings drawn from both the earth and the towering canopy above.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:vanilla_syrup",
+      "text": "Extracted from vanilla pods and sugarcane, this syrup gleams with a deep red hue—its aroma soft and alluring, like a veil brushing against the lips.$(br2)$(#CD853F)Yet, it is said that those who lose themselves too deeply in its sweetness may one day forget what is real… and what is but a dream.$()"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Music Disc",
+  "icon": "lushscentedparadise:music_disc",
+  "category": "lushscentedparadise:misc",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#FFD700)Melodies drift across the fields$(), as $(#00BFFF)lighthearted notes$() accompany each moment of $(#32CD32)farming$().”$(br2)This $(#DAA520)music disc$() contains a $(#FF69B4)warm and cheerful 8-bit tune$(), with a $(#00BFFF)bright rhythm$() and a $(#FFD700)pleasant tempo$(), making it perfect for $(#32CD32)working on the farm$(), $(#FF69B4)growing flowers$(), or $(#8B4513)tending to a peaceful tea garden$().$(br)As this $(#FFD700)music$() plays, everything feels $(#FF69B4)calm and delightful$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:music_disc",
+      "text": "$(#FFD700)The power of music$() not only $(#32CD32)relaxes the body and mind$(), but also enhances $(#00BFFF)the journey$() with a $(#FF69B4)more immersive experience$().$(br)On a $(#ADD8E6)peaceful afternoon$(), with $(#32CD32)gentle breezes and birdsong$() around you, insert the disc and let this $(#FFD700)soft melody$() accompany your $(#8B4513)labor and leisure$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:music_disc",
+      "text": "This $(#DAA520)music disc$() can be played in a $(#8B4513)jukebox$(), adding a touch of $(#FFD700)warmth and charm$() to your $(#32CD32)farm$(), $(#FF69B4)garden$(), or $(#8B4513)tea fields$().$(br)It is more than just a $(#00BFFF)tune$()—it is a symbol of $(#8B4513)the tranquil joys of farming life$()."
+    }
+  ]
+}

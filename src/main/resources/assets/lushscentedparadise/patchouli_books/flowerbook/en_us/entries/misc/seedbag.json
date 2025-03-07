@@ -1,0 +1,25 @@
+{
+  "name": "Seed Bag",
+  "icon": "lushscentedparadise:seed_bag",
+  "category": "lushscentedparadise:misc",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)The journey is long$(), but if you $(#32CD32)sow seeds$() along the way, $(#FF69B4)flowers may bloom in the future$().\"$(br2) Besides $(#FF69B4)picking flowers$(), you may also $(#32CD32)collect$() many $(#32CD32)seeds$() during your travels, which can be used for $(#8B4513)crop cultivation$() or $(#DAA520)growing new plants$(). However, $(#32CD32)seeds$() are numerous and can easily clutter your $(#8B4513)inventory$(). The $(l)$(#DAA520)Seed Bag$()$() offers the perfect solution to this problem."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:seed_bag",
+      "text": "The first person who invented the $(l)$(#DAA520)Flower Bag$()$() was truly a $(#FFD700)genius$()! Soon after, a $(#32CD32)gardener's$() best friend, the $(#8B4513)farmer$(), had an idea and created the $(l)$(#DAA520)Seed Bag$()$()!"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)The $(l)$(#DAA520)Seed Bag$()$() has a $(#00BFFF)27$()-slot capacity and can only store $(#32CD32)seeds$(), with no room for other items.$(br2)Carrying the $(l)$(#DAA520)Seed Bag$()$() takes up only one slot in your $(#8B4513)inventory$() but allows you to store a large number of $(#32CD32)seeds$(), making $(#8B4513)farming$() and $(#FFD700)storage$() much easier.$(br2)When you $(#00BFFF)pick up$() eligible $(#32CD32)seeds$(), they will $(#FF69B4)automatically be stored in the Seed Bag$(), without needing manual organization."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)By opening the $(l)$(#DAA520)Seed Bag$()$(), you can organize or retrieve your $(#32CD32)seeds$() at any time to plan your $(#8B4513)farmland$() or experiment with new $(#FFD700)planting techniques$().$(br2)You can also toggle the $(#FF4500)auto-pickup function$() by holding the $(l)$(#DAA520)Seed Bag$()$() and pressing $(#32CD32)Shift + Right Click$()."
+    }
+  ]
+}

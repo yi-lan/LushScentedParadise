@@ -1,0 +1,27 @@
+{
+  "name": "Tulip",
+  "icon": "minecraft:white_tulip",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#e0bb00)$(l)【Gilded Chalice】$()$(br2)“At dawn, their cup-shaped blossoms cradle the first rays of sunlight, like golden goblets left behind by feasting gods.”$(br2)These upright stems support silky cup-shaped flowers, with petals ranging from deep crimson to molten gold, their bases adorned with dark patterns reminiscent of an owl’s eyes. Legends tell that the first royal gardeners once used tulip sap to dye the king’s robes, causing the entire palace to shimmer like liquid gold beneath the moonlight."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:white_tulip",
+      "text": "They cluster in the sunniest parts of the plains or in the fertile soil at the edges of flower forests, sheltered by ancient tree roots. When rain approaches, their petals close tightly into a watertight porcelain-like shape, imprisoning any bees that lingered to sip nectar—at least, that’s what folklore says. In Minecraft, however, the bees might be too large for that to happen."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_tulip",
+      "text": "Excerpt from *The Golden Chalice Manuscript*$(br)From a noble’s secret scroll: ‘Our ancestral tulip garden once housed ninety-nine forbidden colors—raven-black pollen that could alter memories, snow-white petals that could slow the flow of time, and the crimson-striped ‘Imperial Blood Crown,’ said to be the last gift of three thousand poets before the fall of the old capital. Now, these magical strains have long vanished, leaving only wild tulips, still repeating echoes of past glories, year after year.’"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:tulip_tea",
+      "text": "A tea thick and golden as molten metal. Upon drinking, one’s heartbeat resounds like war drums, and every vein surges with a fleeting yet overwhelming vitality."
+    }
+  ]
+}

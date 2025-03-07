@@ -1,0 +1,21 @@
+{
+  "name": "Green Tea",
+  "icon": "lushscentedparadise:green_tea_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"Young leaves unfurling, brewed with clear spring water—beneath a hint of bitterness lies a mellow sweetness.\"$(br2)Green tea, derived from the delicate processing of tender leaves, is one of the closest forms of tea to its natural state. It boasts a fresh aroma, emerald hue, and a sweet, rich flavor. Since ancient times, green tea has been cherished for its refreshing taste and unique health benefits, hailed as the \"nectar of tea.\""
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea_seeds",
+      "text": "Green tea thrives in warm, humid forests and hilly regions, particularly favoring temperate and subtropical climates. Its tender leaves unfurl in morning dew, absorbing sunlight and moisture to enhance their refreshing taste. Travelers seeking green tea can locate wild tea shrubs and cultivate them using green tea seeds to establish their own tea gardens."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea_leave",
+      "text": "Green tea plants require warm, humid environments and a period of growth before reaching maturity.$(br)Each harvest yields green tea leaves and new seeds, enabling continuous cultivation for future plantings."
+    }
+  ]
+}

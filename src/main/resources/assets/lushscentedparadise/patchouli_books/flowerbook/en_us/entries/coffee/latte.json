@@ -1,0 +1,26 @@
+{
+  "name": "Latte",
+  "icon": "lushscentedparadise:latte",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#8B4513)The boldness of coffee intertwines with the gentleness of milk$()—this is $(#FFD700)Latte$().\"$(br2)$(#DAA520)Latte Coffee$() is a beverage where $(#8B4513)coffee and milk blend perfectly$(). The richness of $(#FFD700)Espresso$() combined with $(#FFFACD)creamy milk foam$() creates a $(#FFD700)smooth and mild$() texture, making it ideal for $(#32CD32)daily enjoyment$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:latte",
+      "text": "$(#FFD700)Latte$() is a $(#FF69B4)gentle and layered$() coffee that retains the $(#8B4513)bold coffee flavor$() while adding a $(#FFFACD)creamy and smooth milk taste$().$(br2)It is perfect for $(#32CD32)relaxing$(), easing $(#FF4500)tension from battles$(), and providing a $(#FFD700)mild energy boost$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make a $(#DAA520)Latte$(), you need:$(br2)$(#FFD700)· One cup of standard $(#8B4513)Espresso$()$(br)$(#FFFACD)· A suitable amount of warm milk$()$(br)$(#FFFACD)· Gently stir to blend the flavors$()$(br2)Compared to the $(#8B4513)strong taste$() of $(#FF4500)Espresso$(), $(#FFD700)Latte$() is $(#FF69B4)smoother and creamier$(), making it perfect for $(#32CD32)a leisurely afternoon$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Latte Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#32CD32)Slightly restores health$(), providing warmth$(br)· $(#FFD700)Gradually restores a small amount of stamina$()$(br)· $(#FF69B4)Reduces mental stress$(), perfect for relaxation$(br2)$(#8B0000)Latte$() is a $(#FFD700)mild coffee option$(), unlike $(#FF4500)Triespresso$(), which is extreme. Instead, it is a $(#FFD700)comforting and soothing drink$()."
+    }
+  ]
+}

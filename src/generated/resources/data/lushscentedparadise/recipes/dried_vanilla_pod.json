@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 600,
+  "input": {
+    "item": "lushscentedparadise:vanilla_pod"
+  },
+  "output": "lushscentedparadise:dried_vanilla_pod"
+}

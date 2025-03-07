@@ -1,0 +1,27 @@
+{
+  "name": "Verbena",
+  "icon": "lushscentedparadise:verbena",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 42,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B008B)$(l)【Twilight Whispers】$()$(br2)“Tiny crimson-purple blossoms sway gently by the water’s edge, murmuring the secrets of the night.”$(br2)Verbena thrives along streams and riverbanks, its slender stems adorned with dense clusters of tiny flowers, scattering like stars across the water’s surface, reflecting the soft glow of dusk. Ancient legends tell that verbena bathed in moonlight can capture the spirits of the night, granting the ability to see through darkness."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_verbena",
+      "text": "Commonly found along riverbanks, growing with its roots entwined in moist soil. Verbena buds slightly unfurl at dusk, becoming even more vibrant under the cover of night, resembling stars mirrored upon the water’s surface."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:verbena",
+      "text": "Excerpt from *The Hermit's Journal*$(br)“Night wanderers collect verbena on their journeys, grinding it into powder and applying it to their eyelids in hopes of seeing clearly in darkness. However, it is said that those who rely too much on this flower will eventually lose themselves within the moonlit illusions it weaves.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:verbena_tea",
+      "text": "When simmered gently, verbena petals produce a pale lavender tea, with flowing silver streaks faintly shimmering under soft light. Upon drinking, the outlines of the night become crystal clear, and darkness ceases to be an obstacle.$(br2)$(#4B0082)But beware—gaze too long into the abyss, and the abyss may gaze back…$()"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "lushscentedparadise:teapot",
+  "brew_time": 600,
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:coffee_powder"
+    },
+    {
+      "item": "lushscentedparadise:clean_water"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:americano"
+  }
+}

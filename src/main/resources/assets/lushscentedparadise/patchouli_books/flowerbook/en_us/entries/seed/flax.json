@@ -1,0 +1,21 @@
+{
+  "name": "Flax",
+  "icon": "lushscentedparadise:flax",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“Slender stems, flowers like stars, the source of fabric, the rhythm of the grasslands.”$(br2)Flax is a drought-resistant herbaceous crop that grows abundantly in the savanna. Its delicate blue flowers are not only beautiful to behold but also serve practical purposes—its fibers are used for making textiles, while the flowers can be brewed into tea or processed into natural dyes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_flax",
+      "text": "Wild flax primarily grows in the savanna, thriving in arid climates and poor soil conditions. Travelers can collect flax seeds for artificial cultivation, turning it into a reliable source of flowers and fibers."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:flax",
+      "text": "A mature flax plant produces stunning blue flowers and yields a bundle of flax flowers.$(br)Flax seeds can be brewed into tea, providing a refreshing taste, or used as a dye or crafting material—an invaluable resource for travelers on long journeys."
+    }
+  ]
+}

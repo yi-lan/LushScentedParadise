@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lushscentedparadise:dried_cocoa_beans"
+    },
+    {
+      "item": "lushscentedparadise:mortar_and_pestle"
+    }
+  ],
+  "result": {
+    "item": "lushscentedparadise:cocoa_powder",
+    "count": 1
+  }
+}

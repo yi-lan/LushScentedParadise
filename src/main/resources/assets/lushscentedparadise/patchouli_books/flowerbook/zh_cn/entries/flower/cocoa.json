@@ -1,0 +1,27 @@
+{
+  "name": "可可豆",
+  "icon": "minecraft:cocoa_beans",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 18,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8b5e41)$(l)【热带之赐】$()$(br2)“烈日灼烧的雨林深处，孕育着甘醇浓厚的黄金果实。”,$(br2)可可豆生长在繁茂的热带雨林，悬挂于粗壮的树干之上，果荚呈深棕色，内部包裹着细腻芳香的种子。它们汲取着雨林湿润的空气与炙热阳光，饱满而富有活力。将其研磨制成苦涩而浓烈的饮品，以祈求勇气与温暖。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cocoa_beans",
+      "text": "可可豆主要生长于丛林生物群系，依附于树干而生。它们经历漫长的生长周期，初生时为淡绿色，逐渐转为金黄，最终成熟为深棕色。果荚成熟后可直接摘取，可可豆随即散落，如同大地留下的甘美种子。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:cocoa_beans",
+      "text": "摘录自《丛林部落手记》：$(br)“某夜，篝火旁，一位年迈的猎人递给我一碗滚烫的可可饮。我初尝之时，苦涩如雨林的泥土，但须臾之间，一股暖流自喉间蔓延至四肢，整个人仿佛被篝火拥抱。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:hot_cocoa",
+      "text": "热可可是可可豆的终极形态，茶汤呈深棕色，散发出浓郁的香气，带着微苦与甘甜交织的滋味。饮下的瞬间，能恢复部分生命值，宛如被温暖的能量包裹。"
+    }
+  ]
+}

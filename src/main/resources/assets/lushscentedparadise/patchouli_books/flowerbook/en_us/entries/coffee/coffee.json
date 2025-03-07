@@ -1,0 +1,21 @@
+{
+  "name": "Coffee",
+  "icon": "lushscentedparadise:dried_coffee_beans",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": -100,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#8B4513)Coffee is the first warmth of the morning and the last clarity of the night.$()\"$(br2)$(#FFD700)In this land$(), coffee is not just a $(#8B4513)daily beverage$(); it is a $(#FF69B4)culture, a belief$().$(br)Whether it's a $(#32CD32)steaming latte to start the morning$() or a $(#00BFFF)refreshing iced Americano for late-night study$(), every cup of coffee carries its own meaning."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "In this mod, you will discover various $(#FFD700)distinct coffee flavors$(), each offering not only $(#FF4500)a refreshing boost$() but also $(#32CD32)unique beneficial effects$().$(br2)$(#8B4513)Some coffees will make you run faster, some will enhance your focus, and others will help you endure longer in battle...$()$(br)This is a journey of $(#FFD700)flavor, energy, and adventure$(). May your coffee never go cold!"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "About likesorrow",
+      "text": "$(#FFD700)You may not know this, but one of the creators of this mod, $(#FF69B4)likesorrow$(), is a $(#8B4513)dedicated coffee enthusiast$().$(br2)He drinks $(#FFD700)rich coffee$() almost every day and firmly believes that $(#FF4500)without coffee, there is no inspiration$().$(br)So in this mod, we decided to introduce a $(#FFD700)comprehensive coffee system$(), allowing you to enjoy the pleasure of coffee during your adventures and hopefully find your own perfect cup!"
+    }
+  ]
+}

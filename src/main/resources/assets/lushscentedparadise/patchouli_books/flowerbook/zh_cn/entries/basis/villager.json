@@ -1,0 +1,22 @@
+{
+  "name": "村民职业-花匠",
+  "icon": "lushscentedparadise:flower_table",
+  "category": "lushscentedparadise:basis",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#32CD32)TA们用泥土与花瓣交谈$()，以$(#FF69B4)茶香与微风共舞$()。”$(br2)在旅途中，你或许会遇到一类$(#FFD700)特殊的村民$()——$(#FF69B4)花匠$()。TA们并非$(#A9A9A9)普通的农夫$()，而是$(#DAA520)专精于花卉种植$()、$(#8B0000)茶叶调配$()与$(#FF69B4)芳香疗法$()的$(#8A2BE2)匠人$()。$(#FFD700)TA们的技艺代代相传$()，不仅掌握着$(#32CD32)培育珍稀花种$()的方法，还能泡制出令人$(#FF69B4)惊叹的茶饮$()。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:flower_table",
+      "text": "要让一名$(#A9A9A9)普通村民$()转职为$(#FF69B4)花匠$()，你需要为TA们提供一张$(#8B4513)采花工作台$()作为$(#A9A9A9)工作方块$()。"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager{VillagerData:{profession:'lushscentedparadise:flower_master',level:5}}",
+      "text": "传闻当$(#FF69B4)花匠$()达到$(#FF4500)最高等级$()，TA将愿意出售一件$(#8B0000)传说级武器$()——$(#FF69B4)花之刃$()。"
+    }
+  ]
+}

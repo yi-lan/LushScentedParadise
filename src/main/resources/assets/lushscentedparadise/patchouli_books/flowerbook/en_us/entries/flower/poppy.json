@@ -1,0 +1,34 @@
+{
+  "name": "Poppy",
+  "icon": "minecraft:poppy",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#d22857)$(l)【Scarlet Silken Gown】$()$(br2)“The swaying flower shadow beneath the moonlight—an unhealed wound of the slumbering war god.”$(br2)These silk-like crimson petals are often mistaken for common poppies, yet hidden within their core lies a six-pointed star-shaped inky-black pattern. Their stems secrete a milky-white sap with hallucinogenic properties, which medieval alchemists once called ‘The Lip Rouge of the Nightmare Goddess.’"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:poppy",
+      "text": "Highly adaptable, found across nearly all biomes except the most extreme environments. Wherever sunlight and soil meet, these flowers may bloom."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_poppy",
+      "text": "Excerpt from a wandering alchemist’s parchment:$(br)On the night of the seventh lunar eclipse, I buried nine poppies at the northern edge of the graveyard. When the last petal was soaked in morning dew, a mist-blue spectral horse rose from the soil. In their hollow sockets, ever-blooming flowers took root.$(br2)Has anyone else tried this?"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:poppy_tea",
+      "text": "Gently roasted poppy petals are steeped in a silver crucible, extracting a deep crimson tea with a pearlescent sheen. As it flows down the throat, warmth surges through the veins, as if life itself is awakening.$(br2)$(#BF2812)Beautiful yet dangerous.$(br)That night, I saw my own decaying face reflected in the tea—yet the reflection in the mirror began to smile…$()"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["lushscentedparadise:textures/image/ghost_horse.png"],
+      "title": "Legendary Phantom Steed",
+      "border": true,
+      "text": "Only a rumor, at least I haven't heard of anyone seeing one."
+    }
+  ]
+}

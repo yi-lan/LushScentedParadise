@@ -1,0 +1,26 @@
+{
+  "name": "卡布奇诺",
+  "icon": "lushscentedparadise:cappuccino",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#8B4513)更浓郁的咖啡，更丰富的奶泡，带来更均衡的风味体验$()。”$(br2)$(#DAA520)卡布奇诺$()（Cappuccino）是一种$(#8B4513)Espresso$() 与 $(#FFFACD)绵密奶泡$() 结合的咖啡饮品，$(#FFD700)咖啡的醇厚$() 与 $(#FF69B4)奶香的轻盈$() 形成完美平衡。$(br)相比 $(#DAA520)拿铁$()，卡布奇诺的 $(#8B4513)咖啡味更浓$()，适合$(#FF4500)短时间提神$()，在$(#FFD700)战斗前提升专注度$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:cappuccino",
+      "text": "$(#FFD700)卡布奇诺$() 介于 $(#8B4513)Espresso$() 和 $(#DAA520)拿铁$() 之间，$(#FFD700)平衡了浓烈的咖啡与丝滑奶泡$()，带来$(#FF69B4)更香醇的饮用体验$()。$(br2)适合 $(#FF4500)需要短暂提升精神状态$()，但不希望像 $(#DAA520)Triespresso$() 那样刺激过度的玩家。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "制作$(#FFD700)卡布奇诺$() 需要：$(br2)$(#8B4513)· 一杯标准 $(#FFD700)Espresso$()$(br)$(#FFFACD)· 等量的蒸汽牛奶$()$(br)$(#FFFACD)· 绵密奶泡覆盖表面$()$(br2)相比$(#DAA520)拿铁$()，$(#FFD700)卡布奇诺$() 的$(#8B4513)咖啡比例更高$()，适合$(#FF4500)需要更强烈风味$()的玩家。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Cappuccino 的特性",
+      "text": "$(#FFD700)饮用效果$()：$(br2)· $(#FFD700)短时间小幅提升速度$()$(br)· $(#FFD700)几乎不会引起饥饿$()$(br)· $(#FF69B4)略微恢复生命值$()$(br2)$(#8B0000)卡布奇诺$() 适用于$(#FFD700)战斗前准备$()，提供$(#FF4500)短暂但有效的增益$()，同时$(#FF69B4)带来温暖与舒适感$()。"
+    }
+  ]
+}

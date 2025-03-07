@@ -1,0 +1,26 @@
+{
+  "name": "Drying",
+  "icon": "lushscentedparadise:drying_rack",
+  "category": "lushscentedparadise:basis",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)Warm breezes$() carry away $(#00BFFF)moisture$(), breathing new life into $(#98FB98)plants$().\"$(br2)In $(#8B4513)tea-making$(), many $(#32CD32)plants$() cannot be used fresh. They require $(#DAA520)drying$() to slowly evaporate $(#00BFFF)moisture$(), concentrating their $(#FF69B4)aroma$() and $(#CD5C5C)potency$(). Whether $(#FF4500)delicate petals$() or $(#8B4513)tough roots$(), drying is essential."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:drying_rack",
+      "text": "$(#DAA520)Drying$() is more than waiting for $(#00BFFF)moisture to vanish$(). Place items on the $(#A0522D)Drying Rack$() under $(#FFD700)sunlight$() to preserve their $(#8B0000)flavor$() and $(#CD5C5C)effects$(). Mishandling may degrade their $(#CD5C5C)unique properties$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:drying_rack",
+      "text": "$(#8B4513)Patience, patience.$()$(br)Drying occurs only during the day. Night halts progress."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br)$(#DAA520)Drying$() is not mere $(#8B4513)wilting$() but a $(#CD5C5C)transformation$(). As $(#FFD700)sunlight$() and $(#00BFFF)wind$() draw out moisture, they leave behind $(#FF69B4)pure essence$(). May you uncover the $(#32CD32)true flavors$() and $(#CD5C5C)power$() of plants through this craft."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "姜",
+  "icon": "lushscentedparadise:ginger",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 22,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#de982b)$(l)【地火之根】$()$(br2)“沙海中的灼热血脉，以辛辣刺破凛冬枷锁”,$(br2)姜的块茎如蜷曲的赤龙爪，表皮粗糙却内藏炽烈。其辛辣气息能驱散骨髓中的寒意，游牧民族将其称为「行走的篝火」。沙漠旅人常将姜片含于舌下，即便夜宿冰岩，亦能保体温不散。叶鞘分泌的黏液可临时粘合伤口，但会引发灼烧般的刺痛。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_ginger",
+      "text": "仅扎根于萨瓦纳草原的旱季裂土或沙漠绿洲边缘，根系深入地下寻找暗流。烈日暴晒时，块茎会渗出盐晶形成隔热层；若遇罕见降雨，植株将在24小时内抽出鹅黄花序，吸引耐旱甲虫传粉。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_ginger",
+      "text": "《商队医典》残卷$(br)““穿越天山隘口那夜，暴雪封住了所有去路。我们宰杀最后一只骆驼，剖开胃囊——其中未消化的姜块竟救了一队人性命。将姜末混入发黑的雪水煮沸，饮下后胸腔如藏熔炉，硬生生在零下四十度凿出条生路。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:ginger_soup",
+      "text": "将生姜切片与粗蔗糖在铁釜中焦糖化，慢炖。茶汤呈现岩浆般的橙红色，饮时喉间似有火蜥蜴窜过，寒气未近身便蒸腾为白雾。"
+    }
+  ]
+}

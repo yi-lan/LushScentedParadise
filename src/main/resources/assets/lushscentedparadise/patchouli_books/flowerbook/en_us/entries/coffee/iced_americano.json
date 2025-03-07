@@ -1,0 +1,26 @@
+{
+  "name": "Iced Americano",
+  "icon": "lushscentedparadise:iced_americano",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#00BFFF)Ice clinks against the glass, coffee aroma fills the air—an Iced Americano brings both refreshment and clarity.$()\"$(br2)$(#DAA520)Iced Americano$() is a coffee drink made by combining $(#8B4513)Espresso$() with $(#00BFFF)ice water$(). It $(#FFD700)retains the classic Americano flavor$() while adding $(#00BFFF)a crisp, refreshing taste$().$(br)Perfect for $(#FF4500)hot environments$(), it helps $(#32CD32)players stay focused$(), making $(#FFD700)long adventures more alert and refreshing$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:iced_americano",
+      "text": "$(#FFD700)Iced Americano$() is ideal for players who $(#FF69B4)need sustained alertness$() but do not prefer $(#8B4513)dairy-based$() drinks.$(br2)It is $(#00BFFF)cooler and more refreshing$() than a $(#DAA520)hot Americano$(), $(#FFD700)offering prolonged mental clarity$(), making it suitable for $(#FF4500)long explorations$() or $(#FFD700)high-focus tasks$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make an $(#FFD700)Iced Americano$(), you need:$(br2)$(#8B4513)· One cup of standard $(#FFD700)Espresso$()$(br)$(#00BFFF)· A suitable amount of ice water$()$(br)$(#ADD8E6)· Ice cubes for cooling$()$(br2)Compared to a $(#DAA520)hot Americano$(), an $(#FFD700)Iced Americano$() has $(#00BFFF)a more refreshing sensation$(), perfect for $(#FF4500)players who need to stay cool and composed for long periods$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Iced Americano Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#32CD32)Gradually increases movement speed$(), with an extended duration$(br)· $(#FFD700)Barely affects hunger levels$()$(br)· $(#00BFFF)Reduces fatigue caused by hot environments$()$(br2)$(#8B0000)Iced Americano$() is perfect for $(#FFD700)long explorations$(), providing $(#00BFFF)cooling and focus$(), helping $(#FF4500)players stay in top condition even in scorching heat$()."
+    }
+  ]
+}

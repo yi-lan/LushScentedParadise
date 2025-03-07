@@ -1,0 +1,27 @@
+{
+  "name": "牛蒡",
+  "icon": "lushscentedparadise:burdock",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 45,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B5A2B)$(l)【坚韧之根】$()$(br2)“深埋泥土的粗壮根茎，承载着不屈的生命力。”$(br2)牛蒡常见于平原与草甸，根茎深扎泥土，顽强地汲取养分。其种子带有倒钩，能依附于旅人的衣角，被带往远方。民间流传着战士在长途征战前食用牛蒡，以求不畏疲惫，不受寒邪。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_burdock",
+      "text": "主要生长在平原与草甸，耐寒耐旱，根茎深入地下，可在贫瘠的土地上存活。种子带有微小倒钩，常借助风或动物传播，繁衍至更远的土地。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_burdock",
+      "text": "摘录自《旅者手册》$(br)“冬季大雪封山，旅人困于山道，举步维艰，幸得山民以牛蒡根熬汤饮之，片刻后疲惫散去，步履恢复轻快，最终安然归乡。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:burdock_soup",
+      "text": "将牛蒡根炖煮，茶汤呈淡棕色，带有泥土的芳香，入口后温暖全身。饮后身躯强韧，寒风难侵，步履亦恢复轻盈。$(br2)$(#8B4513)但请谨慎，若依赖其力量过久，或许会忘记何为真正的疲惫……$()"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "茶",
+  "icon": "lushscentedparadise:green_tea_leave",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#6e7f34)$(l)【百茶之母】$()$(br2)“千年前神农尝百草的遗泽，枝叶间封印着茶魂的五重面相”,$(br2)这株不起眼的灌木叶片边缘呈锯齿状，嫩芽随季节变换色彩。其根系深扎大地记忆，传说每一片茶叶都记载着不同朝代的制茶秘术。老茶农常在月圆之夜修剪枝杈，以求来年收获的茶叶蕴含更纯粹的自然灵力。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_tea",
+      "text": "成簇生长于平原与草甸群系的向阳缓坡，根系与地下水流共鸣，邻近水源处叶片更为肥厚。破坏后能发现各种类型的原初茶种子"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea_leave",
+      "text": "叶片嫩绿如初春新柳，仅取谷雨前单芽，需在竹筛上晾晒九日九夜，保留最原始的草木清气。《茶经》云：“其性寒，涤昏寐，通仙灵。”古代武士将其含于舌下，可令拔刀速度提升三成。叶脉中藏有微型气孔，冲泡时如千万碧蝶破茧振翅，茶汤透亮如琥珀，饮后五感澄明，足下生风。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:black_tea_leave",
+      "text": "铜红色叶片蜷曲如龙眠，经松木炭火烘焙后散发焦糖与烟熏气息。马帮将其压成茶砖，穿越沙漠时含一片于口中，可抵三日饥渴。矿工传说：深井作业前饮一盏浓红茶，岩壁纹理会浮现微光，指引安全矿脉。茶汤浓郁如熔金，饮时胸腔如燃火炉，双臂筋肉虬结，镐击岩层火星四溅。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:white_tea_leave",
+      "text": "仅取惊蛰后未展叶芽，覆以桑蚕丝阴干，叶色银白如月霜。医书载其可“驱腐毒，愈金疮”，中世纪瘟疫横行时，医师将白茶与薄荷、金银花同煎，称为“死神止步汤”。茶汤浅金透绿，饮后伤口愈合如时光倒流。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oolong_tea_leave",
+      "text": "叶片边缘红褐如锈，叶心碧绿似蛟鳞，需在正午烈日下“摇青”激发香气。古时城墙工匠将其嚼碎敷于肩背，可承千斤巨石而不垮。茶汤橙黄如夕照，饮后皮肤硬化如披玄甲，箭矢触之铿然有声."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:puer_tea_leave",
+      "text": "墨褐色茶饼沉淀百年地气，冲泡时陈香混合湿地苔藓气息。茶马古道的商人藉此预判交易吉凶——若茶汤表面浮现漩涡，则需速离市集；若涟漪成同心圆，则利市三倍。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_green_tea_leave",
+      "text": "茶禅一梦$(br2)“碧叶摇醒千山雾,赤汤熔尽古今愁,白瓷盛来明月魄,乌龙盘结铁骨魂,普洱陈香藏天命,七碗饮罢见星辰。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:green_tea",
+      "text": "取三片清明前采摘的绿茶嫩芽，置于青瓷碗中用75℃山泉冲泡，待叶影如碧蛇游动时饮下。茶汤入口凛冽如雪山融水，舌尖泛起青竹清香。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:black_tea",
+      "text": "将发酵完全的红茶叶晒干，注入沸腾的火山温泉水中。茶汤呈赤铜色，表面浮现金色油膜，饮时喉间如熔岩奔涌。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:white_tea",
+      "text": "在满月夜收集白茶芽尖，用女巫蒸馏器提取晨露精华。茶汤银白如液态月光，饮时骨骼发出风铃般的清响。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:oolong_tea",
+      "text": "将半发酵乌龙茶叶装入玄武岩坩埚，在地狱火中煅烧至叶脉浮现龙鳞纹。茶汤厚重如熔化的青铜，饮后皮肤硬化出矿物结晶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:puer_tea",
+      "text": "将百年普洱茶砖时空扭曲结界中陈化，注入末地烛光照耀的虚空之水。茶汤漆黑如浓缩的夜，饮时耳畔响起远古交易市场的喧嚣。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": " $(br2) $(br2)其实并没有前面几页说的那么复杂，各种奇怪的烹饪方法也许是古人对世界的探索不足，也许是奇思妙想，但总归来说，晒干的茶叶扔进水里，在茶壶中煮沸，茶就做好了。$(br)——某茶艺大师"
+    }
+
+
+  ]
+}

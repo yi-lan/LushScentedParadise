@@ -1,0 +1,27 @@
+{
+  "name": "牡丹",
+  "icon": "minecraft:peony",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#ca6d90)$(l)【国色天香】$()$(br2)“唯有牡丹真国色，花开时节动京城”,$(br2)牡丹层叠如锦的碗状花冠可大如圆盘，粉霞般的花瓣基部晕染檀色纹路。古时宫廷以牡丹纹样绣于龙袍，民间嫁娶必插牡丹于青瓷瓶，谓之“富贵长春”。其根皮入药称“丹皮”，《神农本草经》载其可“除瘕热，续筋骨”。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:peony",
+      "text": "生于林间光照通达之地，尤喜古柏荫下沃土。晨间花瓣承露时低垂如颔首，午时昂首绽满如帝王冠冕。若遇暴雨，花蕊会分泌蜜蜡自护，雨滴顺蜡质滑落不伤分毫。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_peony",
+      "text": "《酉阳杂俎》载$(br)“武后冬月游后苑，诏令百花齐放。唯牡丹傲骨不从，遂被贬洛阳。然洛阳水土反令牡丹愈盛，世人始知——此花非金阙雕栏可困，乃天地浩然之气所钟。”$(br)今洛阳牡丹甲天下，盖因风骨未折。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:peony_tea",
+      "text": "取带露牡丹一大朵，配古法黄糖，以陶壶炭火煎煮。茶汤初现琥珀色，饮时回甘生津，碗底隐现牡丹暗纹，坊间称此纹路现者三日必逢吉事。"
+    }
+  ]
+}

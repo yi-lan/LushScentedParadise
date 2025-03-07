@@ -1,0 +1,26 @@
+{
+  "name": "焦糖玛奇朵",
+  "icon": "lushscentedparadise:caramel_macchiato",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#FFD700)丝滑牛奶，浓烈咖啡，焦糖点缀，甜蜜之中的一丝苦涩——这就是焦糖玛奇朵。$()”$(br2)$(#DAA520)焦糖玛奇朵$()（Caramel Macchiato）是一种$(#8B4513)Espresso$() 与 $(#FFD700)焦糖$() 搭配的咖啡饮品，$(#FF69B4)甜美的焦糖$() 中和了咖啡的$(#8B4513)苦涩$()，带来$(#FFD700)温暖与幸福感$()。$(br)它不仅$(#FF4500)提神醒脑$()，还能$(#FF69B4)短时间提升精神状态$()，适合$(#FFD700)探索旅途$()或$(#32CD32)休闲时刻$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:caramel_macchiato",
+      "text": "$(#FFD700)焦糖玛奇朵$() 适合$(#FF69B4)喜欢甜美风味$()，但又不想完全失去$(#8B4513)浓缩咖啡的醇厚感$()的玩家。$(br2)它可以$(#FFD700)温暖身心$()，适用于$(#FF69B4)短暂的增益状态$()，但不像 $(#FF4500)Triespresso$() 那样过于刺激。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "制作$(#FFD700)焦糖玛奇朵$() 需要：$(br2)$(#8B4513)· 一杯标准 $(#FFD700)Espresso$()$(br)$(#FFFACD)· 适量温热牛奶$()$(br)$(#FFD700)· 焦糖酱点缀表面$()$(br2)相比$(#DAA520)拿铁$()，$(#FFD700)焦糖玛奇朵$() 更具$(#FF69B4)甜美层次感$()，使$(#FFD700)苦与甜达到完美平衡$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Caramel Macchiato 的特性",
+      "text": "$(#FFD700)饮用效果$()：$(br2)· $(#FFD700)短时间提供少量攻击加成$()$(br)· $(#FF69B4)小幅恢复生命值$()$(br)· $(#FFD700)几乎不会引起饥饿消耗$()$(br)· $(#FF4500)带来幸运！$()$(br2)$(#8B0000)焦糖玛奇朵$() 适用于$(#FFD700)温暖的冒险旅程$()，在$(#FF69B4)休闲与探索$()之间提供$(#FFD700)短暂但温和的增益$()。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "百合",
+  "icon": "lushscentedparadise:lily",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 35,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#FFD700)$(l)【晨曦圣华】$()$(br2)“花开如誓，金色晨光轻吻洁白花瓣。”$(br2)百合亭亭玉立，花朵洁白如雪，晨露洒落时闪烁着柔和的光晕。常见于平原草甸与河畔浅滩，其根茎粗壮，能在风暴来临时牢牢扎根。古老传说中，百合象征着生命与庇佑，人们将其敬献给神明，以祈求健康与长寿。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lily",
+      "text": "主要生长在平原、草甸和河岸，喜湿润土壤，根茎能深入地下稳固自身。清晨花瓣绽放，傍晚则微微闭合，花香淡雅却持久。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lily",
+      "text": "摘录自《草木药志》$(br)“百合根茎富含精华，古代医师以其入药，称之为‘大地恩赐’。战士出征前常食用百合，愿其身躯坚韧如山岳。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lily_tea",
+      "text": "缓炖百合花与根茎，茶汤澄澈透亮，带有淡淡的泥土与花蜜气息。饮下后，体内似有暖流流转，筋骨强韧，生命之力充盈全身。$(br2)$(#8B4513)然而，生命虽可盛放，却终有极限——贪恋过度，反令其枯萎……$()"
+    }
+  ]
+}

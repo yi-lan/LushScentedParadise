@@ -1,0 +1,27 @@
+{
+  "name": "葛根",
+  "icon": "lushscentedparadise:kudzu",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 46,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#6B8E23)$(l)【疾风之藤】$()$(br2)“藤蔓攀附大地，根茎深藏土壤，赋予行者疾风之力。”$(br2)葛根多见于平原与萨瓦纳草原，藤蔓旺盛，攀附岩石与树木生长。其根茎饱含水分与养分，被旅人视作荒野中的补给品。古老的传说中，山中猎人常食葛根，以求奔跑如风，不受疲倦束缚。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_kudzu",
+      "text": "主要生长在平原和萨瓦纳草原，根茎深入地下，能在贫瘠的土地上迅速蔓延。藤蔓攀援力极强，可沿着石壁与枯树生长，风中摇曳时犹如疾风掠过草原。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_kudzu",
+      "text": "摘录自《游侠笔记》$(br)“深山行路者，负重步履迟缓，偶得葛根煎煮而饮，顷刻间疲惫尽散，步伐如猎豹般轻快，再无迟滞。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:kudzu_soup",
+      "text": "炖煮葛根，茶汤呈浅褐色，微带淡淡清甜。饮后四肢充满力量，奔跑如风，挖掘亦无迟滞。$(br2)$(#556B2F)但有言道，若贪恋疾风的快感，终有一日会发现脚下的道路已不复存在……$()"
+    }
+  ]
+}

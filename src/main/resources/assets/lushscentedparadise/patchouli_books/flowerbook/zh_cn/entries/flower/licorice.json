@@ -1,0 +1,27 @@
+{
+  "name": "甘草",
+  "icon": "lushscentedparadise:licorice_root",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 43,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#8B4513)$(l)【大地之息】$()$(br2)“烈日炙烤的荒原上，坚韧的根须深埋黄土，孕育甘甜生机。”$(br2)甘草生于干旱的萨瓦纳与沙漠绿洲，根系纵横交错，能从贫瘠土壤中汲取养分。自古以来，旅人们在长途跋涉前会咀嚼甘草，以保持体力并抵御毒素。传说中，沙漠的医者以甘草为药，救治中毒的伤者，使生命得以延续。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_licorice",
+      "text": "多见于萨瓦纳和沙漠地带，耐旱性极强，根部深入地下数尺，以寻觅稀少的水源。黄昏时花朵绽放，夜晚则微微闭合，释放出淡淡的甜香。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_licorice_root",
+      "text": "摘录自《游医笔记》$(br)“在沙漠深处，商队行至绝境，烈阳炙烤之下，口渴与疲惫令人濒临崩溃。巫医从干裂的土壤中掘出甘草之根，煮成药汤，一饮而尽，生命如泉水般回涌。”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:licorice_soup",
+      "text": "将甘草根缓炖，茶汤呈淡金色，入口甘甜，随即化作暖流涌遍全身。饮后创伤愈合，毒素消散，体内如涌动着温润的生机。$(br2)$(#A52A2A)然世人有言——甘草虽可解毒，然过量服用，亦可能令心脉过度澎湃……$()"
+    }
+  ]
+}

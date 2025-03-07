@@ -1,0 +1,35 @@
+{
+  "name": "Flower Sword",
+  "icon": "lushscentedparadise:flower_sword",
+  "category": "lushscentedparadise:misc",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“One swing divides the seasons, and a hundred flowers bloom upon the blade.”$(br2)The Flower Sword is a weapon that resonates with nature, gaining different effects based on the $(#FF69B4)flower held in the off-hand$().$(br)It is forged from the $(#DAA520)Primordial Flower Sword$(), which can be obtained from a $(#FFD700)Master Florist$(). Only through careful refinement and bonding with nature can it awaken its true power."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:original_flower_sword",
+      "text": "$(#DAA520)The Primordial Flower Sword$() is a basic weapon available for purchase from a $(#FFD700)Master Florist$().$(br)It has no special effects on its own and requires further tempering to unlock the full potential of the Flower Sword."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "lushscentedparadise:flower_sword",
+      "text": "$(#FF69B4)The Flower Sword$() is the evolved form of the $(#DAA520)Primordial Flower Sword$(), gaining unique combat abilities based on the $(#FF69B4)flower held in the off-hand$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Flower Sword Effects",
+      "text": "When different flowers are held in the off-hand, $(#FF69B4)the Flower Sword$() grants corresponding abilities:$(br2)$(#32CD32)· Lily of the Valley$(): Inflicts $(#A9A9A9)Poison$() on hit.$(br)$(#FF69B4)· Peony$(): Attacks have a $(#FFD700)chance to instantly restore health$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(#8B0000)· Wither Rose$(): Inflicts $(#4B0082)Wither$() on hit.$(br)Defeating a $(#4B0082)withered target$() causes it to $(#FF4500)drop a Wither Rose$().$(br2)$(#FF4500)· Torchflower$(): Sets the target $(#FF4500)on fire$() on hit.$(br)Defeating a burning target $(#FFD700)drops a Torch$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(#8A2BE2)· Hibiscus$(): Inflicts $(#A9A9A9)Mining Fatigue$() on hit.$(br)$(#ADD8E6)· Snow Lotus$(): Slows the target $(#00BFFF)on hit$(), and defeating them $(#ADD8E6)drops an Ice Block$().$(br2)$(#FF69B4)· Gaura$(): Has a $(#32CD32)small chance to trigger health regeneration$() upon attack.$(br)$(#FFD700)· Sunflower$(): $(#FFD700)Gradually restores weapon durability$() while equipped."
+    }
+  ]
+}

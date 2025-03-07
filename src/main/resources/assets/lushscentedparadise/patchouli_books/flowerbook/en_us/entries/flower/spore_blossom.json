@@ -1,0 +1,27 @@
+{
+  "name": "Spore Blossom",
+  "icon": "minecraft:spore_blossom",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#e49ad6)$(l)【Breath of the Earth】$()$(br2)“Suspended from cavern ceilings like a living wind chime, composing an underground symphony with spores as notes.”$(br2)This inverted giant flower features translucent pale-purple petals, constantly releasing clouds of pink spores. Its particles purify toxic cave air, leading miners to call it a ‘natural air purifier.’ However, prolonged exposure to its spores may cause mild weightlessness hallucinations."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:spore_blossom",
+      "text": "Exclusively found hanging from the ceilings of lush caves, often above clusters of glow berries or dripping pools. Once mature, the plant ejects spores at regular intervals."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_spore_blossom",
+      "text": "Excerpt from *The Cave Explorer’s Chronicles*$(br)“We witnessed the most surreal sight—bats gliding through the spore clouds as if lifted by unseen hands, performing an aerial ballet. But when Jim tried to collect a spore sample, his boots lost traction, and he drifted like a drunken balloon straight into a stalactite… Fortunately, he fell just before impact. His backside, however, was not as lucky.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:spore_blossom_tea",
+      "text": "Spore blossoms are fermented with sugarcane, creating a tea that froths into glowing luminescent bubbles when brewed. Upon drinking, one’s bones feel as light as feathers, though one must be wary—stray air currents might carry them toward an unknown abyss."
+    }
+  ]
+}

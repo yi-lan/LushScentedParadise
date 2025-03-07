@@ -1,0 +1,21 @@
+{
+  "name": "Kudzu",
+  "icon": "lushscentedparadise:kudzu",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"Vines flourishing, roots deep and stems strong, nourishing body and mind, bestowing vitality.\"$(br2)Kudzu is a vine plant widely found in plains and grasslands. Its roots are rich in nutrients, often used in dietary therapy and medicine. Kudzu tea revitalizes energy and invigorates the spirit, making it a rare tonic for travelers on long journeys."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_kudzu",
+      "text": "Wild kudzu primarily grows in plains and grasslands, with vines spreading vigorously and exhibiting remarkable resilience.$(br)Similar to certain rhizomatous plants, kudzu does not require seeds for propagation. Instead, harvested kudzu roots can be directly buried in soil to continue growing and reproducing cyclically."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:kudzu",
+      "text": "Mature kudzu plants yield multiple roots, which can be used for continuous cultivation.$(br)Their nutrient-rich roots can be brewed into tea or crafted into nourishing foods, helping travelers maintain optimal condition during their expeditions."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Perilla",
+  "icon": "lushscentedparadise:perilla",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#800080)$(l)【Breath of the Tempest】$()$(br2)“Its purple leaves churn under the scorching sun, like war drums pounding, awakening the dormant fire within.”$(br2)Perilla thrives across warm plains, savannas, and desert regions, its crimson-purple leaves fluttering wildly in the wind like tongues of fire. Its intense aroma is said to rouse the spirit, and ancient warriors chewed perilla leaves before battle to stir their blood and heighten their fighting spirit."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:perilla",
+      "text": "Grows in warm, arid regions such as plains, savannas, and desert oases, with exceptional adaptability. The deep purple shade of its leaves intensifies at noon when the sun reaches its peak, releasing its most potent fragrance."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_perilla",
+      "text": "Excerpt from *The Warrior’s Altar*$(br)“In ancient times, before marching to battle, warriors burned perilla leaves as incense, invoking the spirits of war. It was said that those who inhaled the smoke would feel their hearts race, their blood burn like wildfire, and their only relief would be found in combat.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:perilla_tea",
+      "text": "Slowly brewed perilla leaves produce a dark purple tea with a sharp, spicy aroma. Upon drinking, it feels as though flames surge through the veins, bestowing a sudden surge of strength—fists could shatter stone, and battle cries could part the winds.$(br2)$(#B22222)But beware—drink too much, and the thirst for battle may never subside, driving one to fight until exhaustion claims them...$()"
+    }
+  ]
+}

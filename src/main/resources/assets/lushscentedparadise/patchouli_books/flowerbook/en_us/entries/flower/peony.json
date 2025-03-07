@@ -1,0 +1,27 @@
+{
+  "name": "Peony",
+  "icon": "minecraft:peony",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#ca6d90)$(l)【The National Beauty】$()$(br2)“Only the peony is truly the national treasure; when it blooms, the capital is enchanted.”$(br2)The peony’s layered, bowl-shaped blossoms can grow as large as a plate, with petals tinged in soft pink and streaked with deep sandalwood hues at their base. In ancient times, royal robes were embroidered with peony patterns, and it was customary for households to place peonies in porcelain vases during weddings as a symbol of ‘eternal prosperity.’ The dried root, known as ‘Danpi’ in traditional medicine, was recorded in *Shennong’s Herbal Classic* for its ability to ‘dispel heat and strengthen bones and muscles.’"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:peony",
+      "text": "Thrives in forest clearings with ample sunlight, favoring fertile soil beneath ancient cypress trees. In the morning, dew-laden petals bow gracefully, only to stand tall and fully unfurl by midday, resembling a monarch’s coronet. When heavy rains threaten, the flower secretes a waxy protective layer, allowing raindrops to roll off without causing damage."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_peony",
+      "text": "Excerpt from *Youyang Miscellany*$(br)“Empress Wu once commanded all flowers in the imperial garden to bloom in winter, yet only the peony remained unmoved by the order. In defiance, it was banished to Luoyang, where the soil and climate nurtured it into even greater splendor. Thus, the world learned that this flower cannot be confined to golden palaces—it flourishes where the heavens and earth will it.”$(br)To this day, Luoyang’s peonies remain unmatched, their resilience never broken."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:peony_tea",
+      "text": "A single dew-covered peony bloom is simmered with traditional golden sugar in a ceramic pot over charcoal. The tea takes on a warm amber hue, leaving a lingering sweetness on the palate. Folk legends claim that if a subtle peony pattern appears at the bottom of the cup, the drinker is destined to encounter good fortune within three days."
+    }
+  ]
+}

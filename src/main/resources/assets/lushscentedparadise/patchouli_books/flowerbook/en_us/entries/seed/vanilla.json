@@ -1,0 +1,21 @@
+{
+  "name": "香草",
+  "icon": "lushscentedparadise:vanilla_seeds",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“甘醇幽香，藤蔓之誓。”$(br2)香草原产于潮湿茂密的热带雨林，洁白花朵与细长果荚交织出醉人的微甜气息。它象征着温暖与祝福，被广泛用于调味、酊剂及仪式庆典之中。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:vanilla_seeds",
+      "text": "香草多依附于雨林中的树干与藤蔓，需湿润且温暖的环境才能顺利生长。旅人若能在野外找到成熟的香草荚，即可获取种子，用于人工栽培。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:vanilla_pod",
+      "text": "香草在成熟后，需要$(l)手持剪刀右键$()方可进行收获，以免破坏整株。采下的香草荚可进一步晾晒发酵，释放出馥郁的甜香，用以调制甜品或酿制香甜的糖浆。"
+    }
+  ]
+}

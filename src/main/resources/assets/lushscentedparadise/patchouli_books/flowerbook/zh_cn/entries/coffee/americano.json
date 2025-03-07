@@ -1,0 +1,26 @@
+{
+  "name": "美式咖啡",
+  "icon": "lushscentedparadise:americano",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#8B4513)Espresso 太浓烈？试试温和顺滑的 Americano 吧！$()”$(br2)$(#DAA520)美式咖啡$()（Americano）是一种$(#8B0000)稀释后的浓缩咖啡$()，口感$(#FFD700)温和顺滑$()，保留了$(#8B4513)Espresso$() 的风味，但$(#00BFFF)更加耐饮$()，适合$(#32CD32)长时间冒险$()。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:americano",
+      "text": "$(#FFD700)美式咖啡$() 是在$(#8B4513)Espresso$() 中加入$(#00BFFF)热水$()，减少$(#FF4500)苦涩度$()，使其$(#FFD700)更顺滑、更耐喝$()。$(br2)它适合需要$(#32CD32)持久续航$()的玩家，提供$(#FFD700)缓慢且持久的能量加成$()，而不会带来$(#FF4500)强烈的副作用$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "制作$(#DAA520)Americano$() 需要：$(br2)$(#FFD700)· 一杯标准 $(#8B4513)Espresso$()$(br)$(#00BFFF)· 适量热水$()$(br)$(#FFD700)· 轻轻搅拌，融合风味$()$(br2)相比于浓烈的$(#8B4513)浓缩咖啡$()，$(#FFD700)美式咖啡$() 更适合$(#32CD32)慢饮$()，让能量补充得更$(#FFD700)均匀持久$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Americano 的特性",
+      "text": "$(#FFD700)饮用效果$()：$(br2)· $(#32CD32)缓慢提升行动速度$()，但持续时间更长$(br)· $(#FFD700)提供稳定的急迫加长$()$(br)· $(#A9A9A9)较低的饥饿值消耗$()，适合长时间使用$(br2)$(#8B0000)Americano 适用于日常冒险$()，不像$(#FF4500)Triespresso$() 那样极端，而是一种$(#FFD700)温和的续航饮品$()。"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "lushscentedparadise:drying",
+  "dryingTime": 1200,
+  "input": {
+    "item": "lushscentedparadise:coffee_beans"
+  },
+  "output": "lushscentedparadise:dried_coffee_beans"
+}

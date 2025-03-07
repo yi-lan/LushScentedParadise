@@ -1,0 +1,27 @@
+{
+  "name": "Snow Lotus",
+  "icon": "lushscentedparadise:snow_lotus",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 37,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#ADD8E6)$(l)【Frozen Bloom】$()$(br2)“Amidst the biting winds, only the snow lotus blooms silently beneath the snow.”$(br2)Snow lotus thrives in extreme cold, its petals resembling carved crystal, radiating a chill that seeps into the bones at the slightest touch. Drawing vitality from the deepest mountains, legends say that those who obtain its flower can withstand freezing temperatures and even reverse the wounds of near death."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:snow_lotus",
+      "text": "Only found in the coldest environments, such as mountaintops and deep frozen plains. Extremely rare, its buds take years to accumulate nutrients before blooming. Once fully opened, its life force depletes rapidly, and within days, it disintegrates into frost and vanishes with the wind."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_snow_lotus",
+      "text": "Excerpt from *The Northern Survival Manual*$(br)“A wounded hunter in the snow attempted to eat the petals of a snow lotus. Instantly, his flesh was restored, even old scars fading away. However, from that day onward, he dreamed each night of whispers from the frozen wastelands, as if he no longer belonged to this world.”"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:snow_lotus_tea",
+      "text": "Snow lotus petals must be brewed in pure snowmelt, creating a tea as clear as liquid ice. Upon drinking, a sweet, icy sensation glides down the throat, flooding the body with warmth as wounds heal at an astonishing rate, unlocking one’s hidden vitality.$(br2)$(#4682B4)Yet, legend warns that if a mortal body cannot endure such power, their soul may gradually freeze within the cold…$()"
+    }
+  ]
+}

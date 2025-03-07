@@ -1,0 +1,21 @@
+{
+  "name": "Ginger",
+  "icon": "lushscentedparadise:ginger",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"Pungent and aromatic, it warms the body and dispels cold. Bury it in soil, and new life shall sprout.\"$(br2)Ginger is a rhizome crop renowned for its distinctive spicy flavor and potent medicinal value. Whether used as a culinary seasoning or brewed into tea to ward off the chill, ginger remains an indispensable treasure."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_ginger",
+      "text": "Unlike ordinary crops, ginger requires no seeds. Travelers need only bury a piece of ginger in the soil to allow it to take root and thrive. It exhibits strong adaptability and grows particularly swiftly in warm, humid environments."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:ginger",
+      "text": "When mature, the ginger plant yields more rhizomes, which can be replanted for continuous propagation.$(br)Thanks to its vigorous vitality, ginger is ideal for cyclical cultivation, ensuring a stable supply of this precious crop for travelers."
+    }
+  ]
+}

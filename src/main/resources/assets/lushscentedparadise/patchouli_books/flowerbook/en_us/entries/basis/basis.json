@@ -1,0 +1,29 @@
+{
+  "name": "Welcome!",
+  "icon": "lushscentedparadise:dried_safflower",
+  "category": "lushscentedparadise:basis",
+  "sortnum": -100,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“$(#FFD700)Flowers bloom through the seasons, and tea warms the passing years.$()”$(br2)Welcome to the world of $(#FF69B4)Fragrant Tea Garden$(), a land filled with $(#98FB98)exotic flowers and herbs$() and $(#8A2BE2)aromatic teas$().$(br2)Here, every $(#FF4500)flower$() is more than just decoration; they each have their own $(#00BFFF)unique growing conditions$() and $(#8B0000)mystical effects$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "A Plants Journey!",
+      "text": "$(br2)$(br2)You may find yourself picking $(#FFD700)marigolds$() swaying in the $(#32CD32)vast grasslands$(), seeking the faint glow of $(#87CEEB)glow berries$() in the $(#4B0082)depths of caves$(), or venturing into the $(#ADD8E6)snowy fields$() to pluck a legendary $(#F5FFFA)snow lotus$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)But $(#DAA520)harvesting flowers$() is only the beginning of the journey—the true secrets lie in $(#8B4513)tea brewing$(). Each flower, when $(#CD853F)carefully processed$(), can be infused into $(#6B8E23)distinctive floral teas$(). Some $(#00FA9A)banish fatigue$(), making steps feel lighter; others $(#DC143C)warm the blood$(), strengthening the body. Certain $(#9932CC)rare blooms$() may even grant $(#9400D3)heightened perception$(), or $(#FF1493)a fleeting glimpse into another world$()..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)This handbook will guide you through this world brimming with $(#228B22)vitality$() and $(#800080)mystery$(), teaching you how to $(#D2691E)harvest$(), $(#DAA520)dry$(), and $(#B8860B)brew$() flowers into $(#FF69B4)warm, rich tea$(). So even amidst your $(#4682B4)adventures$(), you can $(#FFD700)savor the gifts of nature$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)Embark on your $(#1E90FF)journey$(), and may this book lead you to the $(#FF69B4)fragrances$() and $(#8A2BE2)wonders$() of the world.$(br2)——Mod Author $(#6495ED)Royling$()"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Finding Flowers",
+  "icon": "lushscentedparadise:lily",
+  "category": "lushscentedparadise:basis",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#FFD700)Flowers bloom in their time, carried by the wind to different lands$(). Each $(#FF69B4)flower$() awaits a destined discoverer.\"$(br2)$(#FF69B4)Flowers$() are more than just $(#DAA520)decorations$(); they grow in $(#32CD32)varied environments$(), each with its own $(#00BFFF)unique ecological habits$(). To craft various $(#8B0000)teas$(), you must learn to $(#8A2BE2)observe your surroundings$() on your journey and seek out the $(#FF69B4)wondrous flowers$() hidden across the world. This chapter will guide you in $(#DAA520)effectively locating flowers$() and embarking on a $(#FF69B4)fragrant adventure$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Different Ecosystems",
+      "text": "$(br)Each $(#FF69B4)flower$() thrives in its own $(#32CD32)ecosystem$(), with $(#8B4513)terrain$() determining their appearance.$(br2)$(#32CD32)Plains & Meadows$(): The home of most $(#FF69B4)common flowers$(), including $(#4169E1)cornflowers$(), $(#FFD700)marigolds$(), $(#8A2BE2)perilla$(), and $(#8B4513)burdock$().$(#32CD32)Vast grasslands$() make them easy to spot, their $(#FF69B4)colorful petals$() adorning the landscape."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(#DAA520)Savannas & Deserts$(): The hot and dry climate nurtures $(#FF69B4)hibiscus$(), $(#FFD700)licorice$(), $(#D2691E)flax$(), and other drought-resistant plants. Their bright petals attract rare $(#FFD700)pollinators$().$(br2)$(#ADD8E6)Mountains & Snowfields$(): These cold regions are home to $(#F5FFFA)snow lotus$(), $(#FF69B4)gaura$(), and $(#DAA520)astragalus$(), $(#ADD8E6)hardy plants$() that withstand extreme cold. They are rare and valuable, requiring keen observation on $(#F5FFFA)snow-covered terrain$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(#00BFFF)Rivers & Swamps$(): Areas near $(#00BFFF)water sources$() often foster $(#FF69B4)jasmine$(), $(#6B8E23)verbena$(), and other $(#00BFFF)aquatic-dependent flowers$(). Walking along $(#00BFFF)riverbanks$() or $(#6B8E23)wetlands$() may reveal these $(#FF69B4)mist-veiled blooms$().$(br2)$(#228B22)Forests & Flowering Groves$(): $(#228B22)Forested environments$() are ideal for growing $(#FF0000)roses$(), $(#32CD32)mint$(), and $(#8B4513)poria mushrooms$(), often hidden beneath $(#006400)shaded canopies$(). You'll need to explore $(#228B22)deep into the woods$() to find them."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)Some $(#FF69B4)flowers$() are not found on the $(#8B4513)surface$(). They thrive in $(#8A2BE2)dark and damp$() conditions, such as $(#87CEEB)luminous berries$(), which can be spotted on $(#6A5ACD)vines$() in $(#4B0082)lush underground caves$(), their $(#FFD700)faint glow$() signaling their presence.$(br2)$(#8B0000)Dangerous Locations$(): Certain $(#FF69B4)flowers$() only grow in $(#8B0000)extreme conditions$(), such as the $(#4B0082)Wither Rose$(). These $(#4B0082)dark petals$() bloom only where $(#8B0000)life has fallen$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)Some $(#FF69B4)flowers$() can be $(#A9A9A9)grown with bone meal$(), such as $(#FF0000)roses$(), which can $(#FFD700)self-replicate$(). Using $(#A9A9A9)bone meal$() on $(#32CD32)grass blocks$() may sprout various $(#FF69B4)flowers$().$(br2)However, some $(#8B4513)wildflowers$() can only $(#FF0000)generate naturally$() and cannot be $(#8A2BE2)artificially cultivated$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(#FF69B4)Different flowers$() may require $(#FFD700)special harvesting methods$() to ensure $(#00BFFF)intact collection$() or avoid $(#8B0000)negative effects$().$(br2)Most $(#FF69B4)common flowers$() can be $(#8B4513)hand-picked$() without tools.$(br2)Some $(#FF69B4)delicate flowers and plants$(), like $(#32CD32)ferns$(), should be harvested with $(#A9A9A9)shears$() for $(#FFD700)better preservation$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br2)$(br2)When $(#FFD700)searching for specific flowers$(), refer to the $(#FF69B4)flower section$() of this guide to check their $(#00BFFF)exact growth locations$().$(br2)$(#FFD700)Flower hunting$() is not just about $(#228B22)collecting$(); it is also a $(#FF69B4)dialogue with nature$(). In the $(#32CD32)vast world$(), every $(#FF69B4)flower$() has its own $(#DAA520)story$() and $(#8B4513)way of thriving$(), waiting for you to $(#FFD700)discover$()."
+    }
+  ]
+}

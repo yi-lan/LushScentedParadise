@@ -1,0 +1,26 @@
+{
+  "name": "Espresso",
+  "icon": "lushscentedparadise:espresso",
+  "category": "lushscentedparadise:coffee",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "\"$(#8B4513)A small shot of espresso$(), yet it holds a $(#FFD700)deep and rich aroma$().\"$(br2)$(#8B4513)Espresso$(), also known as $(#DAA520)Espresso$(), is a $(#8B0000)highly concentrated coffee$() extracted quickly under pressure, known for its $(#FFD700)bold taste$() and $(#FF4500)strong caffeine content$().$(br)It can be enjoyed $(#DAA520)on its own$() or used as the $(#FF69B4)base for many coffee drinks$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:espresso",
+      "text": "Espresso is a $(#8B4513)quick and intense coffee$() that helps you $(#FFD700)stay alert$(), providing $(#DAA520)energy boosts$() during your $(#FF4500)adventures$().$(br2)It is made by grinding $(#8B4513)coffee beans$() and extracting the $(#8B0000)rich coffee essence$() under high pressure, resulting in a small cup of $(#DAA520)golden-brown liquid$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "To make a $(#DAA520)Espresso$(), you need to use a $(#8B4513)teapot$() or $(#FFD700)manual brewing$() method to extract the $(#8B0000)finely ground coffee$() under pressure.$(br)$(#FFD700)Classic Recipe$():$(br)· Grind $(#8B4513)coffee beans$() into a fine powder$(br)· Use a teapot to extract coffee with $(#FF4500)high temperature and pressure$()$(br)· The extracted coffee forms a $(#FFD700)crema (golden-brown foam layer)$() on top"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Espresso Features",
+      "text": "$(#FFD700)Effects when consumed$():$(br2)· $(#FF4500)Temporarily increases movement speed$()$(br)· $(#FFD700)Provides a short endurance boost$()$(br)· $(#A9A9A9)Slightly reduces hunger$() (due to caffeine metabolism acceleration)$(br2)$(#8B0000)Espresso is ideal for situations requiring high-intensity activity$() or when you need to $(#FFD700)stay awake for long periods$()."
+    }
+  ]
+}

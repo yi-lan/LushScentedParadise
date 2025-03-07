@@ -1,0 +1,27 @@
+{
+  "name": "丁香",
+  "icon": "minecraft:lilac",
+  "category": "lushscentedparadise:flower",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(#f77ee5)$(l)【庭前香雪】$()$(br2)“破晓时分的低语，凝结成簇簇淡粉烟云”,$(br2)丁香花小巧的圆锥花序由数十朵四瓣小花组成，淡粉色花瓣基部渐变为乳白，散发清甜的杏仁香气。其木质茎秆常被雕刻成护身符，传统认为挂在门廊可驱散梦魇，花香则能平息孩童的夜啼。（张辽也行）"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:lilac",
+      "text": "生长于森林与繁花森林的隐蔽角落，尤爱橡树荫下的微酸性土壤。每日黎明前，花萼会分泌晶莹蜜露，吸引早起的蜂鸟与蜜蜂，正午时分则闭合花瓣保存水分，直至日暮再度舒展。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:dried_lilac",
+      "text": "摘自某村庄长老的口述$(br)旧时新娘的捧花总要编入九枝丁香，当最后一片花瓣落地时，若指向南方，则预示姻缘长久；若被风卷向树梢，则需在庭院补种一株新苗——这是祖辈传下的朴素占卜，如今仍见老妇人依此教导孙辈。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:lilac_tea",
+      "text": "取带露水的丁香花序与蔗糖文火同煎，茶汤呈现柔和的珊瑚粉色，饮下时喉间似有春溪淌过，旧时樵夫常借此缓解山林湿气引发的关节酸痛。"
+    }
+  ]
+}

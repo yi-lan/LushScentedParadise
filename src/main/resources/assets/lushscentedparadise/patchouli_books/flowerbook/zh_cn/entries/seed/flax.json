@@ -1,0 +1,21 @@
+{
+  "name": "亚麻",
+  "icon": "lushscentedparadise:flax",
+  "category": "lushscentedparadise:seed",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "“细茎柔韧，花如星辰，织物之源，草原之韵。”$(br2)亚麻是一种耐旱的草本作物，广泛生长于萨瓦纳草原。它的蓝色花朵美丽而独特，不仅可用于观赏，其纤维还可用于制作织物，而花朵则可用于茶饮或染料提取。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:wild_flax",
+      "text": "野生亚麻主要生长在萨瓦纳草原，它们适应干旱气候，能够在贫瘠的土地上茁壮成长。旅人可以收集亚麻种子，进行人工种植，使其成为稳定的花卉和纤维来源。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "lushscentedparadise:flax",
+      "text": "成熟的亚麻植株会结出美丽的蓝色花朵，并可收获一把亚麻花。$(br)亚麻籽可用于泡茶，带来清爽的风味，也可作为染料或手工材料，是旅途中不可多得的资源。"
+    }
+  ]
+}
