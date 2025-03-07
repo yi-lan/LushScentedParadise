@@ -3,7 +3,7 @@
   "brew_time": 100,
   "ingredients": [
     {
-      "item": "minecraft:spore_blossom"
+      "item": "lushscentedparadise:dried_spore_blossom"
     },
     {
       "item": "minecraft:sugar"

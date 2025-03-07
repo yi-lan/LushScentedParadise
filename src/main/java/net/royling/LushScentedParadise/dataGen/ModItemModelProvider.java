@@ -6,7 +6,11 @@ import net.minecraft.world.item.Item;
 import net.minecraftforge.client.model.generators.ItemModelBuilder;
 import net.minecraftforge.client.model.generators.ItemModelProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
+import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.RegistryObject;
+import net.royling.LushScentedParadise.Botania.BotaniaFood.BotaniaFoods;
+import net.royling.LushScentedParadise.Botania.LSPBotaniaItems;
+import net.royling.LushScentedParadise.Item.coffee.ModCoffee;
 import net.royling.LushScentedParadise.LushScentedParadise;
 import net.royling.LushScentedParadise.Item.Flowertea.ModFoods;
 import net.royling.LushScentedParadise.Registry.ModItems;
@@ -138,6 +142,69 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.DRIED_LILAC);
         simpleItem(ModItems.DRIED_ROSE);
         simpleItem(ModItems.DRIED_PEONY);
+
+        simpleItem(ModItems.MUSIC_DISC);
+        simpleItem(ModItems.DRIED_WITHER_ROSE);
+        simpleItem(ModItems.DRIED_SPORE_BLOSSOM);
+        simpleItem(ModItems.DRIED_CACTUS);
+        simpleItem(ModItems.DRIED_COCOA_BEANS);
+        simpleItem(ModItems.COCOA_POWDER);
+        simpleItem(ModItems.DRIED_GLOW_BERRIES);
+        simpleItem(ModItems.DRIED_SWEET_BERRIES);
+
+        simpleItem(ModItems.FLOWER_BOOK);
+        simpleItem(ModItems.MORTAR_AND_PESTLE);
+
+        //植物魔法扩展
+        simpleItem(LSPBotaniaItems.DRIED_WHITE_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_ORANGE_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_MAGENTA_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_LIGHT_BLUE_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_YELLOW_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_GREEN_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_PINK_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_GRAY_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_LIGHT_GRAY_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_CYAN_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_PURPLE_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_BLUE_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_BROWN_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_RED_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_BLACK_PETAL);
+        simpleItem(LSPBotaniaItems.DRIED_LIME_PETAL);
+        simpleItem(LSPBotaniaItems.MANA_WATER);
+        simpleTeaItem(BotaniaFoods.ARCANA_TEA);
+        simpleTeaItem(BotaniaFoods.WHITE_DAISY_TEA);
+        simpleItem(ModItems.FLOWER_FERTILIZER);
+        simpleItem(ModItems.COFFEE_FRUIT);
+        simpleItem(ModItems.COFFEE_BEANS);
+        simpleItem(ModItems.DRIED_COFFEE_BEANS);
+        simpleItem(ModItems.COFFEE_POWDER);
+        simpleItem(ModItems.VANILLA_POD);
+        simpleItem(ModItems.VANILLA_SEEDS);
+        simpleItem(ModItems.DRIED_VANILLA_POD);
+        simpleItem(ModItems.MILK_FOAM);
+        simpleItem(ModItems.VANILLA_SYRUP);
+        simpleItem(ModCoffee.ESPRESSO);
+        simpleItem(ModCoffee.TRIESPRESSO);
+        simpleItem(ModCoffee.AMERICANO);
+        simpleItem(ModCoffee.LATTE);
+        simpleItem(ModCoffee.CAPPUCCINO);
+        simpleItem(ModCoffee.MOCHA);
+        simpleItem(ModCoffee.CARAMEL_MACCHIATO);
+        simpleItem(ModCoffee.ICED_AMERICANO);
+        simpleItem(ModCoffee.COLD_BREW);
+        simpleItem(ModCoffee.JASMINE_COFFEE);
+        simpleItem(ModItems.GINGER_POWDER);
+        simpleItem(ModItems.CREAM);
+        simpleItem(ModItems.BUTTER);
+        simpleItem(ModItems.GINGERBREAD_MAN);
+        simpleItem(ModItems.COOKED_GINGERBREAD_MAN);
+        simpleItem(ModItems.CHOCOLATE);
+
+
+
+
 
 
     }

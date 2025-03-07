@@ -8,8 +8,11 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.royling.LushScentedParadise.LushScentedParadise;
+import net.royling.LushScentedParadise.ModBlock.CoffeeTreeBlock;
 import net.royling.LushScentedParadise.ModBlock.DryingRack.DryingRackBlock;
 import net.royling.LushScentedParadise.ModBlock.TeapotBlock.TeapotBlock;
+import net.royling.LushScentedParadise.ModBlock.VanillaCropBlock;
+
 
 public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
@@ -23,8 +26,10 @@ public class ModBlocks {
             ()->new DryingRackBlock(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS).strength(1.0f)));
     /*public static final RegistryObject<Block> FLOWER_BASKET = BLOCKS.register("flower_basket",
             ()->new FlowerBasket(BlockBehaviour.Properties.copy(Blocks.OAK_PLANKS).strength(1.0F)));*/
-
-
+    public static final RegistryObject<Block> COFFEE_TREE = BLOCKS.register("coffee_tree",
+            () -> new CoffeeTreeBlock());
+    public static final RegistryObject<Block> VANILLA_CROP = BLOCKS.register("vanilla_crop",
+            VanillaCropBlock::new);
 
 
 

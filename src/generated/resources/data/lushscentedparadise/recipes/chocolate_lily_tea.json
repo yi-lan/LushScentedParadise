@@ -6,10 +6,10 @@
       "item": "lushscentedparadise:dried_lily"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     },
     {
-      "item": "minecraft:cocoa_beans"
+      "item": "lushscentedparadise:cocoa_powder"
     },
     {
       "item": "lushscentedparadise:milk"

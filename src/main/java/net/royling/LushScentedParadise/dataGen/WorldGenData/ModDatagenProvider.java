@@ -70,7 +70,9 @@ public class ModDatagenProvider extends DatapackBuiltinEntriesProvider {
                 new FlowerFeatureData("wild_burdock",ModFlowers.WILD_BURDOCK.get(),12,4,3,"flower"),
                 new FlowerFeatureData("wild_kudzu",ModFlowers.WILD_KUDZU.get(),12,4,2,"flower"),
                 new FlowerFeatureData("wild_poria",ModFlowers.WILD_PORIA.get(),12,4,2,"flower"),
-                new FlowerFeatureData("wild_flax",ModFlowers.WILD_FLAX.get(),12,4,3,"flower")
+                new FlowerFeatureData("wild_flax",ModFlowers.WILD_FLAX.get(),12,4,3,"flower"),
+                new FlowerFeatureData("wild_coffee",ModFlowers.WILD_COFFEE.get(),8,4,3,"flower"),
+                new FlowerFeatureData("wild_vanilla",ModFlowers.WILD_VANILLA.get(),8,4,3,"flower")
 
         );
         for (FlowerFeatureData flower : flowers) {
@@ -121,7 +123,10 @@ public class ModDatagenProvider extends DatapackBuiltinEntriesProvider {
                 new FlowerFeatureData("wild_burdock",ModFlowers.WILD_BURDOCK.get(),12,4,3,"flower"),
                 new FlowerFeatureData("wild_kudzu",ModFlowers.WILD_KUDZU.get(),12,4,2,"flower"),
                 new FlowerFeatureData("wild_poria",ModFlowers.WILD_PORIA.get(),12,4,2,"flower"),
-                new FlowerFeatureData("wild_flax",ModFlowers.WILD_FLAX.get(),12,4,3,"flower")
+                new FlowerFeatureData("wild_flax",ModFlowers.WILD_FLAX.get(),12,4,3,"flower"),
+
+                new FlowerFeatureData("wild_coffee",ModFlowers.WILD_COFFEE.get(),8,4,3,"flower"),
+                new FlowerFeatureData("wild_vanilla",ModFlowers.WILD_VANILLA.get(),8,4,3,"flower")
         );
         HolderGetter<ConfiguredFeature<?, ?>> configuredFeatures = context.lookup(Registries.CONFIGURED_FEATURE);
         for (FlowerFeatureData flower : flowers) {
@@ -194,7 +199,10 @@ public class ModDatagenProvider extends DatapackBuiltinEntriesProvider {
                 new BiomeFeatureData("wild_burdock","wild_burdock",List.of(Biomes.PLAINS,Biomes.MEADOW),"flower"),
                 new BiomeFeatureData("wild_kudzu","wild_kudzu",List.of(Biomes.PLAINS,Biomes.MEADOW,Biomes.SAVANNA),"flower"),
                 new BiomeFeatureData("wild_poria","wild_poria",List.of(Biomes.FOREST,Biomes.FLOWER_FOREST,Biomes.BIRCH_FOREST),"flower"),
-                new BiomeFeatureData("wild_flax","wild_flax",List.of(Biomes.SAVANNA),"flower")
+                new BiomeFeatureData("wild_flax","wild_flax",List.of(Biomes.SAVANNA),"flower"),
+
+                new BiomeFeatureData("wild_coffee","wild_coffee",List.of(Biomes.JUNGLE,Biomes.BAMBOO_JUNGLE,Biomes.SPARSE_JUNGLE),"flower"),
+                new BiomeFeatureData("wild_vanilla","wild_vanilla",List.of(Biomes.JUNGLE,Biomes.BAMBOO_JUNGLE,Biomes.SPARSE_JUNGLE),"flower")
         );
         HolderGetter<PlacedFeature> placedFeatures = context.lookup(Registries.PLACED_FEATURE);
         HolderGetter<Biome> biomes = context.lookup(Registries.BIOME);

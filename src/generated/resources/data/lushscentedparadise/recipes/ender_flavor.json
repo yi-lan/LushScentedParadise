@@ -3,7 +3,7 @@
   "brew_time": 400,
   "ingredients": [
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     },
     {
       "item": "minecraft:chorus_fruit"

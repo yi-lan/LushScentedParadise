@@ -17,6 +17,8 @@ import net.royling.LushScentedParadise.Registry.ModRecipeTypes;
 import java.util.List;
 import java.util.Objects;
 
+
+
 @JeiPlugin
 public class DryingJEI implements IModPlugin {
     @Override
@@ -30,7 +32,7 @@ public class DryingJEI implements IModPlugin {
     }
     @Override
     public void registerRecipeCatalysts(IRecipeCatalystRegistration registration) {
-        registration.addRecipeCatalyst(new ItemStack(ModBlocks.DRYING_RACK.get()),DryingRecipe.RECIPE_TYPE);
+        registration.addRecipeCatalyst(new ItemStack(ModBlocks.DRYING_RACK.get()), mezz.jei.api.recipe.RecipeType.create(LushScentedParadise.MODID,"drying",DryingRecipe.class));
     }
 
 

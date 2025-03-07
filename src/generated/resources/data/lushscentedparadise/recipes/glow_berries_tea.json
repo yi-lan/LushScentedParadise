@@ -3,10 +3,10 @@
   "brew_time": 200,
   "ingredients": [
     {
-      "item": "minecraft:glow_berries"
+      "item": "lushscentedparadise:dried_glow_berries"
     },
     {
-      "item": "minecraft:glow_berries"
+      "item": "lushscentedparadise:dried_glow_berries"
     },
     {
       "item": "lushscentedparadise:milk"

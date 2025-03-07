@@ -274,6 +274,16 @@ public class ModFlowers {
     public static final RegistryObject<Item> WILD_FLAX_ITEM = FLOWER_ITEMS.register("wild_flax",
             () -> new ItemNameBlockItem(ModFlowers.WILD_FLAX.get(), new Item.Properties()));
 
+    public static final RegistryObject<Block> WILD_COFFEE = FLOWERS.register("wild_coffee",
+            () -> new WildCropBlock(BlockBehaviour.Properties.copy(Blocks.GRASS_BLOCK).noCollission().strength(0.1f)));
+    public static final RegistryObject<Item> WILD_COFFEE_ITEM = FLOWER_ITEMS.register("wild_coffee",
+            () -> new ItemNameBlockItem(ModFlowers.WILD_COFFEE.get(), new Item.Properties()));
+
+    public static final RegistryObject<Block> WILD_VANILLA = FLOWERS.register("wild_vanilla",
+            () -> new WildCropBlock(BlockBehaviour.Properties.copy(Blocks.GRASS_BLOCK).noCollission().strength(0.1f)));
+    public static final RegistryObject<Item> WILD_VANILLA_ITEM = FLOWER_ITEMS.register("wild_vanilla",
+            () -> new ItemNameBlockItem(ModFlowers.WILD_VANILLA.get(), new Item.Properties()));
+
 
     public static void register(IEventBus eventBus){
         FLOWERS.register(eventBus);

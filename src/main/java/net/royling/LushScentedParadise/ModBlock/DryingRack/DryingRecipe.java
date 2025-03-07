@@ -16,8 +16,6 @@ public class DryingRecipe implements Recipe<SimpleContainer> {
     private final Ingredient input;
     private final ItemStack output;
     private final int dryingTime;
-    public static final mezz.jei.api.recipe.RecipeType<DryingRecipe> RECIPE_TYPE =
-            mezz.jei.api.recipe.RecipeType.create(LushScentedParadise.MODID,"drying",DryingRecipe.class);
     public DryingRecipe(ResourceLocation id,Ingredient input,ItemStack output,int dryingTime){
         this.id = id;
         this.input = input;

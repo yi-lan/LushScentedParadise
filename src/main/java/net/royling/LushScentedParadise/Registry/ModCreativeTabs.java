@@ -2,15 +2,25 @@ package net.royling.LushScentedParadise.Registry;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.fml.ModList;
 import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.royling.LushScentedParadise.Botania.BotaniaFood.BotaniaFoods;
+import net.royling.LushScentedParadise.Botania.LSPBotaniaItems;
+import net.royling.LushScentedParadise.Item.coffee.ModCoffee;
 import net.royling.LushScentedParadise.LushScentedParadise;
 import net.royling.LushScentedParadise.Item.Flowertea.ModFoods;
 import net.royling.LushScentedParadise.Item.newFlower.ModFlowers;
+import vazkii.patchouli.api.PatchouliAPI;
 
+import java.util.Objects;
+
+@SuppressWarnings("removal")
 public class ModCreativeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TAB_DEFERRED_REGISTER=
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, LushScentedParadise.MODID);
@@ -67,6 +77,11 @@ public class ModCreativeTabs {
                         pOutput.accept(ModFlowers.WILD_KUDZU_ITEM.get());
                         pOutput.accept(ModFlowers.WILD_PORIA_ITEM.get());
                         pOutput.accept(ModFlowers.WILD_FLAX_ITEM.get());
+
+                        pOutput.accept(ModItems.COFFEE_FRUIT.get());
+                        pOutput.accept(ModItems.VANILLA_SEEDS.get());
+                        pOutput.accept(ModFlowers.WILD_VANILLA.get());
+                        pOutput.accept(ModFlowers.WILD_COFFEE.get());
 
 
                         pOutput.accept(ModFlowers.SILENT_ORCHID_ABYSS.get());
@@ -160,6 +175,19 @@ public class ModCreativeTabs {
                         pOutput.accept(ModFoods.TURTLE_SHELL_LILY_TEA.get());
                         pOutput.accept(ModFoods.THE_EVOKERS_WRATH.get());
                         pOutput.accept(ModFoods.THE_DEVILS_CALL.get());
+                        pOutput.accept(ModCoffee.ESPRESSO.get());
+                        pOutput.accept(ModCoffee.TRIESPRESSO.get());
+                        pOutput.accept(ModCoffee.ESPRESSO.get());
+                        pOutput.accept(ModCoffee.TRIESPRESSO.get());
+                        pOutput.accept(ModCoffee.AMERICANO.get());
+                        pOutput.accept(ModCoffee.LATTE.get());
+                        pOutput.accept(ModCoffee.CAPPUCCINO.get());
+                        pOutput.accept(ModCoffee.MOCHA.get());
+                        pOutput.accept(ModCoffee.CARAMEL_MACCHIATO.get());
+                        pOutput.accept(ModCoffee.ICED_AMERICANO.get());
+                        pOutput.accept(ModCoffee.COLD_BREW.get());
+                        pOutput.accept(ModCoffee.JASMINE_COFFEE.get());
+
 
                     }))
                     .build());
@@ -168,16 +196,29 @@ public class ModCreativeTabs {
                     .icon(()->new ItemStack(ModItems.CLEAN_WATER.get()))
                     .title(Component.translatable("creative.lushscentedparadise.lushscentedparadise_other"))
                     .displayItems(((pParameters, pOutput) -> {
+
+                        if(ModList.get().isLoaded("patchouli")){
+                            ItemStack book = new ItemStack(Objects.requireNonNull(ForgeRegistries.ITEMS.getValue(new ResourceLocation("patchouli:guide_book"))));
+                            if(book!=null) book.getOrCreateTag().putString("patchouli:book", "lushscentedparadise:flowerbook");
+                            pOutput.accept(book);
+                        }
+
                         pOutput.accept(new ItemStack(ModBlocks.TEAPOT.get()));
                         pOutput.accept(new ItemStack(ModBlocks.FLOWER_TABLE.get()));
                         pOutput.accept(new ItemStack(ModBlocks.DRYING_RACK.get()));
                         pOutput.accept(new ItemStack(ModItems.CLEAN_WATER.get()));
                         pOutput.accept(new ItemStack(ModItems.DIRTY_WATER.get()));
                         pOutput.accept(new ItemStack(ModItems.MILK.get()));
+                        pOutput.accept(new ItemStack(ModItems.MILK_FOAM.get()));
+                        pOutput.accept(new ItemStack(ModItems.CREAM.get()));
+                        pOutput.accept(new ItemStack(ModItems.BUTTER.get()));
+                        pOutput.accept(new ItemStack(ModItems.VANILLA_SYRUP.get()));
                         pOutput.accept(new ItemStack(ModItems.ORIGINAL_FLOWER_SWORD.get()));
                         pOutput.accept(new ItemStack(ModItems.FLOWER_SWORD.get()));
                         pOutput.accept(new ItemStack(ModItems.FLOWER_BAG.get()));
                         pOutput.accept(new ItemStack(ModItems.SEED_BAG.get()));
+                        pOutput.accept(new ItemStack(ModItems.MUSIC_DISC.get()));
+                        pOutput.accept(new ItemStack(ModItems.FLOWER_FERTILIZER.get()));
 
 
                         pOutput.accept(new ItemStack(ModItems.DRIED_VIOLET.get()));
@@ -203,6 +244,7 @@ public class ModCreativeTabs {
                         pOutput.accept(new ItemStack(ModItems.DRIED_ASTRAGALUS_ROOT.get()));
                         pOutput.accept(new ItemStack(ModItems.DRIED_VERBENA_ITEM.get()));
                         pOutput.accept(new ItemStack(ModItems.DRIED_GINGER_ITEM.get()));
+                        pOutput.accept(new ItemStack(ModItems.GINGER_POWDER.get()));
                         pOutput.accept(new ItemStack(ModItems.DRIED_BURDOCK_ITEM.get()));
                         pOutput.accept(new ItemStack(ModItems.DRIED_KUDZU_ITEM.get()));
                         pOutput.accept(new ItemStack(ModItems.DRIED_PORIA_ITEM.get()));
@@ -217,6 +259,56 @@ public class ModCreativeTabs {
                         pOutput.accept(new ItemStack(ModItems.DRIED_LILAC.get()));
                         pOutput.accept(new ItemStack(ModItems.DRIED_ROSE.get()));
                         pOutput.accept(new ItemStack(ModItems.DRIED_PEONY.get()));
+                        pOutput.accept(new ItemStack(ModItems.DRIED_WITHER_ROSE.get()));
+                        pOutput.accept(new ItemStack(ModItems.DRIED_SPORE_BLOSSOM.get()));
+                        pOutput.accept(new ItemStack(ModItems.DRIED_CACTUS.get()));
+                        pOutput.accept(new ItemStack(ModItems.DRIED_COCOA_BEANS.get()));
+                        pOutput.accept(new ItemStack(ModItems.COCOA_POWDER.get()));
+                        pOutput.accept(new ItemStack(ModItems.DRIED_GLOW_BERRIES.get()));
+                        pOutput.accept(new ItemStack(ModItems.DRIED_SWEET_BERRIES.get()));
+
+
+                        pOutput.accept(new ItemStack(ModItems.MORTAR_AND_PESTLE.get()));
+                        pOutput.accept(ModItems.COFFEE_BEANS.get());
+                        pOutput.accept(ModItems.DRIED_COFFEE_BEANS.get());
+                        pOutput.accept(ModItems.COFFEE_POWDER.get());
+                        pOutput.accept(ModItems.VANILLA_POD.get());
+                        pOutput.accept(ModItems.DRIED_VANILLA_POD.get());
+                        pOutput.accept(ModItems.GINGERBREAD_MAN.get());
+                        pOutput.accept(ModItems.COOKED_GINGERBREAD_MAN.get());
+                        pOutput.accept(ModItems.CHOCOLATE.get());
+
+                    }))
+                    .build());
+
+    public static final RegistryObject<CreativeModeTab> BOTANIA = CREATIVE_MODE_TAB_DEFERRED_REGISTER
+            .register("lushscentedparadise_botania",()-> CreativeModeTab.builder()
+                    .icon(()->new ItemStack(LSPBotaniaItems.DRIED_GRAY_PETAL.get()))
+                    .title(Component.translatable("creative.lushscentedparadise.lushscentedparadise_botania"))
+                    .displayItems(((pParameters, pOutput) -> {
+                        if(ModList.get().isLoaded("botania")){
+                            pOutput.accept(LSPBotaniaItems.DRIED_RED_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_ORANGE_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_YELLOW_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_GREEN_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_LIGHT_BLUE_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_BLUE_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_PURPLE_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_MAGENTA_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_PINK_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_BLACK_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_WHITE_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_GRAY_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_LIGHT_GRAY_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_CYAN_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_BROWN_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.DRIED_LIME_PETAL.get());
+                            pOutput.accept(LSPBotaniaItems.MANA_WATER.get());
+                            pOutput.accept(LSPBotaniaItems.MANA_TEAPOT.get());
+
+                            pOutput.accept(BotaniaFoods.ARCANA_TEA.get());
+                            pOutput.accept(BotaniaFoods.WHITE_DAISY_TEA.get());
+                        }
                     }))
                     .build());
 

@@ -9,6 +9,7 @@ import net.royling.LushScentedParadise.LushScentedParadise;
 import net.royling.LushScentedParadise.ModBlock.DryingRack.DryingRackBlockEntity;
 import net.royling.LushScentedParadise.ModBlock.TeapotBlock.TeapotBlockEntity;
 
+
 public class ModBlockEntities {
     public static final DeferredRegister<BlockEntityType<?>> BLOCK_ENTITIES =
             DeferredRegister.create(ForgeRegistries.BLOCK_ENTITY_TYPES, LushScentedParadise.MODID);
@@ -20,6 +21,7 @@ public class ModBlockEntities {
     public static final RegistryObject<BlockEntityType<DryingRackBlockEntity>> DRYING_RACK  =
             BLOCK_ENTITIES.register("drying_rack",
                     ()-> BlockEntityType.Builder.of(DryingRackBlockEntity::new, ModBlocks.DRYING_RACK.get()).build(null));
+
 
 
     public static void register(IEventBus eventBus) {

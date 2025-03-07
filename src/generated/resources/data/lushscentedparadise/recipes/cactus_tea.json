@@ -3,10 +3,10 @@
   "brew_time": 200,
   "ingredients": [
     {
-      "item": "minecraft:cactus"
+      "item": "lushscentedparadise:dried_cactus"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     },
     {
       "item": "minecraft:sugar"

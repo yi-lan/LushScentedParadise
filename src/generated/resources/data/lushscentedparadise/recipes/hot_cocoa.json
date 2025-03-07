@@ -3,16 +3,16 @@
   "brew_time": 400,
   "ingredients": [
     {
-      "item": "minecraft:cocoa_beans"
+      "item": "lushscentedparadise:cocoa_powder"
     },
     {
-      "item": "minecraft:cocoa_beans"
+      "item": "lushscentedparadise:cocoa_powder"
     },
     {
       "item": "minecraft:sugar"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     }
   ],
   "result": {

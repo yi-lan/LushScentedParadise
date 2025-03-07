@@ -4,6 +4,8 @@ import net.minecraft.core.BlockPos;
 import net.minecraft.core.NonNullList;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.nbt.ListTag;
+import net.minecraft.network.Connection;
+import net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket;
 import net.minecraft.world.SimpleContainer;
 import net.minecraft.world.entity.item.ItemEntity;
 import net.minecraft.world.item.ItemStack;
@@ -28,7 +30,9 @@ public class DryingRackBlockEntity extends BlockEntity {
     public boolean addItem(ItemStack stack){
         for(int i =0;i<items.size();i++){
             if(items.get(i).isEmpty()){
-                items.set(i,new ItemStack(stack.getItem(),1));
+                ItemStack newstack = stack.copy();
+                newstack.setCount(1);
+                items.set(i,newstack);
                 dryingProgress[i] =0;
                 setChanged();
                 return true;
@@ -67,22 +71,28 @@ public class DryingRackBlockEntity extends BlockEntity {
         }
     }
     public void tick(){
-        for(int i = 0;i<SLOT_COUNT;i++){
-            ItemStack stack = items.get(i);
-            if(!stack.isEmpty()){
-                SimpleContainer container = new SimpleContainer(stack);
-                int finalI = i;
-                level.getRecipeManager()
-                         .getRecipeFor(ModRecipeTypes.DRYING_RECIPE.get(),new SimpleContainer(stack),level)
-                         .ifPresent(recipe->{
-                             if(dryingProgress[finalI]<recipe.getDryingTime()){
-                                 dryingProgress[finalI]++;
-                             }else {
-                                 items.set(finalI,recipe.assemble(container,level.registryAccess()));
-                                 dryingProgress[finalI]=0;
-                             }
-                             setChanged();
-                         });
+        if(!level.isClientSide){
+            if(level.isDay()&&level.canSeeSky(worldPosition.above())) {
+                for (int i = 0; i < SLOT_COUNT; i++) {
+                    ItemStack stack = items.get(i);
+                    if (!stack.isEmpty()) {
+                        SimpleContainer container = new SimpleContainer(stack);
+                        int finalI = i;
+                        level.getRecipeManager()
+                                .getRecipeFor(ModRecipeTypes.DRYING_RECIPE.get(), new SimpleContainer(stack), level)
+                                .ifPresent(recipe -> {
+                                    if (dryingProgress[finalI] < recipe.getDryingTime()) {
+                                        dryingProgress[finalI]++;
+                                        sync();
+                                    } else {
+                                        items.set(finalI, recipe.assemble(container, level.registryAccess()));
+                                        dryingProgress[finalI] = 0;
+                                        sync();
+                                    }
+                                    setChanged();
+                                });
+                    }
+                }
             }
         }
     }
@@ -132,11 +142,23 @@ public class DryingRackBlockEntity extends BlockEntity {
         return tag;
     }
     @Override
+    public ClientboundBlockEntityDataPacket getUpdatePacket() {
+        CompoundTag tag = new CompoundTag();
+        saveAdditional(tag);
+        return ClientboundBlockEntityDataPacket.create(this, (blockEntity) -> tag);
+    }
+    @Override
+    public void onDataPacket(Connection net, ClientboundBlockEntityDataPacket pkt) {
+        handleUpdateTag(pkt.getTag());
+    }
+
+    @Override
     public void handleUpdateTag(CompoundTag tag) {
         load(tag);
     }
     public void sync() {
         if (this.level != null && !this.level.isClientSide) {
+            this.setChanged();
             level.sendBlockUpdated(this.worldPosition, this.getBlockState(), this.getBlockState(), 3);
         }
     }

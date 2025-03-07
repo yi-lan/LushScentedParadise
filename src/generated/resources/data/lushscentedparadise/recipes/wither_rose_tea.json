@@ -3,10 +3,10 @@
   "brew_time": 400,
   "ingredients": [
     {
-      "item": "minecraft:wither_rose"
+      "item": "lushscentedparadise:dried_wither_rose"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     }
   ],
   "result": {

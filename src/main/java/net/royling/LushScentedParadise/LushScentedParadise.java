@@ -2,28 +2,27 @@ package net.royling.LushScentedParadise;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.gui.screens.MenuScreens;
-import net.minecraft.core.RegistryAccess;
-import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.data.tags.TagsProvider;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.FlowerPotBlock;
-import net.minecraft.world.level.levelgen.structure.pools.StructurePoolElement;
-import net.minecraft.world.level.levelgen.structure.pools.StructureTemplatePool;
 import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.event.server.ServerStartingEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.minecraftforge.registries.ForgeRegistries;
+import net.royling.LushScentedParadise.Botania.BotaniaFood.BotaniaFoods;
+import net.royling.LushScentedParadise.Botania.BotaniaTeapot.ManaTeapotScreen;
+import net.royling.LushScentedParadise.Botania.Reg.*;
+import net.royling.LushScentedParadise.Botania.LSPBotaniaItems;
 import net.royling.LushScentedParadise.Item.Flowertea.ModFoods;
 import net.royling.LushScentedParadise.Item.StorageBagItem.StorageBagScreen;
+import net.royling.LushScentedParadise.Item.coffee.ModCoffee;
 import net.royling.LushScentedParadise.Registry.*;
 import net.royling.LushScentedParadise.ModBlock.TeapotBlock.TeapotScreen;
 import net.royling.LushScentedParadise.Item.newFlower.ModFlowers;
@@ -60,8 +59,21 @@ public class LushScentedParadise
         ModFoods.register(modEventBus);
         ModVillagers.register(modEventBus);
         ModEffects.register(modEventBus);
+        ModSounds.SOUND_EVENTS.register(modEventBus);
+        ModEntities.register(modEventBus);
         //ModFlowers.register(modEventBus);
         // Register the commonSetup method for modloading
+        if(ModList.get().isLoaded("botania")) {
+            LSPBotaniaItems.register(modEventBus);
+            BotaniaRecipeTypes.RECIPE_TYPES.register(modEventBus);
+            BotaniaRecipeSerializers.SERIALIZERS.register(modEventBus);
+            BotaniaMenuTypes.MENUS.register(modEventBus);
+            BotaniaBlocks.BLOCKS.register(modEventBus);
+            BotaniaBlockEntities.BLOCK_ENTITIES.register(modEventBus);
+            BotaniaFoods.ITEMS.register(modEventBus);
+            BotaniaEffects.EFFECTS.register(modEventBus);
+        }
+        ModCoffee.COFFEES.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
 
@@ -112,7 +124,14 @@ public class LushScentedParadise
             event.enqueueWork(()->{
                 MenuScreens.register(ModMenuTypes.TEAPOT_MENU.get(), TeapotScreen::new);
                 MenuScreens.register(ModMenuTypes.STORAGE_BAG_MENU.get(), StorageBagScreen::new);
+                if(ModList.get().isLoaded("botania")) {
+                    MenuScreens.register(BotaniaMenuTypes.MANA_TEAPOT_MENU.get(), ManaTeapotScreen::new);
+                }
             });
+        }
+        @SubscribeEvent
+        public static void registerRenders(EntityRenderersEvent.RegisterRenderers event){
+            ModEntityRenderers.registerRenderers(event);
         }
     }
 }

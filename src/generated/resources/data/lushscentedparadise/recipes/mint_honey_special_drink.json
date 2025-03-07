@@ -3,7 +3,7 @@
   "brew_time": 200,
   "ingredients": [
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     },
     {
       "item": "lushscentedparadise:dried_mint_leave"

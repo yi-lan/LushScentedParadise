@@ -32,6 +32,8 @@ public class ModBlockStateProvider extends BlockStateProvider {
         wildCropBlockItem(ModFlowers.WILD_KUDZU.get(),"wild_kudzu");
         wildCropBlockItem(ModFlowers.WILD_PORIA.get(),"wild_poria");
         wildCropBlockItem(ModFlowers.WILD_FLAX.get(),"wild_flax");
+        wildCropBlockItem(ModFlowers.WILD_COFFEE.get(),"wild_coffee");
+        wildCropBlockItem(ModFlowers.WILD_VANILLA.get(),"wild_vanilla");
 
 
 

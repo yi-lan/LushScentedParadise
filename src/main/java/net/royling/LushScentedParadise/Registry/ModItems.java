@@ -1,14 +1,21 @@
 package net.royling.LushScentedParadise.Registry;
 
-import net.minecraft.world.item.BlockItem;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.SwordItem;
-import net.minecraft.world.item.Tiers;
+import net.minecraft.world.InteractionHand;
+import net.minecraft.world.InteractionResultHolder;
+import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.world.effect.MobEffects;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.food.FoodProperties;
+import net.minecraft.world.item.*;
+import net.minecraft.world.level.Level;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.royling.LushScentedParadise.Item.FlowerFertilizer;
 import net.royling.LushScentedParadise.Item.FlowerSword;
+import net.royling.LushScentedParadise.Item.Flowertea.tea;
+import net.royling.LushScentedParadise.Item.MortarAndPestleItem;
 import net.royling.LushScentedParadise.Item.StorageBagItem.FlowerBagItem;
 import net.royling.LushScentedParadise.Item.StorageBagItem.SeedBagItem;
 import net.royling.LushScentedParadise.LushScentedParadise;
@@ -27,6 +34,8 @@ public class ModItems {
             ()->new BlockItem(ModBlocks.FLOWER_TABLE.get(),new Item.Properties()));
     public static final RegistryObject<BlockItem> DRYING_RACK = ITEMS.register("drying_rack",
             ()->new BlockItem(ModBlocks.DRYING_RACK.get(),new Item.Properties()));
+
+
     public static final RegistryObject<Item> ORIGINAL_FLOWER_SWORD = ITEMS.register("original_flower_sword",
             ()->new SwordItem(Tiers.IRON,0,-3,new Item.Properties().stacksTo(1).durability(456)));
     public static final RegistryObject<Item> FLOWER_SWORD = ITEMS.register("flower_sword",
@@ -143,6 +152,79 @@ public class ModItems {
 
     public static final RegistryObject<Item> MILK = ITEMS.register("milk",
             ()->new Item(new Item.Properties().stacksTo(16)));
+    public static final RegistryObject<Item> MUSIC_DISC =
+            ITEMS.register("music_disc",()->new RecordItem(6,ModSounds.MUSIC_DISC,
+                    new Item.Properties().stacksTo(1).rarity(Rarity.RARE),1020));
+    public static final RegistryObject<Item> FLOWER_BOOK = ITEMS.register("flowerbook",()->new Item(new Item.Properties().stacksTo(1)){
+        @Override
+        public InteractionResultHolder<ItemStack> use(Level pLevel, Player pPlayer, InteractionHand pUsedHand) {
+            if(!pLevel.isClientSide){
+                return InteractionResultHolder.pass(pPlayer.getItemInHand(pUsedHand));
+            }
+            return InteractionResultHolder.success(pPlayer.getItemInHand(pUsedHand));
+        }
+    });
+    //1.1版本
+    public static final RegistryObject<Item> MORTAR_AND_PESTLE = ITEMS.register("mortar_and_pestle", ()->new MortarAndPestleItem(new Item.Properties().stacksTo(1).durability(64)));
+    public static final RegistryObject<Item> DRIED_WITHER_ROSE = ITEMS.register("dried_wither_rose",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> DRIED_SPORE_BLOSSOM = ITEMS.register("dried_spore_blossom",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> DRIED_CACTUS = ITEMS.register("dried_cactus",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> DRIED_COCOA_BEANS = ITEMS.register("dried_cocoa_beans",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COCOA_POWDER = ITEMS.register("cocoa_powder",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRIED_GLOW_BERRIES = ITEMS.register("dried_glow_berries",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> DRIED_SWEET_BERRIES = ITEMS.register("dried_sweet_berries",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> FLOWER_FERTILIZER = ITEMS.register("flower_fertilizer",()->new FlowerFertilizer(new Item.Properties().stacksTo(64)));
+
+    public static final RegistryObject<Item> COFFEE_FRUIT = ITEMS.register("coffee_fruit",
+            () -> new BlockItem(ModBlocks.COFFEE_TREE.get(),
+                    new Item.Properties().stacksTo(64)));
+    public static final RegistryObject<Item> COFFEE_BEANS = ITEMS.register("coffee_beans",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COFFEE_POWDER = ITEMS.register("coffee_powder",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRIED_COFFEE_BEANS = ITEMS.register("dried_coffee_beans",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> VANILLA_SEEDS = ITEMS.register("vanilla_seeds",
+            () -> new ItemNameBlockItem(ModBlocks.VANILLA_CROP.get(), new Item.Properties()));
+    public static final RegistryObject<Item> VANILLA_POD = ITEMS.register("vanilla_pod",
+            () -> new Item(new Item.Properties().food(new FoodProperties.Builder()
+                    .nutrition(1).saturationMod(0.3f).build())));
+    public static final RegistryObject<Item> DRIED_VANILLA_POD = ITEMS.register("dried_vanilla_pod",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MILK_FOAM = ITEMS.register("milk_foam",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> VANILLA_SYRUP = ITEMS.register("vanilla_syrup",
+            () -> new tea(new Item.Properties().stacksTo(16).food(new FoodProperties.Builder().nutrition(5).saturationMod(0.3f).build()),60));
+    public static final RegistryObject<Item> GINGER_POWDER = ITEMS.register("ginger_powder",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BUTTER = ITEMS.register("butter",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CREAM = ITEMS.register("cream",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> GINGERBREAD_MAN = ITEMS.register("gingerbread_man",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COOKED_GINGERBREAD_MAN = ITEMS.register("cooked_gingerbread_man",
+            () -> new Item(new Item.Properties().food(new FoodProperties.Builder().nutrition(8).saturationMod(0.6f)
+                    .effect(new MobEffectInstance(MobEffects.JUMP,1200,2),1f)
+                    .effect(new MobEffectInstance(MobEffects.LUCK,4800,1),1F).build())));
+    public static final RegistryObject<Item> CHOCOLATE = ITEMS.register("chocolate",
+            () -> new Item(new Item.Properties().food(new FoodProperties.Builder().nutrition(6).saturationMod(0.3f)
+                    .effect(new MobEffectInstance(MobEffects.REGENERATION,400,0),1f)
+                    .effect(new MobEffectInstance(MobEffects.LUCK,2400,0),1F).build())));
+
+
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);

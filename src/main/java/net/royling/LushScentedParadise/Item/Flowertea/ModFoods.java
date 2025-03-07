@@ -28,6 +28,8 @@ import java.util.List;
 public class ModFoods {
     /**
      * 所有的茶的食物属性
+     * 这破狗代码真的又臭又长
+     * 看不下去了，虽然是我自己写的
      */
     //蒲公英茶 速度3分钟
     public static final FoodProperties DANDELION_TEA_P = new FoodProperties.Builder()
@@ -89,12 +91,12 @@ public class ModFoods {
 
     // 发光浆果 glow berries
     public static final FoodProperties GLOW_BERRIES_TEA_P = new FoodProperties.Builder()
-            .nutrition(2).saturationMod(1f)
+            .nutrition(2).saturationMod(0.6f)
             .effect(() -> new MobEffectInstance(MobEffects.NIGHT_VISION, 3600, 0), 1.0F).build();
 
     // 甜浆果 sweet berries
     public static final FoodProperties SWEET_BERRIES_TEA_P = new FoodProperties.Builder()
-            .nutrition(2).saturationMod(0.4f)
+            .nutrition(4).saturationMod(0.6f)
             .effect(() -> new MobEffectInstance(MobEffects.REGENERATION, 160, 0), 1.0F).build();
 
     // 紫颂 chorus
@@ -104,21 +106,21 @@ public class ModFoods {
 
     // 蕨 fern
     public static final FoodProperties FERN_TEA_P = new FoodProperties.Builder()
-            .nutrition(1).saturationMod(1f)
+            .nutrition(4).saturationMod(0.4f)
             .effect(() -> new MobEffectInstance(MobEffects.POISON, 240, 0), 0.3F)
             .effect(() -> new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 600, 0), 0.7F)
             .build();
 
     // 孢子花 spore blossom
     public static final FoodProperties SPORE_BLOSSOM_TEA_P = new FoodProperties.Builder()
-            .nutrition(0).saturationMod(0f)
+            .nutrition(3).saturationMod(0.4f)
             .effect(() -> new MobEffectInstance(MobEffects.LEVITATION, 240, 0), 0.3F).build();
 
     // 仙人掌 cactus
     public static final FoodProperties CACTUS_TEA_P = new FoodProperties.Builder()
-            .nutrition(1).saturationMod(0.5f)
+            .nutrition(3).saturationMod(0.5f)
             .effect(() -> new MobEffectInstance(MobEffects.HARM, 1, 0), 0.4F)
-            .effect(() -> new MobEffectInstance(ModEffects.SAND_WALKER.get(), 360, 0), 1F)
+            .effect(() -> new MobEffectInstance(ModEffects.SAND_WALKER.get(), 3600, 0), 1F)
             .build();
 
     // 热可可 cocoa
@@ -329,8 +331,8 @@ public class ModFoods {
     // 尸山血海特饮 horror soup
     public static final FoodProperties HORROR_SOUP_P = new FoodProperties.Builder()
             .nutrition(6).saturationMod(0.8f)
-            .effect(() -> new MobEffectInstance(MobEffects.WITHER, 1200, 0), 1.0F)
-            .effect(() -> new MobEffectInstance(MobEffects.HUNGER, 1200, 0), 1.0F)
+            .effect(() -> new MobEffectInstance(MobEffects.WITHER, 900, 1), 1.0F)
+            .effect(() -> new MobEffectInstance(MobEffects.HUNGER, 1200, 3), 1.0F)
             .effect(() -> new MobEffectInstance(MobEffects.DAMAGE_BOOST, 2400, 1), 1.0F)
             .effect(() -> new MobEffectInstance(MobEffects.DAMAGE_RESISTANCE, 2400, 1), 1.0F)
             .effect(() -> new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 2400, 1), 1.0F)

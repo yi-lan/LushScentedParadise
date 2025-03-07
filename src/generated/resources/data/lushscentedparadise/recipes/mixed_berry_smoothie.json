@@ -3,13 +3,13 @@
   "brew_time": 200,
   "ingredients": [
     {
-      "item": "minecraft:sweet_berries"
+      "item": "lushscentedparadise:dried_sweet_berries"
     },
     {
-      "item": "minecraft:glow_berries"
+      "item": "lushscentedparadise:dried_glow_berries"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     },
     {
       "item": "minecraft:ice"

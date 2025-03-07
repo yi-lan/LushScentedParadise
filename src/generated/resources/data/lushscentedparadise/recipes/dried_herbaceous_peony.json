@@ -1,6 +1,6 @@
 {
   "type": "lushscentedparadise:drying",
-  "dryingTime": 200,
+  "dryingTime": 600,
   "input": {
     "item": "lushscentedparadise:herbaceous_peony"
   },

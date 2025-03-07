@@ -44,7 +44,7 @@ public class TeapotMenu extends AbstractContainerMenu {
 
                 @Override
                 public boolean mayPlace(@NotNull ItemStack stack) {
-                    return !stack.is(ModItems.CLEAN_WATER.get());
+                    return true;
                 }
             });
         }

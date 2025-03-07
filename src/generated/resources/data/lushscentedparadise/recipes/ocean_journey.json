@@ -12,7 +12,7 @@
       "item": "minecraft:nautilus_shell"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     }
   ],
   "result": {

@@ -3,7 +3,7 @@
   "brew_time": 200,
   "ingredients": [
     {
-      "item": "minecraft:wither_rose"
+      "item": "lushscentedparadise:dried_wither_rose"
     },
     {
       "item": "lushscentedparadise:dried_lily_of_the_valley"

@@ -4,6 +4,7 @@ import net.minecraft.advancements.critereon.StatePropertiesPredicate;
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.item.enchantment.Enchantment;
 import net.minecraft.world.item.enchantment.Enchantments;
 import net.minecraft.world.level.block.Block;
@@ -21,6 +22,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.RegistryObject;
 import net.royling.LushScentedParadise.Item.newFlower.ModFlowers;
 import net.royling.LushScentedParadise.Registry.ModBlocks;
+import net.royling.LushScentedParadise.Registry.ModItems;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.Set;
@@ -75,6 +77,10 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         dropWildCrop(ModFlowers.WILD_KUDZU.get(), ModFlowers.KUDZU_ITEM.get());
         dropWildCrop(ModFlowers.WILD_PORIA.get(), ModFlowers.PORIA_ITEM.get());
         dropWildCrop(ModFlowers.WILD_FLAX.get(), ModFlowers.FLAX_ITEM.get());
+        dropWildCrop(ModFlowers.WILD_COFFEE.get(), ModItems.COFFEE_FRUIT.get());
+        dropWildCrop(ModFlowers.WILD_VANILLA.get(), ModItems.VANILLA_SEEDS.get());
+        this.dropOther(ModBlocks.COFFEE_TREE.get(), Items.AIR);
+        this.dropOther(ModBlocks.VANILLA_CROP.get(), Items.AIR);
 
 
 

@@ -12,7 +12,7 @@
       "item": "minecraft:ice"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "lushscentedparadise:honey"
     }
   ],
   "result": {
